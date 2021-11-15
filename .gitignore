@@ -1,5 +1,5 @@
 # Mac
-.DS_Store/
+.DS_Store/*
 
 # Jupyter Notebooks
-.ipynb_checkpoints/
+.ipynb_checkpoints/*
