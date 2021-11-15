@@ -1,0 +1,18 @@
+High calculations:
+Mean: 160.18
+Median: 151.83
+Maximum: 232.86
+Minimum: 97.97
+
+Low calculations:
+Mean: 156.66
+Median: 148.98
+Maximum: 227.35
+Minimum: 93.96
+
+Volume calculations:
+Mean: 31820773.86
+Median: 27751400.00
+Maximum: 111242100.00
+Minimum: 8989200.00
+
