@@ -1,0 +1,312 @@
+Order Date  Delivery Date Stone Code length depth height length Edge Finished depth Edge Finished Order Number State Code Customer name and address
+2015/3/19  2015/4/19  M  12.6  9.5  5.225  2  2  NNX14AQ48G  Other  46      XIAOYANG ZHANG    BROOKINGS  	South Dakota  57007-0001  
+2015/3/1  2015/6/1  G  8.7  7.2  4.392  1  0  1463810  Other  25      Gregory Lewis  1050 Massachusetts Avenue  Cambridge  	Massachusetts  02138-5398  
+2015/4/22  2015/7/22  M  10.2  8.7  6.525  2  1  1458019  Other  25      Tommaso Melodia  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/11/18  2015/12/18  Q  19.1  7.3  5.694  2  0  1362855  Other  25      Julianna Tymoczko  10 ELM STREET  NORTHAMPTON  	Massachusetts  01063-6304  
+2015/10/4  2015/12/4  G  10  7.1  4.402  1  1  1432026  Other  17      Spyros Tragoudas  Ofc. of Sponsored Projects Admin  Carbondale  	Illinois  62901-4308  
+2015/1/2  2015/2/2  q  10.2  9.7  6.499  2  0  NNX14AQ58G  Other  25      ALAN MARSCHER    BOSTON  	Massachusetts  02215-1703  
+2015/5/16  2015/6/16  M  9.5  7.7  5.467  2  1  1354501  Other  25      John Noto  55 MIDDLESEX ST UNIT 210  NORTH CHELMSFORD  	Massachusetts  01863-1561  
+2015/2/10  2015/4/10  g  23.2  13.7  11.097  0  1  1443972  Other  17      Vijay G Subramanian  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/10/25  2016/1/25  m  5.1  5.1  2.652  2  2  1441695  Other  17      Hai Zhou  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/8/13  2015/10/13  M  9.9  8.5  5.865  0  2  1430899  Other  05      NHIEM H CAO  700 W Research Ctr Blvd Ste 1420  Fayetteville  	Arkansas  72701-7175  
+2015/1/7  2015/2/7  q  13.3  11.9  7.021  0  1  1427621  Other  29      Bradley S Evans  975 N. Warson Rd.  St. Louis  	Missouri  63132-2918  
+2015/3/13  2015/6/13  Q  17.9  16.7  11.189  2  1  1423379  Other  31      Ziguo Zhong  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/4/3  2015/5/3  q  8  7.4  4.884  2  1  1404330  Other  17      Benjamin J McCall  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/11/28  2016/2/28  Q  5.7  5.1  2.856  0  2  1452061  Other  25      Irena Vodenska  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/1/8  2015/4/8  M  9  5  3.4  2  0  1422236  Other  25      Marisa Wolsky  One Guest Street  Boston  	Massachusetts  02135-2016  
+2015/7/11  2015/8/11  g  19.9  11.1  8.325  1  2  1406337  Other  25      Xin Zhou  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/4/1  2015/7/1  q  22.6  5.8  4.408  1  2  1445384  Other  17      John L Sands  9000 West College Parkway  Palos Hills  	Illinois  60465-2478  
+2015/10/14  2015/11/14  Q  15.4  6.6  4.554  1  0  1442309  Other  17      Jack Gilbert  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/4/10  2015/5/10  g  15.5  5.1  3.366  2  2  1440761  Other  17      Rajkumar Kettimuthu  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/7/4  2015/8/4  M  15.3  12.6  9.45  0  1  1423455  Other  17      Romit Roy Choudhury  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/25  2015/12/25  Q  21  15.2  10.336  2  0  1440733  Other  17      William T Kramer  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/12  2015/12/12  G  14  6.9  4.209  2  1  1435665  Other  25      J. Thomas Farrar  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/1/12  2015/4/12  g  15.9  14.5  7.975  0  2  NNX14AP38G  Other  25      COLETTE HEALD    CAMBRIDGE  	Massachusetts  02139-4301  
+2015/2/2  2015/4/2  G  5.1  5  3.3  0  1  1451230  Other  17      Matthew Spenko  3300 South Federal Street  Chicago  	Illinois  60616-3732  
+2015/7/5  2015/8/5  G  23.8  12  7.68  1  1  1354593  Other  25      Diego Bernal  285 Old Westport Road  North Dartmouth  	Massachusetts  02747-2300  
+2015/10/6  2016/1/6  M  20.6  9.7  7.081  0  0  1423334  Other  17      Sibin Mohan  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/3/21  2015/6/21  g  21.7  15  10.2  2  1  1441075  Other  25      E. Paul Goldenberg  43 Foundry Avenue  Waltham  	Massachusetts  02453-8313  
+2015/3/20  2015/5/20  G  10.9  6  4.68  2  1  1421179  Other  25      Lawrence Bell  Science Park  Boston  	Massachusetts  02114-1099  
+2015/12/26  2016/2/26  G  20.4  12.4  8.804  2  0  1418020  Other  17      Bruce L Sherin  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/10/10  2016/1/10  M  25  23.2  18.792  0  2  NNX14AP42G  Other  25      DANIEL JACOB    CAMBRIDGE  	Massachusetts  02138-3846  
+2015/3/26  2015/4/26  M  16.5  14  7.28  0  2  1429699  Other  17      Shaowen Wang  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/9/27  2015/10/27  q  17.4  6.4  4.736  0  0  1440545  Other  29      Barth W Wright  1750 Independence Blvd  Kansas City  	Missouri  64106-1453  
+2015/6/1  2015/9/1  g  14.5  10.8  8.856  2  1  1418163  Other  25      Michelle Wilkerson-Jerde  20 Professors Row  Medford  	Massachusetts  02155-5807  
+2015/6/9  2015/9/9  Q  21.3  6.2  4.03  2  2  1362431  Other  29      Janet Braddock-Wilking  ONE UNIVERSITY BLVD  SAINT LOUIS  	Missouri  63121-4400  
+2015/5/6  2015/7/6  G  13.8  9.4  4.982  1  1  1451380  Other  17      Paris Smaragdis  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/4/1  2015/7/1  M  9.9  8.5  6.885  2  1  1441080  Other  46      Bentley Sayler  1200 University St  Spearfish  	South Dakota  57799-0001  
+2015/2/24  2015/3/24  Q  8.7  5.5  2.86  2  1  1413998  Other  25      Donald F Towsley  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/7/19  2015/9/19  G  15.7  6.5  5.005  1  0  1437257  Other  25      April Z Gu  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/3/10  2015/4/10  m  12.3  6.6  4.62  0  2  1443967  Other  17      Daniela Tuninetti  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/4/25  2015/6/25  g  7.4  6.8  4.08  2  1  1441057  Other  17      Nichole Pinkard  1 East Jackson Boulevard  Chicago  	Illinois  60604-2287  
+2015/10/18  2015/11/18  g  11.4  7.7  4.389  0  1  1451202  Other  25      Ian Wickersham  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/2/20  2015/4/20  M  10.8  8.3  5.229  1  0  1421780  Other  25      Ryan P Adams  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/1/22  2015/2/22  m  13.3  7.9  5.925  2  2  1354551  Other  17      Andrew L Hipp  4100 Illinois Rooute 53  Lisle  	Illinois  60532-1293  
+2015/10/2  2015/12/2  q  13.5  11.6  7.424  2  2  1422068  Other  25      Orit Shaer  106 Central Street  Wellesley  	Massachusetts  02481-8204  
+2015/4/9  2015/5/9  M  20.4  12.7  7.112  2  0  1449550  Other  25      Barbara B Berns  43 Foundry Avenue  Waltham  	Massachusetts  02453-8313  
+2015/10/24  2015/11/24  g  17.8  12.3  10.086  1  2  1344997  Other  17      J. Peter May  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/2/25  2015/4/25  M  22.4  13  8.84  1  2  1439378  Other  29      Megan L Hart  5100 Rockhill Road  Kansas City  	Missouri  64110-2499  
+2015/7/6  2015/10/6  G  15.4  14  9.52  2  0  1428873  Other  25      David A Reckhow  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/8/14  2015/11/14  g  5.8  5.6  3.304  2  2  1354072  Other  25      Karen M Warkentin  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/6/10  2015/7/10  G  18.5  9  6.93  2  2  1348522  Other  17      Cynthia L Fisher  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/9/28  2015/12/28  g  23.1  10.2  7.344  2  0  1404245  Other  25      Nergis Mavalvala  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/3/14  2015/6/14  m  17.1  7.6  6.156  0  2  1431118  Other  25      Lisa D Sanders  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/6/17  2015/9/17  g  5.9  5.9  4.484  2  1  1439865  Other  17      Christopher White  3300 South Federal Street  Chicago  	Illinois  60616-3732  
+2015/7/22  2015/10/22  g  23.8  12.9  6.579  1  0  NNX14AO84G  Other  25      SCOTT J GOETZ    FALMOUTH  	Massachusetts  02540-1644  
+2015/3/20  2015/5/20  M  19  17.5  13.3  2  0  1354935  Other  25      Thomas D Gilmore  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/10/25  2016/1/25  m  17.7  8.8  7.216  1  1  1356438  Other  25      James Hanken  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/4/4  2015/5/4  M  11.5  5.9  4.13  0  2  1413110  Other  25      Sarah Olson  100 INSTITUTE RD  WORCESTER  	Massachusetts  01609-2247  
+2015/5/22  2015/6/22  M  13  11.3  7.797  0  0  1354193  Other  17      Corrie S Moreau  1400 S LAKE SHORE DR  CHICAGO  	Illinois  60605-2827  
+2015/3/23  2015/5/23  m  24.7  19.2  14.4  0  1  1426968  Other  25      Holly A Yanco  600 Suffolk Street  Lowell  	Massachusetts  01854-3643  
+2015/12/26  2016/2/26  G  18.9  7.4  4.366  2  1  1443788  Other  17      Martin O Bohn  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/12/2  2016/2/2  Q  24.6  6.7  4.824  1  2  1448069  Other  25      Piotr Sliz  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/2/19  2015/4/19  m  11  7.9  4.108  1  0  1416432  Other  17      Boyd M Goodson  Ofc. of Sponsored Projects Admin  Carbondale  	Illinois  62901-4308  
+2015/12/19  2016/1/19  Q  12.8  5.4  4.266  1  1  1439156  Other  17      Henry Hoffmann  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/5/18  2015/7/18  q  13.1  6.1  3.843  2  1  1423755  Other  25      Daniel T Gilbert  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/6/22  2015/7/22  M  20.2  9.8  6.958  0  2  1455917  Other  25      Feng Zhang  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/3/19  2015/5/19  M  17.1  9.6  7.104  0  2  1404494  Other  25      Randall Davis  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/4/18  2015/6/18  m  8.9  8.6  6.622  1  0  1349156  Other  17      Jack Gilbert  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/5/9  2015/7/9  M  8  6.6  3.564  2  1  1404891  Other  17      Xiaohui Chen  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/9/6  2015/12/6  g  11.6  9.7  7.178  1  2  1414499  Other  25      Heidi M Nepf  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/6/19  2015/8/19  m  22.4  18.5  9.62  0  2  1409853  Other  20      Rongqing Hui  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/5/3  2015/8/3  m  5.2  5  3.65  0  2  1352729  Other  25      Sean B Andersson  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/5/5  2015/6/5  g  5.8  5.2  3.744  0  1  1434147  Other  17      Nadya Mason  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/11/3  2016/1/3  g  17.1  13.5  7.695  1  2  1431082  Other  20      Dorothy M Daley  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/1/26  2015/2/26  g  17.6  16.1  11.914  2  2  1427200  Other  17      Jeffrey C Ely  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/11/18  2015/12/18  G  10.7  5.7  4.446  1  2  1421247  Other  17      Marianne Winslett  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/5/13  2015/8/13  Q  18.6  17.5  10.675  0  2  1418052  Other  25      Sara J Lacy  2067 Massachusetts Avenue  Cambridge  	Massachusetts  02140-1339  
+2015/11/17  2016/1/17  M  22.8  16.3  12.551  0  2  1430427  Other  05      Gail Y McClure  900 West Capitol Avenue  Little Rock  	Arkansas  72201-3108  
+2015/10/6  2015/12/6  G  19.7  15.5  11.315  2  1  1339388  Other  17      Yoshie Hanzawa  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/8/2  2015/11/2  M  12.1  7.1  4.402  0  0  1422668  Other  31      Vinodchandran Variyam  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/10/1  2015/12/1  g  5.4  5.2  3.536  0  1  1446886  Other  46      George A Perry  Administration Lane  Brookings  	South Dakota  57007-0001  
+2015/8/10  2015/9/10  q  13.1  10.1  6.262  1  2  1359826  Other  25      Deborah G Martin  950 MAIN ST  WORCESTER  	Massachusetts  01610-1400  
+2015/7/2  2015/10/2  q  15.1  14.8  7.548  2  1  NNX14AM23G  Other  25      BRADLEY THOMSON    BOSTON  	Massachusetts  02215-1703  
+2015/5/8  2015/8/8  g  21.1  5.8  3.538  1  1  1421503  Other  17      Darko Marinov  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/11/22  2015/12/22  g  6  5.4  2.916  1  2  1429216  Other  25      Laura E Schulz  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/12/7  2016/2/7  m  12.5  6.7  4.69  1  1  1419029  Other  25      Bo Dong  285 Old Westport Road  North Dartmouth  	Massachusetts  02747-2300  
+2015/5/15  2015/6/15  Q  7.1  7  3.5  2  0  1437106  Other  17      Elif Ertekin  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/2/13  2015/5/13  g  16.7  8.7  4.872  0  2  1404455  Other  17      Brian C Odom  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/10/9  2015/12/9  M  14.2  7  3.85  0  1  1401035  Other  29      Carlo Morpurgo  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/10/17  2016/1/17  M  15.3  12.2  6.832  0  2  1428690  Other  29      David K Levine  ONE BROOKINGS DRIVE, CAMPUS BOX  SAINT LOUIS  	Missouri  63130-4899  
+2015/2/23  2015/5/23  G  6.8  5.7  4.389  1  0  1424422  Other  17      David Embrick  1032 W. Sheridan Road  CHICAGO  	Illinois  60660-1537  
+2015/10/12  2015/12/12  G  11.6  7  4.27  2  1  1447166  Other  25      Susan C Puryear  950 MAIN ST  WORCESTER  	Massachusetts  01610-1400  
+2015/6/3  2015/9/3  M  12  9.6  5.76  2  1  1440564  Other  17      Thomas McDade  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/7/5  2015/8/5  M  23  16.5  12.87  1  1  NNX14AN59G  Other  17      STEPHEN NESBITT    URBANA  	Illinois  61801-3620  
+2015/1/24  2015/4/24  M  18.8  10.1  6.969  0  1  1404976  Other  31      Gloria E Borgstahl  987835 Nebraska Medical Center  Omaha  	Nebraska  68198-7835  
+2015/4/17  2015/6/17  q  16.9  8.2  4.592  2  1  1420599  Other  17      David H Uttal  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/11/28  2016/2/28  M  6.1  5.6  3.752  0  0  1431926  Other  17      Ginevra A Clark  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/8/13  2015/10/13  M  13.7  5.6  3.304  0  0  1433510  Other  17      Lincoln Lauhon  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/12/4  2016/2/4  m  6.3  5.7  4.047  2  1  1438721  Other  17      Kimberly A Gray  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/7/24  2015/9/24  Q  19.3  11.3  7.232  0  1  1407819  Other  20      Zsolt Talata  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/9/10  2015/11/10  G  12.6  8.9  6.942  1  2  1431874  Other  31      Leen-Kiat Soh  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/8/18  2015/11/18  M  16.4  11  8.36  2  1  1436256  Other  29      Dwyane Smith  3026 Laclede Avenue  Saint Louis  	Missouri  63103-2136  
+2015/2/5  2015/3/5  g  15.5  9.2  7.452  0  2  1450079  Other  05      Dennis W Brewer  210 Administration Building  FAYETTEVILLE  	Arkansas  72701-1201  
+2015/4/15  2015/5/15  m  21.1  21  15.54  1  0  1401207  Other  25      Chelsea Walton  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/3/11  2015/4/11  g  20.8  7.9  4.977  1  0  1437113  Other  17      John G Georgiadis  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/2/28  2015/3/28  m  15.7  15.1  12.382  1  1  1438332  Other  31      Wei Niu  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/12/23  2016/2/23  g  14  11  8.69  0  2  NNX14AI55G  Other  25      LAURENCE S ROTHMAN    CAMBRIDGE  	Massachusetts  02138-1516  
+2015/10/27  2016/1/27  g  11.2  10.8  7.776  1  1  NNX14AN17A  Other  29      DAVID RIGGINS    ROLLA  	Missouri  65409-6506  
+2015/5/17  2015/6/17  g  18.7  6.3  3.15  1  0  1422798  Other  17      Sayan Mitra  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/7  2015/11/7  M  10.7  8.1  6.399  2  2  1405756  Other  17      Robert Findler  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/7/11  2015/8/11  m  11.7  11.4  6.156  0  1  NNX14AN64H  Other  25      PETER HUYBERS    CAMBRIDGE  	Massachusetts  02138-3846  
+2015/9/25  2015/12/25  m  13.1  12.2  8.052  0  0  NNX14AK30G  Other  29      ALEXANDER S BRADLEY    SAINT LOUIS  	Missouri  63130-4862  
+2015/3/19  2015/6/19  M  5.9  5.9  4.012  0  1  1419235  Other  25      Hyodae Seo  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/5/5  2015/6/5  M  13.4  11.7  7.254  2  0  1359530  Other  20      Wonpil Im  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/4/1  2015/5/1  g  5.2  5.2  2.6  0  2  1351807  Other  25      Bradley L Pentelute  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/5/7  2015/6/7  G  15.5  7  4.83  1  0  1410636  Other  25      Ju Li  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/1/2  2015/2/2  q  22.7  16.7  12.191  2  0  1408300  Other  17      John Dallesasse  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/8/27  2015/9/27  M  7.9  5.9  3.009  2  1  1439008  Other  25      Emery Berger  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/12/15  2016/1/15  q  13.7  11.6  9.396  1  2  1434876  Other  17      Richard J Finno  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/6/16  2015/7/16  M  19.6  13.4  9.782  2  2  1434560  Other  25      Peng Yin  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/12/18  2016/1/18  q  15.7  15.7  8.164  0  2  1411067  Other  17      Nadya Mason  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/3/4  2015/5/4  Q  13.5  9.5  6.27  1  2  1362616  Other  25      Cynthia M Friend  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/8/10  2015/9/10  q  7.1  6.1  3.172  0  2  1408345  Other  25      Christopher Wilson  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/10/1  2015/11/1  g  21  19.1  11.46  2  1  1420692  Other  25      Ronitt Rubinfeld  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/7/1  2015/9/1  M  9.2  8.5  5.525  2  2  1403293  Other  20      Audrey L Lamb  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/9/3  2015/12/3  M  7.7  5.1  4.029  0  2  NNX14AL41A  Other  25      ALEXANDER WYGLINSKI    WORCESTER  	Massachusetts  01609-2280  
+2015/7/1  2015/8/1  g  6.8  5.2  4.264  0  1  1434392  Other  17      Lin Li  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/5/19  2015/7/19  M  7.4  6.8  4.012  2  0  1420054  Other  29      Samson Tesfaye  820 Chestnut  Jefferson City  	Missouri  65102-0029  
+2015/5/6  2015/6/6  g  14.3  11.6  6.032  0  0  1402033  Other  20      Zakary Ratajczak    Manhattan  	Kansas  66502-5472  
+2015/1/19  2015/4/19  Q  22  20.5  12.505  0  0  1409093  Other  25      Bulbul Chakraborty  415 SOUTH ST MAILSTOP 116  WALTHAM  	Massachusetts  02453-2728  
+2015/1/4  2015/4/4  M  13  9.4  7.708  0  2  1409953  Other  17      Leslie H Allen  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/9  2015/11/9  M  14.7  5  3.5  0  2  1430614  Other  29      Lisa Y Flores  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/8/18  2015/10/18  m  15.8  13.6  6.936  2  2  1434512  Other  25      Amit Tandon  285 Old Westport Road  North Dartmouth  	Massachusetts  02747-2300  
+2015/2/4  2015/4/4  q  8.4  6.7  3.685  1  0  NNX14AM09H  Other  25      ERIK LEARNED-MILLER    AMHERST  	Massachusetts  01003-9242  
+2015/2/8  2015/4/8  g  16.9  14.7  9.555  1  1  NNX14AM43H  Other  25      JAMAL YAGOOBI    WORCESTER  	Massachusetts  01609-2280  
+2015/4/21  2015/7/21  M  23.3  21.1  13.504  0  0  NNX14AM42H  Other  25      OLIVIER DE WECK    CAMBRIDGE  	Massachusetts  02139-4301  
+2015/9/1  2015/11/1  m  7.5  5  3.95  1  1  1433953  Other  25      Kenneth H Brink  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/1/19  2015/4/19  m  18.7  8.6  6.794  1  1  1362477  Other  25      Irving R Epstein  415 SOUTH ST MAILSTOP 116  WALTHAM  	Massachusetts  02454-9110  
+2015/2/22  2015/5/22  q  10.8  8.1  5.751  2  0  1449644  Other  25      Antoine Allanore  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/6/16  2015/9/16  g  13.8  6.9  5.382  2  0  1446085  Other  25      Michael D Sorenson  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/7/12  2015/9/12  g  9.9  6.2  4.402  0  0  1422180  Other  25      Craig A Shue  100 INSTITUTE RD  WORCESTER  	Massachusetts  01609-2247  
+2015/6/27  2015/9/27  m  5.5  5.4  4.104  1  1  1400596  Other  17      Emily Weiss  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/4/27  2015/5/27  g  19.2  6.5  3.9  2  1  1361620  Other  17      Daesung Lee  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/6/6  2015/8/6  q  19.1  16.8  11.592  0  1  1400805  Other  25      Valier Galy  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/4/28  2015/7/28  G  6.9  6.7  3.551  0  2  1435602  Other  25      Ke Chen  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/3/7  2015/5/7  M  18.9  6.9  5.037  0  2  1449014  Other  31      Massimiliano Pierobon  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/5/27  2015/7/27  M  12.7  5.9  4.071  2  1  1424025  Other  17      Robert Launay  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/2/21  2015/4/21  m  13.6  6.2  5.022  0  2  NNX14AL23H  Other  46      MICHAEL WIMBERLY    BROOKINGS  	South Dakota  57007-0001  
+2015/9/7  2015/12/7  Q  18.8  16.6  12.118  1  2  1449148  Other  25      Jeremy Shakun  140 Commonwealth Avenue  Chestnut Hill  	Massachusetts  02467-3800  
+2015/6/11  2015/7/11  m  19.4  7.1  4.757  1  0  NNX14AJ34G  Other  25      CURTIS WOODCOCK    BOSTON  	Massachusetts  02215-1703  
+2015/11/17  2016/1/17  M  23.5  17.3  12.11  1  1  NNX14AK83H  Other  25      SUSAN SOLOMON    CAMBRIDGE  	Massachusetts  02139-4301  
+2015/9/2  2015/10/2  q  10.7  5  2.65  0  2  1363035  Other  25      Diana A Lados  100 INSTITUTE RD  WORCESTER  	Massachusetts  01609-2247  
+2015/5/5  2015/8/5  M  15.6  8.8  5.016  2  2  1407175  Other  17      Zhili Xiao  301 Lowden Hall  De Kalb  	Illinois  60115-2860  
+2015/4/17  2015/5/17  g  5.3  5.2  3.692  1  1  1434007  Other  25      Stephanie W Dutkiewicz  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/5/6  2015/6/6  g  23.7  5.5  2.97  2  0  1409586  Other  25      Pamela Silver  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/8/5  2015/10/5  m  23.9  10.1  6.06  2  2  1421575  Other  17      Grigore Rosu  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/6/20  2015/7/20  Q  13.9  13.3  6.783  1  1  1446451  Other  05      Stephen K Boss  210 Administration Building  FAYETTEVILLE  	Arkansas  72701-1201  
+2015/6/13  2015/7/13  q  18.3  7  5.74  2  0  1421871  Other  25      Nurit Haspel  100 Morrissey Boulevard  Dorchester  	Massachusetts  02125-3300  
+2015/4/28  2015/6/28  Q  10.9  9.6  6.528  0  0  1409106  Other  17      Pramod Viswanath  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/5/28  2015/8/28  m  17.8  16.5  11.055  2  1  1415403  Other  29      Jeffrey R Ferguson  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/7/22  2015/8/22  Q  15.4  6.4  3.648  0  0  1419672  Other  17      Mark W Hauser  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/4/3  2015/5/3  m  10.4  9.4  6.768  1  0  1422441  Other  25      Evangelos Kalogerakis  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/7/3  2015/10/3  M  17.3  12.5  8.25  0  0  1445347  Other  17      George K Thiruvathukal  1032 W. Sheridan Road  CHICAGO  	Illinois  60660-1537  
+2015/4/12  2015/5/12  m  5.8  5.3  4.081  2  1  1420380  Other  17      Carmen M Lilley  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/5/17  2015/7/17  G  22.9  21.2  13.78  0  1  1445364  Other  25      Robert D Howe  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/6/8  2015/9/8  M  17.4  8.3  6.474  2  0  1363221  Other  17      Jianmin Qu  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/12/26  2016/1/26  g  23.9  22.7  11.35  2  2  1418256  Other  25      Fiammetta Straneo  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/4/12  2015/7/12  m  22.5  7.2  5.472  0  1  1355916  Other  31      Matthew Van Den Broeke  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/4/24  2015/7/24  q  6.8  5.3  3.18  1  0  1421065  Other  25      Patrick H Winston  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/10/7  2016/1/7  q  11.1  9.6  7.488  0  0  1410751  Other  25      Neel S Joshi  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/12/22  2016/1/22  m  17.6  5.7  3.363  2  2  1406259  Other  17      Aaron C Naber  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/1/15  2015/3/15  m  11  6.5  3.315  1  2  1409754  Other  17      Joel Palka  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/5/23  2015/7/23  Q  5.4  5.2  4.056  1  0  1362541  Other  17      Vladimir Gevorgyan  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/6/12  2015/8/12  M  7.5  6.4  4.608  1  0  1403261  Other  25      Scott A Hughes  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/3/8  2015/4/8  g  20.7  7.1  5.112  1  1  1405602  Other  31      Wenliang Zhang  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/3/11  2015/6/11  g  19.9  16.1  8.372  0  1  1446233  Other  25      Doireann Fitzgerald  1050 Massachusetts Avenue  Cambridge  	Massachusetts  02138-5398  
+2015/5/10  2015/7/10  q  10.4  8.4  6.552  2  0  1354336  Other  29      Carolyn Sargent  ONE BROOKINGS DRIVE, CAMPUS BOX  SAINT LOUIS  	Missouri  63130-4899  
+2015/1/21  2015/4/21  m  10.7  7.7  5.775  2  0  1440427  Other  25      David Pesetsky  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/7/26  2015/8/26  M  14.2  9.3  5.58  0  1  NNX14AH99G  Other  29      CHARLES ICHOKU    KANSAS CITY  	Missouri  64110-2446  
+2015/12/14  2016/1/14  Q  10  5.9  4.071  1  1  1449143  Other  25      Luca Capogna  100 INSTITUTE RD  WORCESTER  	Massachusetts  01609-2247  
+2015/5/8  2015/7/8  q  17.3  13.5  9.855  1  1  1363012  Other  17      Karl F Freed  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/7/26  2015/9/26  g  22  11  6.05  1  2  1400769  Other  17      Loy R Phillippe  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/13  2015/12/13  q  12.4  6.2  4.216  0  2  1445710  Other  05      Robert Belford  2801 South University  Little Rock  	Arkansas  72204-1099  
+2015/4/23  2015/6/23  m  21  20.3  15.631  0  0  1405146  Other  17      Ilya Kapovich  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/1/8  2015/4/8  M  9  7.8  5.772  0  0  1411897  Other  20      Craig E Martin  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/4/7  2015/6/7  g  12.9  5.5  4.29  1  0  1407992  Other  25      Enrico Bellotti  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/10/1  2015/12/1  M  21  10  6.9  2  2  1314752  Other  46      Andrew K Alton  2001 S. Summit Ave.  Sioux Falls  	South Dakota  57197-0001  
+2015/9/1  2015/10/1  Q  11.6  9.8  6.86  0  2  1407554  Other  17      Antonio Auffinger  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/9/21  2015/12/21  Q  18.3  13.5  8.775  1  2  1444747  Other  17      William T Kramer  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/2/26  2015/4/26  M  12.5  10.9  6.867  0  2  1356985  Other  31      Kristen Olson  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/11/1  2016/2/1  g  13.2  11.3  8.927  0  2  1421051  Other  25      Stephen N Freund  880 Main St.  Williamstown  	Massachusetts  01267-2600  
+2015/7/11  2015/9/11  M  24.5  10.4  5.408  2  1  1414982  Other  25      Elaheh Kamaloo    Worcester  	Massachusetts  01609-2280  
+2015/1/10  2015/2/10  Q  7.1  6  3.9  1  2  1414735  Other  17      Kook I Han    Savoy  	Illinois  61874-9624  
+2015/9/19  2015/12/19  M  16.6  12  8.88  2  1  1412262  Other  20      Eric Deeds  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/8/13  2015/11/13  m  18.5  6.3  4.977  0  2  1354390  Other  31      Jay F Storz  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/12/9  2016/1/9  G  6.6  6.2  4.712  1  2  1414812  Other  29      Adrienne Johnson    Kansas City  	Missouri  64163-7303  
+2015/9/23  2015/11/23  Q  7.1  6.9  5.589  1  0  1443176  Other  25      Jessica E Tierney  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/5/11  2015/6/11  Q  8.9  6.9  4.83  0  1  1400597  Other  25      Teresa Jones  College Drive  Greenfield  	Massachusetts  01301-9739  
+2015/4/9  2015/6/9  G  8.5  5.3  4.346  2  0  1445676  Other  05      R. Panneer Selvam  210 Administration Building  FAYETTEVILLE  	Arkansas  72701-1201  
+2015/8/28  2015/11/28  g  9.7  9.3  5.766  2  1  1416215  Other  25      Thaddeus R Fulford-Jones  6 Breezy Point Road  Acton  	Massachusetts  01720-3420  
+2015/10/15  2016/1/15  m  9  9  7.02  2  0  1408989  Other  25      Liane Young  140 Commonwealth Avenue  Chestnut Hill  	Massachusetts  02467-3800  
+2015/3/9  2015/5/9  g  17.9  8.9  6.408  2  2  1414768  Other  25      Joel M Sarapas    Amherst  	Massachusetts  01002-1889  
+2015/9/12  2015/10/12  g  22.6  8.3  4.399  1  1  1358839  Other  25      Gabriel Kreiman  300 LONGWOOD AVENUE  BOSTON  	Massachusetts  02115-5737  
+2015/3/15  2015/5/15  M  9.9  9.7  7.566  0  2  NNX14AH85G  Other  25      ROBERT W HYERS    AMHERST  	Massachusetts  01003-9242  
+2015/12/12  2016/2/12  G  14.6  11.3  6.102  0  1  1444655  Other  17      Peter B Littlewood  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/5/9  2015/6/9  G  18.4  14.2  7.242  1  1  1413256  Other  17      Martin Gruebele  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/12/27  2016/2/27  M  21.1  15.5  11.935  2  1  1414906  Other  17      Jarel Gandhi    Chicago  	Illinois  60616-3793  
+2015/7/9  2015/10/9  G  8.3  5.1  3.162  0  2  1414894  Other  25      Levi H Dudte    Somerville  	Massachusetts  02144-3120  
+2015/8/11  2015/9/11  q  5.3  5.3  3.869  2  2  1414798  Other  17      Daniela H Palmer    Chicago  	Illinois  60615-4421  
+2015/2/22  2015/3/22  M  9.2  8.1  5.67  1  1  1414688  Other  25      Rachel A Letteri    Sunderland  	Massachusetts  01375-0003  
+2015/2/3  2015/3/3  Q  8.2  5.8  4.524  0  2  1441585  Other  20      K. Christopher Beard  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/12/11  2016/1/11  M  21.2  20.1  10.251  2  1  1428921  Other  25      Cosme Furlong-Vazquez  100 INSTITUTE RD  WORCESTER  	Massachusetts  01609-2247  
+2015/2/3  2015/4/3  g  24.2  16.6  9.462  2  0  1357139  Other  17      Andrew Orta  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/12/28  2016/2/28  M  16.4  11.9  9.163  1  1  1361173  Other  17      Regan J Thomson  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/7/14  2015/8/14  G  14.8  6.9  3.864  0  2  1441910  Other  17      Mark Westneat  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/7/23  2015/8/23  g  13.1  10.9  6.104  2  1  1404187  Other  29      Jason H Knouft  221 N. Grand Blvd.  St Louis  	Missouri  63103-2006  
+2015/5/26  2015/6/26  G  20.6  15.5  10.85  1  2  1442676  Other  25      Daniel L Distel  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/10/9  2015/12/9  q  8.9  8  5.52  0  0  1416066  Other  17      Dylan Tuttle  2023 W Carroll Ave Ste C201  Chicago  	Illinois  60612-1683  
+2015/7/22  2015/10/22  M  5.7  5.6  4.536  1  0  1415657  Other  25      alexey wolfson  10 Rocklawn rd  Westborough  	Massachusetts  01581-3994  
+2015/6/15  2015/9/15  Q  21.6  15.3  9.18  1  2  1415771  Other  17      Nhon Q Vo  7135 Laramie Ave  Skokie  	Illinois  60077-3479  
+2015/1/13  2015/2/13  G  9  8.8  6.864  2  2  1400618  Other  17      Laurence D Marks  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/10/28  2016/1/28  g  14.2  8.2  4.51  0  2  NNX14AH74G  Other  25      STEPHANIE JENOUVRIER    WOODS HOLE  	Massachusetts  02543-1536  
+2015/4/16  2015/5/16  g  17.9  10.6  8.268  2  0  1411887  Other  25      Brigitte M Holt  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/1/16  2015/3/16  g  23.1  20.9  15.048  0  1  1345307  Other  25      John W Byers  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/11/14  2015/12/14  Q  7.6  7.2  5.688  1  2  NNX14AG25G  Other  29      CHRISTINE FLOSS    SAINT LOUIS  	Missouri  63130-4862  
+2015/1/10  2015/3/10  Q  19.5  18.7  9.724  2  1  1401984  Other  25      Darien R Wood  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/2/6  2015/4/6  M  12.3  5.3  4.028  0  2  1419217  Other  20      Atanas G Stefanov  2385 IRVING HILL RD  LAWRENCE  	Kansas  66045-7568  
+2015/11/16  2016/1/16  q  20.6  7.8  5.772  1  2  1403973  Other  29      Ulrich D Jentschura  300 W 12th Street  Rolla  	Missouri  65409-6506  
+2015/10/23  2015/12/23  g  6.3  6.3  4.851  1  0  1405863  Other  25      Mark Finlayson  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/6/19  2015/8/19  Q  22.7  10.1  7.07  0  2  1154283  Other  25      Alan D Chave  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/5/19  2015/6/19  M  16.9  14.4  9.36  1  1  1441638  Other  17      Romit Roy Choudhury  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/9/14  2015/11/14  M  20.8  8.4  5.04  2  2  NNX14AH21G  Other  25      J. FARRAR    WOODS HOLE  	Massachusetts  02543-1536  
+2015/6/23  2015/9/23  G  19.3  12.7  7.239  1  1  1342112  Other  17      Eric Zaslow  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/11/9  2016/2/9  Q  17.8  9.4  6.204  2  1  1352326  Other  17      Eric A Chitambar  Ofc. of Sponsored Projects Admin  Carbondale  	Illinois  62901-4308  
+2015/8/9  2015/10/9  g  5.1  5.1  3.519  0  0  1427806  Other  25      Michael I Bergman  Alford Road  Great Barrington  	Massachusetts  01230-2499  
+2015/4/26  2015/5/26  m  8.2  7  5.39  1  2  1351961  Other  17      Alison Fout  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/7/17  2015/9/17  g  19.2  19  10.64  0  1  1351570  Other  31      Jung Yul Lim  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/5/28  2015/6/28  m  9.5  7.3  4.453  2  2  1439296  Other  29      Hongbin Ma  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/10/18  2016/1/18  Q  18.3  16.2  10.206  1  1  NNX14AG40G  Other  25      SAMUEL KOUNAVES    SOMERVILLE  	Massachusetts  02144-2401  
+2015/1/25  2015/2/25  M  11.8  7.8  4.914  0  1  1440574  Other  25      Douglas Densmore  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/9/4  2015/10/4  M  13.7  8.2  4.592  0  0  NNX14AE95H  Other  25      BENEDICT GROSS    CAMBRIDGE  	Massachusetts  02138-3846  
+2015/9/1  2015/10/1  g  6.5  6  4.68  1  1  1420212  Other  25      Michele Rucci  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/11/4  2016/2/4  g  11.9  5  3.2  2  2  NNX14AF80G  Other  25      MIN YUN    AMHERST  	Massachusetts  01003-9242  
+2015/12/12  2016/2/12  G  19.1  8  4  0  0  1406667  Other  05      Steven L Stephenson  210 Administration Building  FAYETTEVILLE  	Arkansas  72701-1201  
+2015/1/3  2015/2/3  G  17.7  13.8  8.142  2  1  1362022  Other  25      Christopher Niezrecki  600 Suffolk Street  Lowell  	Massachusetts  01854-3643  
+2015/12/15  2016/1/15  g  8  6.7  4.556  2  2  NNX14AF47A  Other  17      JOANNA M AUSTIN    URBANA  	Illinois  61801-3620  
+2015/3/2  2015/4/2  m  13.8  8.5  6.12  1  1  1362146  Other  17      Iwona Jasiuk  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/6/1  2015/9/1  Q  6.3  5.8  4.582  2  1  1353368  Other  17      Catalin Chiritescu  60 Hazelwood Drive  Champaign  	Illinois  61820-7460  
+2015/9/3  2015/10/3  z  22.7  9.6  7.776  2  1  1353246  Other  31      Kiel D Neumann  2124 Y St. Flat 101  Lincoln  	Nebraska  68503-2495  
+2015/10/26  2016/1/26  g  20.8  6.7  5.092  1  2  1439744  Other  25      Henry J Dick  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/6/13  2015/7/13  q  9.8  5  2.65  1  1  1246416  Other  25      Ralph A Stephen  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/5/15  2015/6/15  g  6.2  6.1  4.636  2  0  NNX14AF72G  Other  25      STEVEN H SAAR    CAMBRIDGE  	Massachusetts  02138-1516  
+2015/6/4  2015/7/4  g  23.6  10.1  6.565  0  2  1431372  Other  46      Sookie S Bang  501 East Saint Joseph Street  Rapid City  	South Dakota  57701-3995  
+2015/12/28  2016/2/28  M  15.8  5.8  4.756  0  2  NNX14AE94H  Other  25      CHRISTOPH PAUS    CAMBRIDGE  	Massachusetts  02139-4301  
+2015/8/24  2015/11/24  M  10.5  8.6  5.332  1  0  1358997  Other  29      Gavin C Conant  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/10/4  2015/11/4  Q  22.7  16.4  10.004  1  2  1354659  Other  20      John M Blair  2 FAIRCHILD HALL  MANHATTAN  	Kansas  66506-1103  
+2015/7/8  2015/10/8  m  6.2  5.1  2.652  2  0  1354407  Other  17      Carla E Caceres  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/3/25  2015/4/25  m  22.3  15.2  11.096  1  2  1439964  Other  05      Song Feng  210 Administration Building  FAYETTEVILLE  	Arkansas  72701-1201  
+2015/5/28  2015/7/28  Q  17.3  14.6  8.176  2  1  1350904  Other  25      Mac Schwager  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/6/26  2015/7/26  q  23.6  13.3  9.975  1  0  1404489  Other  17      Jian Cao  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/2/26  2015/4/26  g  6.1  6.1  4.453  0  1  1359242  Other  25      Alan D Christian  100 Morrissey Boulevard  Dorchester  	Massachusetts  02125-3300  
+2015/1/23  2015/2/23  g  10.3  8.3  5.478  2  2  1353980  Other  31      Brian H Bornstein  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/5/27  2015/8/27  M  15.6  13  7.02  0  1  1358296  Other  25      Seok (Andy) H Yun  Research Management  BOSTON  	Massachusetts  02114-2698  
+2015/12/6  2016/2/6  q  7.6  7.3  3.796  0  2  NNX14AE77H  Other  29      YUWEN ZHANG    COLUMBIA  	Missouri  65211-3020  
+2015/4/13  2015/5/13  g  7.2  5.1  3.825  0  2  1357874  Other  25      Fatih Guvenen  1050 Massachusetts Avenue  Cambridge  	Massachusetts  02138-5398  
+2015/9/12  2015/11/12  q  10.8  6.4  5.184  2  0  1357715  Other  25      Raphael Schoenle  415 SOUTH ST MAILSTOP 116  WALTHAM  	Massachusetts  02454-9110  
+2015/7/19  2015/8/19  M  6.7  6.3  4.851  0  1  1426171  Other  25      Karen S Quigley  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/1/12  2015/3/12  g  5.3  5.2  3.848  1  2  1350733  Other  25      Sharon Goldberg  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/12/12  2016/1/12  z  15.5  6.6  4.554  1  1  1348389  Other  05      Malathi Srivatsan  504 University Loop East  Jonesboro  	Arkansas  72401-1327  
+2015/3/18  2015/4/18  m  18.7  5  4.1  1  1  1430064  Other  17      Romit Roy Choudhury  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/9/27  2015/11/27  q  16.2  9.3  7.533  2  1  NNX14AD30G  Other  31      TSEGAYE TADESSE    LINCOLN  	Nebraska  68588-0009  
+2015/6/9  2015/8/9  g  15.3  8.4  6.384  2  0  1354251  Other  25      Sergio Fagherazzi  881 COMMONWEALTH AVE  BOSTON  	Massachusetts  02215-1300  
+2015/7/27  2015/9/27  G  24.9  13.8  10.074  0  2  1420162  Other  25      Sujoy Mukhopadhyay  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/9/23  2015/12/23  m  19.1  10  7.4  1  2  1353338  Other  25      Rhea Eskew  360 HUNTINGTON AVE  BOSTON  	Massachusetts  02115-5005  
+2015/5/22  2015/7/22  g  15.5  14.5  7.975  0  1  1355668  Other  25      Sylvia T Cole  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/12/12  2016/1/12  M  19.3  6.2  4.216  0  1  1352431  Other  17      Kyle N Plunkett  Ofc. of Sponsored Projects Admin  Carbondale  	Illinois  62901-4308  
+2015/5/25  2015/6/25  M  9.9  8  5.12  0  0  1353454  Other  17      Jonathan A Manton  60 Hazelwood Drive  Villa Grove  	Illinois  61820-7460  
+2015/2/4  2015/3/4  M  12.7  8.6  6.536  2  2  1351598  Other  17      Toru Shiozaki  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/7/21  2015/10/21  g  23.3  8.2  5.822  1  1  1411939  Other  25      Timothy D Zimmerman  893 West Street  Amherst  	Massachusetts  01002-3372  
+2015/7/21  2015/8/21  g  23.9  21  13.65  1  2  1357620  Other  17      John M Hansen  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  
+2015/4/25  2015/6/25  g  21.6  7.5  3.75  1  1  1419538  Other  25      Sameer Sonkusale  20 Professors Row  Medford  	Massachusetts  02155-5807  
+2015/11/5  2016/1/5  q  12.9  9.8  6.664  0  2  1352084  Other  25      Daniel L Jafferis  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/6/22  2015/8/22  q  12.5  10.2  6.528  0  1  NNX14AD56G  Other  46      IZAYA NUMATA    BROOKINGS  	South Dakota  57007-0001  
+2015/12/27  2016/1/27  g  6.3  5.3  2.968  2  2  1351959  Other  17      T. David Harris  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/6/20  2015/8/20  q  19.6  6  4.32  0  1  1419754  Other  31      BERTRAND CLARKE  312 N 14TH STREET  LINCOLN  	Nebraska  68588-0430  
+2015/9/19  2015/12/19  g  23  22.6  14.012  1  1  1339198  Other  29      James A Birchler  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/1/2  2015/3/2  G  21.6  20.1  13.266  2  2  1350396  Other  25      Dawei Chen  140 Commonwealth Avenue  Chestnut Hill  	Massachusetts  02467-3800  
+2015/6/17  2015/8/17  M  9.3  8.9  6.319  1  0  1350264  Other  25      Usman Khan  20 Professors Row  Medford  	Massachusetts  02155-5807  
+2015/3/22  2015/6/22  q  8.4  6.8  5.508  2  1  1355064  Other  25      Charles C Davis  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/5/13  2015/7/13  M  12.8  8.9  6.764  1  2  1350282  Other  25      Michelle Wilkerson-Jerde  20 Professors Row  Medford  	Massachusetts  02155-5807  
+2015/4/3  2015/7/3  Q  14.2  10.6  8.692  1  2  1350445  Other  25      Margaret SobkowiczKline  600 Suffolk Street  Lowell  	Massachusetts  01854-3643  
+2015/6/21  2015/8/21  q  23.2  10.6  6.996  1  0  1354043  Other  25      Kamaljit S Bawa  100 Morrissey Boulevard  Dorchester  	Massachusetts  02125-3300  
+2015/10/22  2016/1/22  M  13.1  12.2  9.394  0  2  1401145  Other  31      Mark E Walker  2200 Vine St, 151 Whittier  LINCOLN  	Nebraska  68583-0861  
+2015/5/28  2015/8/28  M  5.6  5  3.05  0  0  1351370  Other  17      Seok Kim  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/10/10  2015/11/10  g  15  6.9  4.209  2  2  1419448  Other  17      Kevin F Tucker  809 S MARSHFIELD RM 608  CHICAGO  	Illinois  60612-7205  
+2015/4/23  2015/6/23  G  23.1  6.2  3.1  2  2  1356747  Other  25      Daniel J Repeta  183 OYSTER POND ROAD  WOODS HOLE  	Massachusetts  02543-1041  
+2015/9/20  2015/12/20  m  9.3  8.5  5.185  0  2  1357224  Other  25      Edward A Boyle  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/1/9  2015/3/9  g  10.7  10.4  5.824  1  1  1359430  Other  29      Sashi Satpathy  310 JESSE HALL  COLUMBIA  	Missouri  65211-1230  
+2015/1/21  2015/4/21  m  22.1  7.4  5.18  0  2  1416825  Other  25      Levi Yant  1350 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02138-3846  
+2015/8/11  2015/10/11  M  12.3  7.4  4.736  0  1  1330562  Other  29      James C Carrington  975 N. Warson Rd.  St. Louis  	Missouri  63132-2918  
+2015/8/23  2015/10/23  q  22.1  22.1  13.481  2  1  1345105  Other  17      Eric C Ferre  Ofc. of Sponsored Projects Admin  Carbondale  	Illinois  62901-4308  
+2015/6/18  2015/9/18  Q  7.7  5.7  4.218  0  0  1345592  Other  17      Jonathan L Montgomery  1998 Ohio St.  Lisle  	Illinois  60532-2147  
+2015/11/23  2015/12/23  g  18  8.5  4.335  2  2  1351667  Other  17      Jeremy S Guest  SUITE A  CHAMPAIGN  	Illinois  61820-7473  
+2015/4/19  2015/7/19  g  8  6.6  3.696  1  0  1345240  Other  29      Todd E Sparks  6 Wilson Drive, Industrial Park  St. James  	Missouri  65559-1689  
+2015/8/21  2015/10/21  m  24.4  8.1  5.103  1  0  1351619  Other  25      Juan Pablo Vielma Centeno  77 MASSACHUSETTS AVE  Cambridge  	Massachusetts  02139-4301  
+2015/8/12  2015/9/12  m  9.2  6.5  3.51  0  0  1351744  Other  25      Joseph Bardin  Research Administration Building  AMHERST  	Massachusetts  01003-9242  
+2015/10/22  2015/12/22  g  11.5  7.8  4.68  2  1  NNX14AB40G  Other  25      NEVIN WEINBERG    CAMBRIDGE  	Massachusetts  02139-4301  
+2015/1/6  2015/3/6  G  15.7  9.4  6.392  1  1  1350764  Other  17      Darren R Gergle  1801 Maple Ave.  Evanston  	Illinois  60201-3149  
+2015/3/26  2015/5/26  M  18.8  10.4  6.448  1  1  NNX14AB25G  Other  29      ROBERT BINNS    SAINT LOUIS  	Missouri  63130-4862  
+2015/12/18  2016/1/18  g  12.1  11.5  8.05  0  2  1402509  Other  20      Sarah Reznikoff  2 FAIRCHILD HALL  MANHATTAN  	Kansas  66506-1103  
+2015/7/12  2015/8/12  M  19.8  8.8  7.216  2  0  1345571  Other  25      Robert W Hyers  6 C Gill St  Woburn  	Massachusetts  01801-1721  
+2015/9/9  2015/11/9  g  14.6  12.3  8.733  1  0  1313119  Other  17      Jacob L Bean  5801 South Ellis Avenue  Chicago  	Illinois  60637-5418  

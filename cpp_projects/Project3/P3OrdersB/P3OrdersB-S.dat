@@ -1,0 +1,332 @@
+Order Date  Delivery Date Stone Code length depth height length Edge Finished depth Edge Finished Order Number State Code Customer name and address
+2015/10/13  2015/11/13  m  21.1  20.1  13.668  1  2  NNX14AR30G  South  13      DEEPAK MISHRA    ATHENS  	Georgia  30602-5016  
+2015/12/12  2016/1/12  g  16.9  7.2  4.968  0  1  NNX14AR75G  South  12      BRIAN MAPES    KEY BISCAYNE  	Florida  33149-1031  
+2015/11/16  2016/1/16  Q  21.3  13  6.5  3  1  NNX14AR17A  South  12      JAYDEEP MUKHERJEE    ORLANDO  	Florida  32816-8005  
+2015/2/11  2015/5/11  Q  13.9  13.3  9.044  2  1  NNX14AQ01G  South  12      FALK AMELUNG    KEY BISCAYNE  	Florida  33149-1031  
+2015/1/22  2015/2/22  M  14.2  6.6  5.346  0  1  1354943  South  37      William A Hoffmann  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/1/24  2015/3/24  m  9.1  6.1  5.002  2  0  1446801  South  13      Umakishore Ramachandran  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/11/25  2015/12/25  g  16.7  5.4  3.834  2  0  1441754  South  13      Abhijit Chatterjee  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/3/8  2015/5/8  g  6  5.5  3.685  0  0  1443999  South  12      Ismail Guvenc  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/6/26  2015/9/26  m  12.9  9.8  7.938  0  0  1427213  South  12      Peter Neuhaus  40 S. Alcaniz St.  Pensacola  	Florida  32502-6008  
+2015/1/4  2015/3/4  G  20  6  3.66  2  1  1354610  South  37      Anne D Yoder  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/8/14  2015/11/14  Q  6.5  5.8  3.074  0  1  1449656  South  01      Juan C. Morales  P O Box 3030  Gurabo   00778-3030  
+2015/3/14  2015/5/14  M  21.4  6.1  3.172  0  0  NNX14AP87A  South  13      JONATHAN ROGERS    ATLANTA  	Georgia  30318-5775  
+2015/2/19  2015/4/19  m  19.3  17.3  12.283  2  1  1460319  South  01      Yong Zhang  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/6/9  2015/8/9  g  10.9  6.9  4.071  2  2  NNX14AP74G  South  13      RODNEY WEBER    ATLANTA  	Georgia  30318-5775  
+2015/7/17  2015/10/17  g  11.9  7.2  4.248  1  1  1460290  South  12      David C Kadko  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/8/8  2015/10/8  M  16.4  13.2  10.032  2  0  1426242  South  12      David J Cooper  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/1/28  2015/3/28  m  9.9  7  4.69  1  0  1427721  South  13      Seth Wenger  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/3/17  2015/6/17  G  18.4  17.9  11.814  0  2  1443914  South  12      Walid Saad  1320 S. Dixie Highway Suite 650  CORAL GABLES  	Florida  33146-2926  
+2015/9/17  2015/10/17  Q  21.4  18.6  11.346  2  2  1435424  South  37      Kenneth T Andrews  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/4/26  2015/6/26  M  19.9  6.2  4.464  0  2  1455404  South  37      Xipeng Shen  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/3/10  2015/5/10  g  8  7.8  5.382  2  2  1445546  South  01      Arunava Gupta  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/6/23  2015/8/23  Q  11.9  9.8  6.174  2  2  1423165  South  12      Yuguang Fang  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/1/7  2015/2/7  M  7.3  5.9  4.425  2  0  1450139  South  37      Zakiya S Wilson  1601 E. Market Street  Greensboro  	North Carolina  27411-0001  
+2015/7/12  2015/10/12  q  11.3  9.7  6.208  1  2  1418482  South  37      Tonya L Smith-Jackson  1601 E. Market Street  Greensboro  	North Carolina  27411-0001  
+2015/9/9  2015/11/9  Q  23.7  16.3  10.758  0  1  1414552  South  01      Babak Shotorban  301 Sparkman Drive  Huntsville  	Alabama  35805-1911  
+2015/12/12  2016/2/12  G  15.6  9  7.11  2  1  1440444  South  21      Chen Qian  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/7/1  2015/8/1  Q  24.4  5.6  3.472  1  1  1450501  South  12      Mika K Seppala  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/6/18  2015/9/18  g  11  10.4  7.384  2  0  1400437  South  21      Sherry L McCormack  300 North Main Street  Versailles  	Kentucky  40383-1245  
+2015/2/20  2015/4/20  g  17.1  9.8  5.096  2  2  1442909  South  37      Sankarasubraman Arumugam  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/7/16  2015/10/16  M  11.2  5  3.05  1  0  1407460  South  12      Zhihua Su  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/5/2  2015/8/2  M  12.6  9.1  4.641  0  0  1405767  South  45      Amy W Apon  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/6/13  2015/9/13  M  23.7  22  16.94  0  1  1402121  South  37      Lillian B Pierce  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/4/10  2015/6/10  g  10.3  10.3  7.107  2  2  1323055  South  12      John C Telotte  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/4/2  2015/5/2  G  18.5  12  8.88  2  1  1426945  South  13      Panagiotis Tsiotras  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/9/3  2015/10/3  g  6.8  6.2  3.472  2  0  1430187  South  13      David Ducrest  Riverbend South Research Bldg  Athens  	Georgia  30602-1511  
+2015/6/15  2015/8/15  q  5.1  5.1  3.366  0  0  1440728  South  12      Julio Ibarra  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/11/6  2016/2/6  G  17.9  9.5  5.7  1  0  1423260  South  12      Christine L Lisetti  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/12/3  2016/2/3  q  14.4  9.5  7.22  1  2  1408318  South  13      Maysam Ghovanloo  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/11/10  2016/2/10  M  7.7  6.2  4.34  0  0  NNX14AO43G  South  37      CHRISTOPHER OSBURN    RALEIGH  	North Carolina  27695-7003  
+2015/5/3  2015/8/3  g  5.8  5.7  3.477  0  0  1436572  South  01      Juarine Stewart  P O BOX 411  Normal  	Alabama  35762-0285  
+2015/10/20  2015/12/20  M  23.8  17.7  10.443  1  0  1450824  South  37      Spencer Smith  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/12/17  2016/1/17  G  13.7  12.6  7.56  1  0  1440045  South  47      Eric J Lentz  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/3/20  2015/5/20  g  14.8  9.5  5.605  1  1  1427688  South  37      Ketan D Mayer-Patel  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/1/2  2015/2/2  Q  16.1  5.6  3.92  2  1  1434402  South  12      John M Jaeger  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/1/22  2015/3/22  q  17.2  14.9  8.493  0  1  1434945  South  37      Ellen A Cowan  P.O. Box 32174  Boone  	North Carolina  28608-2174  
+2015/12/3  2016/2/3  m  20.2  12.6  9.702  1  0  1446983  South  12      Stephen Eikenberry  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/10/28  2015/11/28  m  25  16.4  10.988  2  2  1416238  South  01      Michael Bowman  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/8/22  2015/9/22  M  20.2  19.4  12.028  1  2  1438447  South  12      Jeffrey A Cunningham  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/2/9  2015/4/9  M  19.1  18  10.26  1  0  1362680  South  47      Jiahong Zhu  Dixie Avenue  Cookeville  	Tennessee  38501-3405  
+2015/7/3  2015/8/3  g  12.2  11.5  5.75  1  0  1436151  South  37      Stefano Curtarolo  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/7/18  2015/9/18  M  9  5.7  4.218  2  1  1404496  South  01      Clayton E Simien  AB 1170  Birmingham  	Alabama  35294-0111  
+2015/9/1  2015/11/1  g  15.5  13.8  7.452  1  1  1440588  South  37      Tracy Futhey  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/9/7  2015/12/7  M  21.9  6  4.14  2  0  1439532  South  37      Nichola J Lowe  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/6/27  2015/9/27  Q  11  8.6  6.278  1  2  1440821  South  12      Lisa V Milenkovic  600 Southeast 3rd Avenue  Fort Lauderdale  	Florida  33301-3125  
+2015/4/16  2015/6/16  M  15.1  9.9  5.346  2  0  1405847  South  37      Jan-Michael Frahm  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/3/12  2015/5/12  M  18.8  14.8  9.028  2  2  NNX14AN42A  South  37      XIAONING JIANG    RALEIGH  	North Carolina  27695-7003  
+2015/12/16  2016/1/16  g  13.5  6.5  3.38  0  1  1410200  South  01      Leslie R Goertzen  310 Samford Hall  Auburn  	Alabama  36849-5131  
+2015/2/24  2015/5/24  M  13.4  12.2  8.54  2  2  1410439  South  37      Alan S Weakley  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/2/26  2015/5/26  g  5.9  5.7  4.275  2  0  1435376  South  22      Kanchan Maiti  202 Himes Hall  Baton Rouge  	Louisiana  70803-2701  
+2015/5/12  2015/8/12  M  16.2  12.5  9.75  2  2  1411825  South  37      Thomas E Shriver  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/2/12  2015/3/12  Q  18.4  9.8  6.86  2  0  1407589  South  37      Nicholas Law  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/1/6  2015/2/6  g  9  7.6  5.396  0  1  1352311  South  12      Edwin J Mierkiewicz  Sponsored Research Adm  Daytona Beach  	Florida  32114-3900  
+2015/2/13  2015/3/13  M  19.9  17  12.75  1  2  1343020  South  37      Jeffery L Dangl  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/2/14  2015/5/14  q  10.1  6.5  5.265  0  2  1429937  South  12      Alfredo Weitzenfeld  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/2/3  2015/4/3  G  24  15.9  8.427  0  2  NNX14AO53G  South  12      JOHN CONKLIN    GAINESVILLE  	Florida  32611-0001  
+2015/11/12  2015/12/12  m  21.6  19.3  13.317  2  0  1404823  South  47      Sankaran Mahadevan  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/10/25  2015/11/25  g  22.7  17.5  12.775  2  2  1439659  South  47      Claudia J Rawn  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/5/24  2015/7/24  m  15.9  10.3  6.283  2  1  1407502  South  12      Peter J Hirschfeld  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/11/10  2015/12/10  q  9.7  6  4.56  0  1  1405754  South  13      Nicholas G Feamster  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/6/14  2015/7/14  M  23.4  19.2  9.6  1  2  1451473  South  47      Kevin L Tomsovic  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/4/8  2015/7/8  M  20.4  13.8  11.178  1  1  1437395  South  12      Tanmay P Lele  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/2/26  2015/4/26  M  14.2  5.6  4.368  2  1  1410873  South  37      Boyce E Griffith  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/3/3  2015/5/3  g  5.9  5.1  3.366  0  1  NNX14AO34G  South  13      JAMES WRAY    ATLANTA  	Georgia  30318-5775  
+2015/8/26  2015/9/26  q  21.4  9  5.85  2  0  1439675  South  12      Louis Cattafesta  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/3/25  2015/6/25  m  22.3  22.2  13.542  1  1  1450407  South  13      Douglas Yoder  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/1/2  2015/4/2  g  23  19.9  11.144  0  0  1440081  South  01      Sara J Graves  301 Sparkman Drive  Huntsville  	Alabama  35805-1911  
+2015/8/18  2015/9/18  Q  11.9  9.7  7.954  0  2  1437836  South  45      Mark Blenner  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/8/13  2015/9/13  M  6.7  6.7  4.757  1  1  1431975  South  37      Eric Ford  1111 Spring Garden Street  GREENSBORO  	North Carolina  27412-5013  
+2015/1/24  2015/4/24  g  11.8  10.9  5.45  1  1  1409807  South  13      Tielei Wang  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/3/15  2015/5/15  m  12.1  6.7  3.484  2  1  1356459  South  37      Jun-tao Guo  9201 University City Boulevard  CHARLOTTE  	North Carolina  28223-0001  
+2015/4/10  2015/7/10  Q  15.6  10.5  7.455  2  0  1430364  South  28      John A Hamilton  PO Box 6156  MISSISSIPPI STATE  	Mississippi  39762-9662  
+2015/8/28  2015/11/28  g  22.6  12.7  8.382  1  0  1400073  South  13      Yi Zhao  G76Dahlberg Hall 30 Courtland St  ATLANTA  	Georgia  30303-3999  
+2015/6/7  2015/7/7  M  18.1  18.1  11.765  2  1  1438861  South  47      Ambareen Siraj  Dixie Avenue  Cookeville  	Tennessee  38501-3405  
+2015/4/10  2015/5/10  q  23.3  7.5  5.85  1  1  1422811  South  21      Henry G Dietz  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/4/16  2015/5/16  Q  6.5  5.2  3.536  1  0  1417405  South  37      Brian L McGlynn  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/1/20  2015/4/20  q  14.4  10.4  7.072  2  0  1408846  South  37      Jun Yang  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/5/26  2015/7/26  m  15.3  11.4  5.928  2  0  1355438  South  21      Rodney J Andrews  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/3/1  2015/6/1  m  17.3  14.1  9.87  2  2  NNX14AO65G  South  01      KEVIN FUELL    HUNTSVILLE  	Alabama  35805-1911  
+2015/4/17  2015/6/17  G  10.3  6.5  3.575  0  0  1441223  South  12      Arif Sarwat  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/11/7  2015/12/7  q  14.7  13.2  8.58  1  2  1419744  South  45      David Melamed  Sponsored Awards Management  COLUMBIA  	South Carolina  29208-0001  
+2015/8/4  2015/9/4  g  14.7  6.2  3.658  0  2  1440599  South  45      Adam Hartstone-Rose  Sponsored Awards Management  COLUMBIA  	South Carolina  29208-0001  
+2015/12/17  2016/2/17  q  6.8  5  3.05  1  1  1439900  South  22      Peter A Sheppard  104 University Circle  Lafayette  	Louisiana  70503-2701  
+2015/2/11  2015/3/11  m  15.6  13.5  8.505  2  2  1429407  South  37      Scott Warren  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/2/14  2015/4/14  g  19.9  11.6  6.032  1  1  1409160  South  47      Andriy Kovalskyy  601 College Street  Clarksville  	Tennessee  37044-0001  
+2015/6/11  2015/8/11  M  20.4  16.6  13.612  2  2  1435260  South  21      Robert B Jewell  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/5/22  2015/8/22  g  19.7  5.2  3.068  2  2  1428311  South  45      C. Brannon Andersen  3300 Poinsett Highway  Greenville  	South Carolina  29613-1000  
+2015/3/11  2015/4/11  g  19.8  13  6.76  0  0  1434708  South  12      Nagaraj K Arakere  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/1/24  2015/3/24  M  8.7  6.9  4.623  0  2  1428681  South  37      Regis A Kopper  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/11/16  2016/2/16  g  9.5  8  4.48  1  1  1431415  South  13      Jennifer L Smith  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/12/11  2016/1/11  Q  16.3  7.1  5.609  1  0  1423189  South  45      Sophie Joerg  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/3/21  2015/5/21  g  15.6  13.4  9.782  1  2  1360442  South  37      Gregory W Characklis  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/5/11  2015/7/11  Q  24.6  21.9  14.235  2  2  1357223  South  37      Christopher Bail  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/6/18  2015/8/18  q  23.9  21.3  15.336  2  1  1427004  South  47      Lynne E Parker  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/9/3  2015/11/3  Q  15.1  13.3  10.108  1  2  1418511  South  13      Jimeng Sun  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/1/25  2015/3/25  g  22.4  13.7  10.412  1  0  1449440  South  12      Nancy H Marcus  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/6/26  2015/7/26  g  20.2  14.7  8.232  0  1  1429263  South  47      Jeffrey J Sable  650 East Parkway South  Memphis  	Tennessee  38104-5568  
+2015/7/20  2015/10/20  g  13.4  9.9  7.524  1  1  1432300  South  13      Mark Guzdial  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/10/1  2015/11/1  Q  21.1  9.9  6.336  2  0  1356233  South  12      Michael Georgiopoulos  4000 CNTRL FLORIDA BLVD  ORLANDO  	Florida  32816-8005  
+2015/8/24  2015/11/24  g  13.8  8.6  4.386  1  2  1409797  South  12      Shigang Chen  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/3/14  2015/6/14  G  10.8  8.6  4.644  1  0  NNX14AL89G  South  37      NICHOLAS MESKHIDZE    RALEIGH  	North Carolina  27695-7003  
+2015/4/27  2015/7/27  q  7.7  6.3  3.15  1  2  1362102  South  21      Dong-Sheng Yang  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/1/24  2015/3/24  m  22.3  16.1  11.27  0  1  1431641  South  37      Karen A Keene  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/12/18  2016/1/18  Q  14.8  8.9  4.895  2  2  1431544  South  21      Jeffrey Hieb  2301 S. Third St.  Louisville  	Kentucky  40208-1838  
+2015/1/20  2015/4/20  q  15.3  11.2  7.616  0  0  1436060  South  13      Abiodun Ojemakinde  504 College Drive  Albany  	Georgia  31705-2796  
+2015/4/12  2015/7/12  q  11.6  11.3  6.893  1  1  1432297  South  12      Gladis Kersaint  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/7/5  2015/10/5  M  11.5  9.5  5.605  2  1  1406396  South  37      Hubert L Bray  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/9/12  2015/12/12  z  17.7  12.4  8.308  0  2  1439751  South  13      Keenya G Mosley  State College Branch  Savannah  	Georgia  31404-9703  
+2015/11/13  2015/12/13  m  14.9  9.4  7.144  2  2  1362520  South  47      Robert J Hinde  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/10/4  2016/1/4  Q  24  18.7  15.147  1  1  NNX14AL39G  South  12      FALK AMELUNG    KEY BISCAYNE  	Florida  33149-1031  
+2015/8/21  2015/10/21  G  9.2  5.7  3.705  0  1  1354837  South  13      Julia Kubanek  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/4/5  2015/8/5  G  18.7  11.2  7.392  0  1  NNX14AL90G  South  37      KISHOR TRIVEDI    DURHAM  	North Carolina  27708-4677  
+2015/9/27  2015/11/27  M  20.5  16.2  11.664  2  1  1355569  South  37      Ashley Hagler  201 Highway 321 South  Dallas  	North Carolina  28034-9565  
+2015/2/23  2015/5/23  M  19.5  10.7  7.704  0  1  1422116  South  12      My T Thai  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/1/14  2015/2/14  q  17.5  10.4  6.136  1  1  1450511  South  37      Adrienne D Stiff-Roberts  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/7/6  2015/8/6  M  15.2  5.7  4.503  0  0  1437266  South  12      William M Landing  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/3/24  2015/5/24  g  5.8  5.2  3.744  1  1  1434941  South  47      Gisele R Goldstein  Administration 315  Memphis  	Tennessee  38152-3370  
+2015/10/4  2016/1/4  Q  6.2  5.2  4.056  0  0  1417446  South  37      Adrienne Erickcek  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/9/4  2015/12/4  M  23.2  19.7  13.199  1  2  1439866  South  47      Heather Johnson  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/11/4  2016/1/4  m  5.6  5.3  2.915  1  2  1428548  South  13      Ajit K MAHAPATRA  1005 State University Drive  Fort Valley  	Georgia  31030-4313  
+2015/12/26  2016/2/26  G  20.4  9  7.29  2  2  1400100  South  13      Mable Fok  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/1/1  2015/3/1  g  23.4  18.6  10.044  0  2  1437296  South  37      Christopher R Vermillion  9201 University City Boulevard  CHARLOTTE  	North Carolina  28223-0001  
+2015/3/27  2015/6/27  q  25  5.1  3.213  1  2  1407622  South  37      Scott C Schmidler  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/2/7  2015/5/7  g  11.3  10.1  6.868  0  0  NNX14AK14G  South  12      JAMIE FOSTER    GAINESVILLE  	Florida  32611-0001  
+2015/9/4  2015/10/4  M  10.3  7.2  3.816  2  0  1435649  South  37      Salil Desai  1601 E. Market Street  Greensboro  	North Carolina  27411-0001  
+2015/5/7  2015/8/7  g  10.6  6.4  4.8  0  2  1402140  South  37      Rodrigo A Olarte    Cary  	North Carolina  27511-3646  
+2015/9/27  2015/10/27  g  13.7  6.9  3.588  2  1  1356544  South  12      Lee Ann J Clements  2800 University Blvd N  Jacksonville  	Florida  32211-3321  
+2015/7/11  2015/8/11  G  7.9  5.8  4.292  0  0  1437384  South  47      Peter N Pintauro  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/2/28  2015/5/28  g  22  21.1  12.449  2  1  NNX14AM46H  South  47      ROBERT WELLER    NASHVILLE  	Tennessee  37203-2416  
+2015/12/18  2016/2/18  G  14.7  12.4  8.308  2  2  1420894  South  37      Carlo Tomasi  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/11/17  2016/2/17  g  10.7  7.6  4.56  0  0  NNX14AL28H  South  12      PETER MINNETT    KEY BISCAYNE  	Florida  33149-1031  
+2015/4/9  2015/5/9  g  11  9.8  6.664  1  1  1362924  South  37      Alexander Varchenko  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/12/21  2016/2/21  m  24.1  15.8  11.692  2  2  1341333  South  01      James B McClintock  AB 1170  Birmingham  	Alabama  35294-0111  
+2015/11/13  2016/2/13  Q  20.2  15.5  10.385  1  2  1425141  South  47      Norbert Ross  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/8/11  2015/11/11  g  5.8  5.1  3.111  0  2  1403105  South  22      Jonathan P Dowling  202 Himes Hall  Baton Rouge  	Louisiana  70803-2701  
+2015/3/8  2015/5/8  G  19.2  12.9  7.224  1  0  1418889  South  13      Michele Benzi  1599 Clifton Rd NE, 4th Floor  ATLANTA  	Georgia  30322-1620  
+2015/3/3  2015/5/3  g  9.4  7.6  6.004  0  0  1433763  South  37      Anantha Aiyyer  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/11/19  2016/1/19  g  21.8  17.1  8.721  2  1  1438092  South  01      Julia A Cherry  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/11/7  2016/1/7  q  12.1  12.1  9.801  1  0  1428072  South  37      Kathleen M Vogel  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/11/13  2016/2/13  g  12.1  10.7  7.276  1  2  NNX14AK92H  South  37      CONGHE SONG    CHAPEL HILL  	North Carolina  27599-5023  
+2015/10/16  2015/11/16  M  6.6  5.3  3.286  2  1  1410462  South  37      Yaroslava G Yingling  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/1/6  2015/3/6  M  13.3  8.5  6.46  0  1  1449211  South  13      Maysam Ghovanloo  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/6/15  2015/8/15  g  19.7  19.5  14.235  1  0  1410639  South  37      Lubos Mitas  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/12/20  2016/1/20  q  20.9  13.6  6.936  0  2  NNX14AJ87G  South  13      JENNIFER GLASS    ATLANTA  	Georgia  30318-5775  
+2015/10/22  2015/11/22  q  20.6  18.9  11.718  2  2  NNX14AK18G  South  12      PETER MINNETT    KEY BISCAYNE  	Florida  33149-1031  
+2015/10/8  2016/1/8  g  24.1  18.2  12.012  2  1  1354060  South  21      Stephen P Yanoviak  2301 S. Third St.  Louisville  	Kentucky  40208-1838  
+2015/7/25  2015/10/25  M  5.2  5.1  2.805  0  1  1447218  South  13      James P Werner  Building J - Room 377  Marietta  	Georgia  30060-2896  
+2015/4/25  2015/6/25  g  10.3  8.2  5.084  2  0  1356520  South  37      Mark A Melton  1315 Oakwood Avenue  Raleigh  	North Carolina  27610-2247  
+2015/4/2  2015/7/2  m  24.3  16.9  9.464  2  2  1423963  South  37      Charles Piot  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/9/22  2015/10/22  Q  22.7  5.2  3.848  1  1  1361219  South  01      Vladimir Florinski  301 Sparkman Drive  Huntsville  	Alabama  35805-1911  
+2015/9/16  2015/12/16  q  13.7  6.7  4.02  1  2  1440742  South  37      Douglas M Boyer  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/6/23  2015/8/23  M  19.1  12.8  7.168  0  2  NNX14AK77H  South  13      YI DENG    ATLANTA  	Georgia  30318-5775  
+2015/4/17  2015/5/17  g  5.1  5.1  2.805  0  0  1358088  South  12      Alex A Volinsky  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/7/8  2015/8/8  G  24.8  5.7  4.332  0  1  1400065  South  13      Robert E Guldberg  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/11/14  2016/2/14  m  20.8  16.3  12.877  0  0  1407067  South  12      Niki Pissinou  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/6/26  2015/8/26  M  22.4  14.7  8.967  0  1  1436749  South  12      Yongpei Guan  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/12/9  2016/2/9  M  6.4  6.4  5.248  1  1  1436452  South  12      Bo Zeng  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/8/24  2015/11/24  g  6.1  5.5  4.235  1  1  1436177  South  37      Osman Y Ozaltin  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/4/26  2015/6/26  g  20.6  8.3  5.478  1  2  1416973  South  12      Sarah E Kruse  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/1/23  2015/2/23  G  21.6  9.2  5.06  1  2  1412442  South  12      Bryan Kolaczkowski  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/7/12  2015/10/12  m  20.4  9.1  5.46  1  0  1436015  South  37      Henri P Gavin  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/3/2  2015/6/2  m  6.7  6  3.18  2  0  1403167  South  22      Henry S Ashbaugh  6823 ST CHARLES AVENUE  NEW ORLEANS  	Louisiana  70118-5698  
+2015/6/20  2015/8/20  m  23.9  10.9  7.739  0  0  1448213  South  12      Connie J Mulligan  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/11/15  2016/2/15  M  14  11.7  6.903  0  2  1403525  South  12      Kevin D Belfield  4000 CNTRL FLORIDA BLVD  ORLANDO  	Florida  32816-8005  
+2015/1/28  2015/3/28  m  18.9  11.9  6.188  2  0  1410475  South  37      Yong Zhu  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/6/4  2015/7/4  G  12.9  12.6  8.19  1  1  1434025  South  37      Heather A Smith  9201 University City Boulevard  CHARLOTTE  	North Carolina  28223-0001  
+2015/2/21  2015/4/21  M  8.3  5.3  3.975  2  1  1411672  South  13      Diana M Downs  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/10/19  2016/1/19  Q  13  9.9  7.029  1  1  1361178  South  13      Henry F Schaefer III  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/4/17  2015/5/17  M  18.9  12.8  7.68  1  1  1406695  South  13      Sonia M Altizer  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/11/2  2015/12/2  M  9.3  7.7  4.62  2  2  1363483  South  37      Gabriel P Lopez  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/1/28  2015/3/28  G  7.4  6.2  4.092  1  2  1404139  South  28      Marco Cavaglia  100 BARR HALL  UNIVERSITY  	Mississippi  38677-1848  
+2015/8/19  2015/10/19  M  17.8  5  3.9  1  0  1420175  South  37      Patricia Johann  P.O. Box 32174  Boone  	North Carolina  28608-2174  
+2015/5/27  2015/6/27  m  7.4  6.7  3.618  2  2  1446343  South  13      Kim M Cobb  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/4/6  2015/7/6  q  5.9  5.6  3.024  1  2  1412155  South  21      Gary J Ferland  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/3/13  2015/4/13  G  16.4  6.5  3.705  0  0  NNX14AI45G  South  12      JENNIFER BONIN    TAMPA  	Florida  33620-9951  
+2015/12/23  2016/2/23  g  12.7  7.7  4.851  1  0  1406380  South  13      Kirsten Wickelgren  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/7/5  2015/10/5  g  20  18.7  10.285  0  0  1430792  South  37      Donna J Nash  1111 Spring Garden Street  GREENSBORO  	North Carolina  27412-5013  
+2015/3/4  2015/4/4  g  24.4  24.3  16.524  0  2  1416665  South  37      Zackary I Johnson  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/12/25  2016/1/25  G  6.9  5.7  4.161  2  0  1443314  South  47      Keivan G Stassun  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/2/21  2015/4/21  g  8.4  6.4  3.584  0  1  1442131  South  45      Geoff Wang  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/4/11  2015/5/11  g  9.6  5  2.8  1  2  1403872  South  28      Scott M Thompson  PO Box 6156  MISSISSIPPI STATE  	Mississippi  39762-9662  
+2015/1/23  2015/3/23  m  10.5  7.6  4.788  1  1  1418999  South  13      Sebastien Lepine  G76Dahlberg Hall 30 Courtland St  ATLANTA  	Georgia  30303-3999  
+2015/6/26  2015/8/26  q  15.2  6.2  5.084  0  0  1415300  South  37      Kevin Gross  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/12/9  2016/2/9  q  9.4  5  3.95  0  2  1408464  South  13      Gregory D Durgin  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/3/11  2015/6/11  m  18.1  6.7  3.618  0  2  1404714  South  45      Frank H Thorne  Sponsored Awards Management  COLUMBIA  	South Carolina  29208-0001  
+2015/12/5  2016/2/5  g  10.6  9  6.03  2  0  1354088  South  13      Phillip M Wolff  1599 Clifton Rd NE, 4th Floor  ATLANTA  	Georgia  30322-1620  
+2015/6/19  2015/7/19  g  8.2  7.3  3.723  2  1  1438834  South  12      Ayivi G Huisso  15800 N W 42nd Avenue  Miami  	Florida  33054-6199  
+2015/3/13  2015/4/13  m  5.5  5.2  4.212  1  1  1361501  South  12      Scott A McCullough  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/4/4  2015/6/4  g  13.1  10.6  6.784  0  0  1441885  South  13      Christopher L Atchison  G76Dahlberg Hall 30 Courtland St  ATLANTA  	Georgia  30303-3999  
+2015/4/18  2015/7/18  g  6.7  6.4  3.456  2  1  1443815  South  13      Yogendra K Joshi  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/4/27  2015/7/27  m  7.5  6.9  3.588  0  1  1400616  South  13      Natalie J Nannas    Athens  	Georgia  30605-4552  
+2015/2/23  2015/3/23  Q  11.9  10  6  0  2  1415008  South  47      Opal R Leonard    Murfreesboro  	Tennessee  37132-0001  
+2015/11/19  2015/12/19  M  10.6  7.3  5.694  2  2  1414618  South  47      Andrew M Druckrey    Knoxville  	Tennessee  37996-2313  
+2015/4/22  2015/6/22  G  21.7  12.3  8.856  2  0  1414920  South  45      Erin Partlan    Anderson  	South Carolina  29625-6510  
+2015/7/3  2015/10/3  G  9.6  5.6  4.424  2  0  1332516  South  45      Angela W Peters  400 Magnolia Street  orangeburg  	South Carolina  29115-0000  
+2015/12/17  2016/2/17  g  13.3  7.2  5.832  1  2  1414947  South  13      Shelly Bagchi    Atlanta  	Georgia  30308-1249  
+2015/2/23  2015/3/23  g  8.5  5  4.1  1  0  1414943  South  12      Danielle Simmons    Tallahassee  	Florida  32311-1274  
+2015/3/13  2015/6/13  M  13.6  6.8  5.1  1  0  1414888  South  12      Timothy Keiper    Tallahassee  	Florida  32303-3204  
+2015/10/27  2015/11/27  g  15.3  15.3  7.956  1  0  1408711  South  12      Peter M Finocchio    Miami  	Florida  33133-4416  
+2015/3/11  2015/6/11  G  19.5  12.2  7.93  0  1  1414902  South  47      Joel B Corush    Knoxville  	Tennessee  37996-1610  
+2015/2/27  2015/5/27  Q  20.4  8  5.92  2  1  NNX14AH69G  South  01      CONNOR BALLANCE    AUBURN  	Alabama  36849-0001  
+2015/4/11  2015/7/11  M  15.3  6.6  3.366  1  0  1409587  South  13      Yonas Tekle  350 Spelman Lane S W  Atlanta  	Georgia  30314-4399  
+2015/9/26  2015/11/26  m  15.4  9.5  7.22  0  0  1402515  South  45      Todd Shaw  Sponsored Awards Management  COLUMBIA  	South Carolina  29208-0001  
+2015/1/7  2015/3/7  Q  15.1  14.3  8.866  0  2  1403750  South  21      Bruce J Hinds  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/8/5  2015/9/5  G  6.7  6.6  3.894  0  1  1415972  South  37      Ivan Howitt  1800 Camden Road  Charlotte  	North Carolina  28203-4690  
+2015/11/5  2016/1/5  m  7.1  5.6  3.416  2  2  1416133  South  45      Longfei Ye  112 Land Stone Circle  Irmo  	South Carolina  29063-9260  
+2015/4/14  2015/7/14  m  18.5  13  7.67  0  0  1401677  South  12      David P Janos  1320 S. Dixie Highway Suite 650  CORAL GABLES  	Florida  33146-2926  
+2015/6/15  2015/7/15  M  18.4  13.6  8.432  2  0  1403345  South  12      Kunal Mitra  150 W UNIVERSITY BLVD  MELBOURNE  	Florida  32901-6975  
+2015/12/26  2016/2/26  Q  14.5  6.8  4.352  2  2  1410223  South  12      Brent S Sumerlin  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/8/16  2015/9/16  q  8  7.9  4.503  2  1  1406650  South  12      Pamela S Soltis  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/11/15  2015/12/15  g  17  11.5  9.085  2  2  NNX14AI04A  South  12      TIM DURHAM    PALM BAY  	Florida  32905-3377  
+2015/12/27  2016/2/27  g  11.9  5.1  3.264  2  0  1409034  South  47      Mark D Dadmun  1 CIRCLE PARK  KNOXVILLE  	Tennessee  37996-0003  
+2015/7/17  2015/10/17  g  25  12.4  8.06  1  0  1405599  South  01      Jeffrey D Lozier  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/8/27  2015/10/27  q  9.3  8.5  6.63  2  0  1406932  South  22      Robb T Brumfield  202 Himes Hall  Baton Rouge  	Louisiana  70803-2701  
+2015/10/10  2015/12/10  Q  12.4  6.5  3.9  0  1  1401725  South  37      Carl C Koch  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/11/15  2016/2/15  M  22.8  17.2  8.6  2  2  1354783  South  12      Matthew J Cohen  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/9/1  2015/11/1  g  22.7  19.3  10.229  2  1  1350998  South  37      Gerald A LeBlanc  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/8/20  2015/10/20  G  21.5  10  7.1  0  2  1444314  South  12      Mark B Bush  150 W UNIVERSITY BLVD  MELBOURNE  	Florida  32901-6975  
+2015/9/24  2015/11/24  Q  12.7  8  6.56  0  0  1345283  South  37      Xiaowei Yang  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/6/16  2015/9/16  M  14.6  13  9.88  2  0  1353857  South  13      Vanessa O Ezenwa  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/6/19  2015/7/19  M  20.6  16.2  9.558  2  2  1400017  South  12      Arash Takshi  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/8/10  2015/10/10  G  11.8  10.8  7.02  1  1  1435511  South  12      Kunal Mitra  150 W UNIVERSITY BLVD  MELBOURNE  	Florida  32901-6975  
+2015/1/23  2015/2/23  M  10.1  6.2  4.898  1  1  1443024  South  37      Karen S McNeal  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/6/5  2015/7/5  g  18.3  14  7.56  1  0  NNX14AH05G  South  01      MICHAEL NEWCHURCH    HUNTSVILLE  	Alabama  35805-1911  
+2015/11/2  2016/1/2  M  23.5  5.2  4.004  1  2  1441163  South  13      Alexandra Boldyreva  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/3/22  2015/4/22  m  8.3  6.4  3.456  1  1  1407645  South  37      Sergei S Sheiko  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/6/17  2015/7/17  z  19.8  11.7  7.956  1  2  1431085  South  12      Eugene W Domack  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/12/18  2016/2/18  g  22  18.8  12.032  1  1  NNX14AF43G  South  01      JAKOBUS A LE ROUX    HUNTSVILLE  	Alabama  35805-1911  
+2015/10/7  2015/12/7  g  8.9  8.9  6.141  1  1  NNX14AG45G  South  12      ANDREW SCHUERGER    GAINESVILLE  	Florida  32611-0001  
+2015/6/12  2015/9/12  q  12.8  6.6  4.554  0  0  1350829  South  13      Khalid Salaita  1599 Clifton Rd NE, 4th Floor  ATLANTA  	Georgia  30322-1620  
+2015/10/21  2016/1/21  g  10.7  8  5.6  0  1  1439650  South  37      Susan Sell  9201 University City Boulevard  CHARLOTTE  	North Carolina  28223-0001  
+2015/7/15  2015/10/15  m  17.9  7.3  3.796  1  0  1404639  South  37      Jan Genzer  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/10/6  2015/12/6  Q  19.6  5.5  4.18  0  2  1354879  South  37      Justin P Wright  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/7/21  2015/8/21  M  19.6  16.9  13.351  1  0  1349741  South  37      Richard Kay  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/12/12  2016/1/12  g  18.7  5.7  3.99  1  1  1440163  South  12      Reza Abdolvand  4000 CNTRL FLORIDA BLVD  ORLANDO  	Florida  32816-8005  
+2015/5/14  2015/6/14  q  7  6.4  3.328  2  1  1348777  South  47      Akram Aldroubi  Office of Sponsored Programs  NASHVILLE  	Tennessee  37240-7830  
+2015/10/9  2016/1/9  M  8.5  6.3  4.095  2  2  NNX14AG70G  South  12      MARK Q MARTINDALE    GAINESVILLE  	Florida  32611-0001  
+2015/3/12  2015/5/12  m  22.6  18.2  14.196  0  0  1361532  South  13      Eva K Lee  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/9/16  2015/10/16  M  22.1  11.8  9.676  1  0  1353755  South  13      Steven P Lewis  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/12/19  2016/2/19  g  5.9  5.7  4.047  0  0  1353502  South  45      Bonan Li  1225 Laurel Street  Columbia  	South Carolina  29201-5818  
+2015/5/2  2015/6/2  g  18.4  9.6  5.76  0  1  1405665  South  22      Christopher C Austin  202 Himes Hall  Baton Rouge  	Louisiana  70803-2701  
+2015/12/7  2016/1/7  g  8.7  5.7  4.161  0  0  1353411  South  12      Paul H Holloway  5036 Dr. Phillips Blvd. #319  Orlando  	Florida  32819-3310  
+2015/8/24  2015/10/24  g  14.7  8.5  5.355  2  2  1351524  South  12      Jonathan Clark  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/7/12  2015/10/12  M  9.6  9.3  7.533  0  1  1439963  South  12      Carlos Rinaldi  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/10/3  2015/12/3  g  5.5  5.2  3.328  1  0  1353086  South  22      Randy J Sparks  6823 ST CHARLES AVENUE  NEW ORLEANS  	Louisiana  70118-5698  
+2015/12/5  2016/1/5  g  6.5  5  3.65  2  1  NNX14AF49A  South  01      JIALAI WANG    TUSCALOOSA  	Alabama  35487-0001  
+2015/6/13  2015/7/13  g  18  9.3  6.789  2  1  1362045  South  01      Kenneth J Fridley  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/8/8  2015/11/8  q  18.1  10.9  7.303  2  2  1353450  South  13      Ryan M Diestelhorst  75 5th Street NW  Atlanta  	Georgia  30308-1066  
+2015/4/5  2015/6/5  G  21.8  6.2  4.154  2  2  1353180  South  37      Vrinda Haridasan  28 Surrey Lane  Durham  	North Carolina  27707-5170  
+2015/8/6  2015/11/6  M  13.6  9.9  5.247  2  2  1438582  South  28      Mustafa Altinakar  100 BARR HALL  UNIVERSITY  	Mississippi  38677-1848  
+2015/8/5  2015/10/5  g  12.9  12.6  7.938  1  2  1402912  South  01      Alberto Perez-Huerta  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/9/28  2015/10/28  Q  21.1  5.3  3.392  0  2  1352572  South  28      Santanu Kundu  PO Box 6156  MISSISSIPPI STATE  	Mississippi  39762-9662  
+2015/12/28  2016/1/28  q  15.6  13  10.66  2  1  1360006  South  28      Joshua U Otaigbe  2609 WEST 4TH ST  HATTIESBURG  	Mississippi  39406-5157  
+2015/10/7  2015/12/7  G  17.5  7.5  5.475  2  2  1362060  South  12      Brij M Moudgil  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/6/5  2015/7/5  M  18  7  4.97  0  1  1361904  South  01      Gang Wang  301 Sparkman Drive  Huntsville  	Alabama  35805-1911  
+2015/10/24  2016/1/24  m  15  9  6.03  0  2  1400355  South  37      Nathan Reading  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/7/16  2015/9/16  M  19  5.6  2.8  0  1  1420304  South  12      Richard J Findley  4600 RICKENBACKER CSWY  KEY BISCAYNE  	Florida  33149-1031  
+2015/11/17  2016/1/17  G  24  9.6  4.992  2  2  NNX14AF38G  South  28      MARIBETH STOLZENBURG    UNIVERSITY  	Mississippi  38677-9704  
+2015/12/15  2016/2/15  M  14.9  8.3  4.399  2  0  1348524  South  37      Merle Froschl  2224 E NC Hwy 54  Durham  	North Carolina  27713-2208  
+2015/10/14  2015/11/14  Q  21.3  18.9  11.718  0  0  1353570  South  22      Svetlana Oard  612 Highlnad Knoll Ct.  Baton Rouge  	Louisiana  70810-5200  
+2015/6/24  2015/8/24  g  14.4  11.4  7.182  0  2  1358931  South  45      Jochen Lauterbach  Sponsored Awards Management  COLUMBIA  	South Carolina  29208-0001  
+2015/12/4  2016/1/4  m  14.3  8.6  5.848  2  2  1431846  South  12      Zahra Hazari  11200 SW 8TH ST  Miami  	Florida  33199-0001  
+2015/3/10  2015/6/10  M  17.7  12  8.88  1  1  1356890  South  13      Aron Stubbins  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/4/26  2015/6/26  M  10.7  6.6  3.3  2  0  1338285  South  12      Steven R Manchester  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/11/23  2016/2/23  q  17.7  7.3  4.38  1  1  1348368  South  01      Allen L Landers  310 Samford Hall  Auburn  	Alabama  36849-5131  
+2015/12/4  2016/2/4  M  10.6  8  4.8  0  1  NNX14AE55H  South  28      JAMES WARNOCK    MISSISSIPPI STATE  	Mississippi  39762-5227  
+2015/5/19  2015/8/19  M  18.7  18  13.14  2  0  1359019  South  13      Chun (Chuck) Zhang  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/1/20  2015/2/20  M  21.3  21.3  14.058  0  0  1430620  South  28      Suzanne M Shontz  PO Box 6156  MISSISSIPPI STATE  	Mississippi  39762-9662  
+2015/12/10  2016/1/10  M  6.6  5.5  4.015  1  0  NNX14AE09G  South  12      CATHERINE NEISH    MELBOURNE  	Florida  32901-6975  
+2015/1/14  2015/2/14  M  6.3  5.7  2.85  2  1  1354802  South  12      Matthew E Smith  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/6/2  2015/7/2  g  10.7  10  5.2  1  0  1362103  South  37      Steven C Shannon  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/11/4  2016/2/4  q  6.6  5.1  3.366  2  2  1341935  South  45      James R Bottum  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/10/8  2015/12/8  G  21.7  15.8  9.48  0  2  NNX14AE50H  South  12      GLENN MCNUTT    DAYTONA BEACH  	Florida  32114-3966  
+2015/8/15  2015/10/15  G  19.7  8.6  6.622  0  0  1345928  South  37      Ginger M Dosier  54 Fairway Road  Asheville  	North Carolina  28804-1642  
+2015/11/24  2016/2/24  G  16.9  12.5  7.375  2  0  NNX14AD88G  South  13      IRINA SOKOLIK    ATLANTA  	Georgia  30332-0001  
+2015/12/28  2016/1/28  m  24.6  8.9  5.251  0  1  1433223  South  12      Richard L Oberlin  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/8/6  2015/10/6  M  15  13.7  10.686  0  0  1352328  South  12      Wei Wei  1 UNIVERSITY OF FLORIDA  GAINESVILLE  	Florida  32611-2002  
+2015/2/3  2015/3/3  M  8.2  6.2  4.216  2  1  1350339  South  13      Mark O Riedl  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/11/4  2016/1/4  m  18.2  15.6  9.204  1  0  1417323  South  13      Sudhakar Yalamanchili  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/1/26  2015/4/26  M  9.7  5.1  2.55  2  1  1331231  South  13      Stephen A Mihm  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/3/4  2015/5/4  M  17.1  11.5  5.865  0  0  1352672  South  37      Makeba P Wilbourn  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/2/4  2015/5/4  g  20.6  11.1  5.661  2  1  1352259  South  12      Yiyuan She  874 Traditions Way, 3rd Floor  TALLAHASSEE  	Florida  32306-4166  
+2015/5/9  2015/8/9  q  23.9  20.7  11.178  1  2  1355902  South  37      Charles L Nunn  2200 W. Main St, Suite 710  Durham  	North Carolina  27705-4010  
+2015/2/26  2015/4/26  G  10.7  5.3  3.498  2  1  1259043  South  12      Frank E Muller-Karger  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/11/17  2016/2/17  g  9.5  5.7  3.078  1  2  1347749  South  01      Xiang Zhao  P O BOX 411  Normal  	Alabama  35762-0285  
+2015/1/26  2015/3/26  q  8.3  5.1  3.162  0  2  1416006  South  12      Scott E Lewis  3702 Spectrum Blvd.  Tampa  	Florida  33612-9446  
+2015/9/4  2015/11/4  G  24.1  10.3  5.356  0  1  1351531  South  21      Brad J Berron  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/6/27  2015/9/27  q  12.9  9.5  5.985  0  1  NNX14AD15G  South  01      DEBORAH BARNHART    HUNTSVILLE  	Alabama  35805-3371  
+2015/12/11  2016/1/11  g  10.3  10  7.7  2  2  1424627  South  01      Andrew J Whelton  307 University Boulevard  Mobile  	Alabama  36688-0002  
+2015/6/6  2015/9/6  Q  23.7  13.3  7.182  0  2  1346898  South  28      Joshua U Otaigbe  2609 WEST 4TH ST  HATTIESBURG  	Mississippi  39406-5157  
+2015/12/1  2016/1/1  G  13.1  11.8  7.434  0  0  1404779  South  12      Ludmil V Katzarkov  1320 S. Dixie Highway Suite 650  CORAL GABLES  	Florida  33146-2926  
+2015/5/28  2015/6/28  m  18.2  16.5  12.21  1  0  NNX14AC93A  South  21      ALEXANDRE MARTIN    LEXINGTON  	Kentucky  40526-0001  
+2015/5/21  2015/6/21  G  10.4  8.6  5.504  2  0  1421152  South  37      Fabian N Monrose  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/2/14  2015/3/14  g  23.7  21.5  13.975  2  2  1418710  South  12      Nazanin Rahnavard  4000 CNTRL FLORIDA BLVD  ORLANDO  	Florida  32816-8005  
+2015/9/23  2015/10/23  g  12.9  9.8  7.938  1  1  1350616  South  13      Mark A Davenport  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/6/11  2015/9/11  Q  13.9  5.5  3.795  0  0  NNX14AD05G  South  45      STEPHEN WELCH    FLORENCE  	South Carolina  29505-6041  
+2015/3/11  2015/6/11  g  12.7  10.1  5.959  0  0  1406541  South  37      Sayo O Fakayode  1601 E. Market Street  Greensboro  	North Carolina  27411-0001  
+2015/12/11  2016/12/11  M  19.5  16  10.08  1  2  1416201  South  37      Robert L Anemone  1111 Spring Garden Street  GREENSBORO  	North Carolina  27412-5013  
+2015/7/7  2015/8/7  g  18.7  11.1  8.547  1  0  1419397  South  01      Harold H Stowell  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/11/21  2016/2/21  Q  23.3  11.9  8.092  2  0  1356010  South  13      Mary Ann Moran  200 D.W. Brooks Drive  ATHENS  	Georgia  30602-5016  
+2015/10/26  2015/11/26  Q  24.5  23.1  13.167  0  1  1412057  South  21      Peter D Hislop  109 Kinkead Hall  Lexington  	Kentucky  40506-0057  
+2015/8/27  2015/11/27  G  8  5.3  3.551  0  2  1415154  South  37      Idris Assani  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/6/23  2015/9/23  q  23.4  13.6  11.016  0  2  1359239  South  28      Daniel A Savin  2609 WEST 4TH ST  HATTIESBURG  	Mississippi  39406-5157  
+2015/8/8  2015/11/8  g  10.7  10.1  7.676  0  2  1345682  South  13      Ryan M Diestelhorst  75 5th Street NW  Atlanta  	Georgia  30308-1066  
+2015/6/25  2015/7/25  q  16.1  15.6  11.7  1  2  1345916  South  01      Franchessa M Sayler  1118 Canyon Rd. N.  Tuscaloosa  	Alabama  35406-2110  
+2015/8/16  2015/9/16  g  21  8.2  5.084  2  0  1330320  South  37      Brian Strahl  104 AIRPORT DR STE 2200  CHAPEL HILL  	North Carolina  27599-1350  
+2015/7/20  2015/9/20  g  9  5.1  3.876  2  2  1346336  South  37      Ryan C Gessner  321 S Columbia St  Chapel Hill  	North Carolina  27599-0001  
+2015/6/7  2015/9/7  M  18.9  15.7  10.519  2  2  1345882  South  37      Paolo Batoni  9201 University City Blvd.  CHARLOTTE  	North Carolina  28223-0001  
+2015/10/26  2015/11/26  G  12.1  11.2  5.824  0  0  NNX14AB63G  South  47      ANNA SZYNKIEWICZ    KNOXVILLE  	Tennessee  37916-3801  
+2015/11/3  2016/2/3  g  20.2  5.1  3.417  1  0  1402387  South  45      Alexey A Vertegel  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/1/21  2015/4/21  M  10.6  10.4  6.24  0  1  1345690  South  12      Kaustubh Kale  2840 N University Dr  Coral springs  	Florida  33065-5010  
+2015/8/19  2015/9/19  q  19.1  15.9  11.607  1  0  1355317  South  12      Roger M Leblanc  1320 S. Dixie Highway Suite 650  CORAL GABLES  	Florida  33146-2926  
+2015/2/3  2015/3/3  M  24.3  13.5  8.64  0  0  1362823  South  01      Matthew D Therrell  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/12/25  2016/1/25  G  9.7  6.6  4.686  1  1  1400361  South  45      Mishko Mitkovski  300 BRACKETT HALL  CLEMSON  	South Carolina  29634-0001  
+2015/8/3  2015/10/3  q  18.1  17.7  14.337  1  0  1405246  South  37      Katherine Saul  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/2/14  2015/4/14  q  6.4  5.3  2.915  2  0  1360802  South  01      Elizabeth T Papish  801 University Blvd.  TUSCALOOSA  	Alabama  35487-0104  
+2015/7/4  2015/10/4  G  18.2  8.7  7.047  0  1  1404627  South  13      Hang (Jerry) Qi  Office of Sponsored Programs  Atlanta  	Georgia  30332-0420  
+2015/5/15  2015/7/15  M  9.5  8.7  4.35  2  0  NNX14AB18G  South  47      RALF BENNARTZ    NASHVILLE  	Tennessee  37203-2416  
+2015/9/22  2015/10/22  g  22  21.8  17.876  2  0  1359581  South  47      Stephen Canfield  Dixie Avenue  Cookeville  	Tennessee  38501-3405  
+2015/5/8  2015/8/8  g  16.9  9  6.39  2  1  1405198  South  37      Craig A Layman  CAMPUS BOX 7514  RALEIGH  	North Carolina  27695-7514  
+2015/1/7  2015/4/7  g  18.2  9.9  7.326  0  1  1358787  South  12      Terry D Oswalt  Sponsored Research Adm  Daytona Beach  	Florida  32114-3900  
+2015/1/11  2015/4/11  g  13.6  6.6  4.686  0  0  1334163  South  22      Carl Richter  104 University Circle  Lafayette  	Louisiana  70503-2701  

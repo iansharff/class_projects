@@ -1,0 +1,586 @@
+Order Date  Delivery Date Stone Code length depth height length Edge Finished depth Edge Finished Order Number State Code Customer name and address
+2015/11/15  2016/2/15  g  21.6  7  3.5  2  1  NNX14AT45G  North  26      COLIN N BROOKS    HOUGHTON  	Michigan  49931-1200  
+2015/11/14  2016/1/14  Q  6.5  5.2  3.38  0  1  1440095  North  36      Lars Ehm  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/2/18  2015/4/18  M  18.3  5.1  3.876  0  1  1340812  North  26      Jianguo Liu  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/6/6  2015/9/6  g  5.2  5.2  2.964  0  0  1461485  North  41      Ramesh Jasti  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/12/4  2016/1/4  M  23.1  20.4  14.28  2  0  1462057  North  26      Lisa K Tiemann  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/6/26  2015/8/26  q  5.6  5.6  2.912  1  2  1463722  North  36      Shan Lin  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/5/19  2015/7/19  Q  22.7  20.9  16.511  1  0  1461468  North  26      Amy N Parks  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/11/14  2016/2/14  g  13.2  13.2  9.108  2  0  NNX14AQ93A  North  30      ANGELA DES JARDINS    BOZEMAN  	Montana  59717  
+2015/11/4  2016/2/4  q  23  17.8  10.68  0  0  1439657  North  53      Sumit Roy  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/3/15  2015/6/15  g  10.1  6.7  4.422  0  0  1445391  North  36      Jay S Rosen  2800 Victory Boulevard  Staten Island  	New York  10314-6609  
+2015/10/25  2015/11/25  m  6  5.9  3.658  2  2  NNX14AQ68G  North  36      BRIAN METZGER    NEW YORK  	New York  10027-6944  
+2015/10/4  2015/12/4  Q  8.4  6.5  5.135  1  0  NNX14AR04A  North  27      WILLIAM GARRARD    MINNEAPOLIS  	Minnesota  55455-2009  
+2015/9/20  2015/10/20  m  14.6  8.6  5.762  2  0  NNX14AP07G  North  55      VOLKER RADELOFF    MADISON  	Wisconsin  53715-1218  
+2015/3/22  2015/5/22  G  16.9  5.3  3.869  0  2  1461484  North  36      Jaroslaw S Zola  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/1/25  2015/2/25  G  18.8  16.3  9.78  1  0  1436095  North  36      Yasutomo J Uemura  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/6/13  2015/8/13  M  14.6  7.6  5.32  0  0  1405616  North  39      Joseph F Wagner  3800 Victory Parkway  Cincinnati  	Ohio  45207-1035  
+2015/6/16  2015/8/16  M  6  5  3.25  2  1  1415372  North  26      Mike Syphers  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/12/10  2016/2/10  M  5.8  5.2  2.912  0  0  1441705  North  39      Swarup K Bhunia  Nord Hall, Suite 615  CLEVELAND  	Ohio  44106-4901  
+2015/1/25  2015/2/25  M  5  5  4.05  2  2  1423944  North  38      Daniel Pemstein  Dept 4000 - PO Box 6050  FARGO  	North Dakota  58108-6050  
+2015/10/16  2016/1/16  m  20.6  10.1  6.565  2  1  1430981  North  26      Lijun Song  1600 Huron Parkway  Ann Arbor  	Michigan  48109-5001  
+2015/4/24  2015/5/24  g  11.9  10.7  5.778  1  1  1412287  North  55      Christy A Tremonti  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/10/22  2015/11/22  g  11.2  8.9  4.628  2  0  NNX14AP53G  North  55      ELENA D''ONGHIA    MADISON  	Wisconsin  53715-1218  
+2015/2/25  2015/4/25  m  14  7.5  6.15  2  1  1430465  North  36      Paul M Beer  16 Caldwell Blvd.  Slingerlands  	New York  12159-9268  
+2015/7/7  2015/10/7  G  17.8  9.2  6.716  2  0  1443966  North  36      Jian Tang  OFFICE OF SPONSORED PROGRAMS  SYRACUSE  	New York  13244-1200  
+2015/10/20  2015/11/20  Q  11.1  10.2  7.752  0  2  1440852  North  53      Bart Nijssen  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/3/15  2015/5/15  M  15.3  13.3  10.241  1  2  NNX14AQ38G  North  36      STEVEN M BROCKWAY    NEW YORK  	New York  10031-9101  
+2015/9/16  2015/10/16  Q  14.1  10.5  5.88  2  0  1421643  North  26      Steven M Carr  1903 West Michigan Avenue  Kalamazoo  	Michigan  49008-5200  
+2015/4/27  2015/7/27  m  6.2  5  3.95  2  2  1440947  North  27      Jennifer L Rosato  1200 Kenwood Avenue  Duluth  	Minnesota  55811-4199  
+2015/9/17  2015/11/17  m  23.6  15.8  11.534  2  1  1431773  North  30      Karlene A Hoo  309 MONTANA HALL  BOZEMAN  	Montana  59717-2470  
+2015/9/17  2015/12/17  G  22.6  10.9  7.303  1  1  1430922  North  30      Mark A Kozubal  3132 Hillcrest Dr  Bozeman  	Montana  59715-0689  
+2015/5/14  2015/6/14  g  24.6  17.4  8.874  1  2  1438560  North  26      Nancy G Love  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/5/3  2015/8/3  Q  13.1  9.3  6.231  1  0  1445398  North  36      Harold Metcalf  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/11/8  2015/12/8  G  22.5  5.2  3.796  2  1  1423105  North  36      Gil Zussman  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/9/14  2015/12/14  q  13.9  12.7  7.874  1  0  NNX14AP66G  North  23      EMMANUEL BOSS    ORONO  	Maine  04469-5717  
+2015/5/21  2015/8/21  g  20.6  17.4  11.832  2  0  1424309  North  36      Lynne Haney  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/3/6  2015/5/6  q  18.6  14.4  9.072  1  0  1446067  North  38      Naima Kaabouch  University Station  Grand Forks  	North Dakota  58202-0000  
+2015/2/10  2015/4/10  g  6.9  5.1  3.162  0  2  1427608  North  23      Krista Capps  5717 Corbett Hall  ORONO  	Maine  04469-5717  
+2015/11/28  2016/1/28  q  22.8  18.5  10.915  2  1  1442075  North  39      Eric Tepe  University Hall, Suite 530  Cincinnati  	Ohio  45221-0222  
+2015/5/2  2015/7/2  g  7.8  5.4  3.996  0  2  1428257  North  27      Dylan B Millet  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/13  2015/4/13  M  15.2  9.3  7.626  2  2  1411476  North  39      Yuan Lou  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/1/12  2015/3/12  g  12  6.7  3.551  0  1  1449446  North  41      Keith James  1600 SW 4th Ave  Portland  	Oregon  97207-0751  
+2015/4/7  2015/6/7  g  10.7  10  5.4  0  1  1436056  North  26      Suljo Linic  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/4/15  2015/5/15  q  12.4  9.8  6.566  1  2  1440435  North  36      Hugh W Ducklow  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/2/6  2015/5/6  m  18.1  15.3  8.262  2  0  1429664  North  30      Anna M Prentiss  32 CAMPUS DRIVE MAIN HALL  MISSOULA  	Montana  59812-4104  
+2015/9/19  2015/11/19  G  11.4  11  7.81  0  1  1450854  North  36      Nirmala Shenoy  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/9/2  2015/10/2  G  10.3  9.4  5.546  2  1  1420198  North  50      Ibrahim H Dahlstrom-Hakki  P. O. Box 820  Putney  	Vermont  05346-0820  
+2015/5/9  2015/6/9  g  11.4  6.5  4.095  1  0  1425256  North  27      Claudia A Munoz-Zanzi  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/1/27  2015/2/27  m  18.6  16.9  11.999  1  2  1341496  North  53      James B Girton  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/9/10  2015/11/10  M  21.8  8.7  6.699  0  2  1453503  North  36      Charles V Stewart  110 8TH ST  Troy  	New York  12180-3522  
+2015/8/25  2015/9/25  g  14  8  5.92  1  0  1455620  North  36      Clifford S Stein  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/8  2015/3/8  M  24.8  18.3  10.431  2  1  1412421  North  55      David L Kaplan  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/3/18  2015/4/18  G  8.8  6.4  4.992  2  1  1443885  North  36      Xiaohua Li  4400 VESTAL PKWY E  BINGHAMTON  	New York  13902-6000  
+2015/5/3  2015/8/3  G  20.8  7.2  3.96  1  2  1339362  North  36      Gloria M Coruzzi  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/10/23  2015/12/23  g  13.3  9.1  4.641  2  2  1424138  North  39      Brian H Lower  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/3/23  2015/5/23  Q  6.5  5.3  3.975  2  2  1443923  North  53      Sumit Roy  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/11/22  2016/1/22  m  13.5  7.4  5.032  1  1  1440843  North  53      Richard E Ladner  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/3/7  2015/6/7  M  6.1  5.3  4.187  0  1  NNX14AP06G  North  36      MARIA TZORTZIOU    NEW YORK  	New York  10031-9101  
+2015/7/11  2015/8/11  G  5.5  5.3  3.604  2  0  NNX14AP31G  North  36      DONG LAI    ITHACA  	New York  14850-2820  
+2015/8/5  2015/9/5  g  16.9  14.6  8.322  2  1  1447449  North  55      Robert D Nowak  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/5/3  2015/8/3  m  5.7  5.3  3.339  2  1  1440464  North  23      Thomas E Keller  P. O. Box 5359  Augusta  	Maine  04332-5359  
+2015/10/21  2015/12/21  g  24.5  21.8  16.786  1  0  1354971  North  55      Hiroshi Maeda  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/12/12  2016/2/12  q  5.3  5  2.55  2  2  1409303  North  26      Xuanlong Nguyen  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/5/19  2015/5/19  M  12.2  6.7  5.092  0  0  1427957  North  41      Raghuveer Parthasarathy  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/8/11  2015/10/11  M  18.3  15  7.65  0  0  1412730  North  26      Joel N Bregman  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/1/27  2015/3/27  g  11.1  5.2  3.38  1  1  1451245  North  27      Karl A Smith  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/8/5  2015/10/5  m  22.8  14.1  10.152  1  2  1401242  North  26      Fred D Becchetti  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/6/27  2015/9/27  q  24.2  13.3  6.65  2  2  1406712  North  26      Bhramar Mukherjee  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/6/15  2015/7/15  g  7.1  7  4.48  0  2  1449466  North  26      Kevin Elliott  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/8/27  2015/10/27  m  17.8  11  6.49  1  0  1421168  North  26      Benjamin J Kuipers  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/4/22  2015/5/22  g  21.1  13.9  9.174  0  0  1422966  North  39      Yuejie Chi  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/9/14  2015/12/14  G  20.5  12.3  7.011  0  2  1420268  North  53      Anup Rao  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/7/10  2015/8/10  G  14.3  10.4  5.408  1  0  1432563  North  26      Robert T Pennock  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/10/4  2016/1/4  g  17.7  13.9  9.591  0  2  1435829  North  36      Paul L McEuen  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/12/21  2016/2/21  M  13.9  8.9  4.717  2  0  1412144  North  26      Oleg Y Gnedin  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/9/19  2015/10/19  G  13.4  10.3  6.695  0  1  1409652  North  26      Jie Yang  530 Wilson Hall  Rochester  	Michigan  48309-4401  
+2015/4/7  2015/7/7  Q  22.1  8.9  6.23  2  1  1422153  North  36      Alhussein Abouzeid  110 8TH ST  Troy  	New York  12180-3522  
+2015/11/4  2016/2/4  g  22.9  5.5  3.905  0  2  1419280  North  26      Di Ma  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/6/25  2015/9/25  G  11.6  7.3  4.818  0  1  1429999  North  33      Yaroslav O Halchenko  OFFICE OF SPONSORED PROJECTS  HANOVER  	New Hampshire  03755-1404  
+2015/3/6  2015/4/6  g  24.5  23.9  17.208  0  0  1420081  North  27      Sara A Wyse  3900 Bethel Drive  Saint Paul  	Minnesota  55112-6999  
+2015/2/3  2015/5/3  M  16.1  15.9  12.084  2  1  1412785  North  36      Chong Cheng  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/7/9  2015/9/9  Q  9.4  8.7  6.09  2  0  1351129  North  41      Emma Coddington  900 State Street  Salem  	Oregon  97301-3930  
+2015/7/3  2015/10/3  M  7.5  7.2  4.968  1  1  1445042  North  36      Mona Hella  110 8TH ST  Troy  	New York  12180-3522  
+2015/2/4  2015/4/4  M  21.8  12.9  8.643  0  2  1427399  North  55      Andrew B Williams  P.O. Box 1881  Milwaukee  	Wisconsin  53201-1881  
+2015/6/18  2015/9/18  q  11.4  6.8  5.168  1  1  1361541  North  26      Alexander Barvinok  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/11/18  2016/1/18  g  24.4  20.9  15.675  2  2  1341485  North  30      H. Arthur Woods  32 CAMPUS DRIVE MAIN HALL  MISSOULA  	Montana  59812-4104  
+2015/5/13  2015/6/13  g  6.5  6.4  5.184  4  2  1414153  North  27      George Karypis  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/9/17  2015/12/17  M  14.5  10.5  6.195  0  0  1411542  North  36      Kathleen M Keranen  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/7/10  2015/9/10  g  19.1  12  9  1  2  1427014  North  27      Nikolaos Papanikolopoulos  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/17  2015/3/17  q  9.1  7.1  5.112  0  0  1421067  North  55      Rashmi Prasad  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/6/21  2015/7/21  G  17.2  12.6  8.064  1  1  1431105  North  36      Navin Viswanathan  Sponsored Programs, HAB 805  New Paltz  	New York  12561-2443  
+2015/6/19  2015/9/19  q  21.8  8.8  4.752  0  0  1451007  North  27      Karen A Mesce  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/15  2015/4/15  Q  22  20.1  14.271  2  1  NNX14AO26G  North  36      ROSALBA PERNA    STONY BROOK  	New York  11794-0001  
+2015/5/4  2015/8/4  m  22.7  22  15.62  1  2  1324970  North  36      N. Gary Hemming  65 30 Kissena Blvd  Flushing  	New York  11367-1575  
+2015/2/20  2015/3/20  M  21.4  10.8  7.56  0  2  1418074  North  41      Anders E Carlson  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/1/11  2015/3/11  M  13.1  10.5  8.19  0  2  1430239  North  36      Liam Paninski  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/5/18  2015/6/18  m  19.3  16.4  12.956  0  2  1423074  North  53      Daniela Rosner  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/8/23  2015/10/23  g  5.8  5.8  3.306  0  2  1443357  North  55      Deborah Tobiason  2001 Alford Drive  Kenosha  	Wisconsin  53140-1929  
+2015/12/23  2016/1/23  M  13.7  5.5  3.3  1  1  1400390  North  41      Alexander Polishchuk  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/7/23  2015/9/23  M  6.1  5.7  3.819  1  1  1422917  North  27      Emi Ito  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/3/9  2015/4/9  g  16.6  7.3  5.621  1  1  1413102  North  36      Jacqueline H van Gorkom  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/6/20  2015/8/20  Q  11.4  5.5  2.97  1  1  1359022  North  39      James D Burgess  Nord Hall, Suite 615  CLEVELAND  	Ohio  44106-4901  
+2015/8/7  2015/9/7  q  10.5  7.8  6.006  0  0  1431149  North  36      Loretta Brancaccio Taras  230 W. 41st Street  New York  	New York  10036-7296  
+2015/2/15  2015/4/15  M  24.8  7.2  5.544  2  2  1422022  North  36      Richard E Bonney  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/10/21  2016/1/21  g  17.2  15.3  12.546  2  1  1432674  North  53      Bernard J Van Wie  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/10/16  2015/12/16  M  6.6  6.3  3.843  0  0  1412141  North  36      Kara Maki  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/6/1  2015/8/1  g  14.7  13.9  6.95  1  2  1435372  North  27      Maria-Carme Calderer  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/7/19  2015/8/19  Q  17.3  5.1  2.652  2  0  1400973  North  36      Douglas Cook  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/3/7  2015/5/7  g  17.7  8.6  5.16  1  2  1432373  North  30      Brock J LaMeres  309 MONTANA HALL  BOZEMAN  	Montana  59717-2470  
+2015/7/26  2015/8/26  m  24.5  15.3  10.251  2  2  1440617  North  53      Michael R James  2522 Kwina Rd  Bellingham  	Washington  98226-9278  
+2015/1/8  2015/4/8  Q  12.6  9.7  5.141  0  2  1409171  North  41      Susan M Shaw  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/8/7  2015/10/7  G  16.6  12.1  7.865  1  2  1400784  North  36      Robert A Jacobs  518 HYLAN, RIVER CAMPUSBOX 27014  ROCHESTER  	New York  14627-0140  
+2015/7/6  2015/8/6  Q  19.5  15.7  11.461  1  0  1423753  North  36      Marc Edelman  365 Fifth Avenue  New York  	New York  10016-4309  
+2015/11/23  2016/2/23  g  19.1  17.8  11.926  1  0  1421655  North  27      Brent J Hecht  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/4/14  2015/6/14  g  19.2  16.4  13.448  1  0  1418044  North  55      Sadhana Puntambekar  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/11/15  2016/2/15  Q  17.7  8.6  6.536  1  0  1417672  North  26      Beth Herbel-Eisenmann  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/5/21  2015/8/21  M  6.5  5.9  3.009  1  1  1440704  North  36      Michael G Cato  124 Raymond Avenue  Poughkeepsie  	New York  12604-0657  
+2015/1/24  2015/3/24  g  14.5  12  8.28  0  0  1444962  North  55      Akbar M Sayeed  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/5/2  2015/8/2  q  23.8  9.7  6.984  1  2  1421116  North  26      Angela Calabrese Barton  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/9/5  2015/11/5  g  16.4  13.9  10.703  2  1  1421438  North  26      Eytan Adar  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/8/19  2015/10/19  m  15.7  7.5  5.175  2  1  1420063  North  36      Ronald R Kelly  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/5/6  2015/7/6  Q  19.2  13.8  7.728  1  2  1417678  North  33      Erich Osterberg  OFFICE OF SPONSORED PROJECTS  HANOVER  	New Hampshire  03755-1404  
+2015/6/14  2015/9/14  M  10.1  5.6  3.472  0  1  1432018  North  53      Kalyn Owens  1500 Harvard Avenue  Seattle  	Washington  98122-3803  
+2015/7/13  2015/10/13  g  16.9  7.6  4.332  1  2  1400720  North  30      Erin L McCullough    Missoula  	Montana  59801-2551  
+2015/3/13  2015/6/13  M  14  8  5.04  2  2  1423784  North  55      Pamela E Oliver  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/4/23  2015/7/23  g  23.4  22.2  16.206  1  0  1431378  North  53      Mark Stephan  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/12/15  2016/2/15  g  14  12.8  6.784  0  1  1423765  North  39      Kurt J Hugenberg  500 E High Street  Oxford  	Ohio  45056-3653  
+2015/7/10  2015/8/10  G  10.7  5.7  4.332  0  1  1401227  North  26      Mircea Mustata  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/2/18  2015/5/18  g  16.7  8.6  5.504  2  0  1362980  North  27      Gregg J Musiker  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/5/7  2015/6/7  q  6.5  5.3  3.71  0  1  1407580  North  26      Amir Mortazawi  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/10/23  2015/12/23  g  9.3  6  4.26  1  0  NNX14AO59H  North  44      JOHN MUSTARD    PROVIDENCE  	Rhode Island  02912-9079  
+2015/4/12  2015/5/12  m  19.7  12.8  6.4  1  0  1407698  North  26      Ji Zhu  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/8/2  2015/9/2  M  17.5  5.7  3.534  1  1  1407958  North  27      Mihailo R Jovanovic  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/11/21  2016/1/21  g  11.6  6.5  4.875  2  2  1407326  North  27      Lucy Fortson  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/7/12  2015/10/12  q  24.1  9.2  5.612  0  1  1423061  North  36      Wenyao Xu  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/4/14  2015/5/14  M  21.7  17  10.03  1  0  1354046  North  26      Orie Shafer  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/1/12  2015/4/12  M  19.9  7.5  4.425  2  0  1453460  North  36      Michael Ferdman  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/8/21  2015/9/21  g  5.5  5.2  2.86  0  2  1405904  North  36      Justin Cappos  15 Metrotech Center  Brooklyn  	New York  11201-3826  
+2015/11/15  2016/2/15  g  18.6  6  4.26  1  2  1410886  North  39      Sookkyung Lim  University Hall, Suite 530  Cincinnati  	Ohio  45221-0222  
+2015/2/4  2015/3/4  M  16.9  7.2  5.688  0  0  1412485  North  36      Andrei M Beloborodov  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/5/8  2015/8/8  Q  11.9  6.2  4.216  1  0  1421407  North  26      Alex X Liu  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/10/20  2015/11/20  M  9.2  6  4.02  0  0  1354159  North  53      Jeffrey A Riffell  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/6/2  2015/8/2  M  6.5  5.2  4.108  1  2  1445583  North  26      William H Schmidt  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/7/5  2015/8/5  Q  13.1  12.7  8.255  1  0  1435195  North  55      Nicholas L Abbott  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/5/8  2015/7/8  m  9.2  5.7  3.876  0  0  1422175  North  26      David Wentzloff  3003 South State St., Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/6/10  2015/8/10  m  17.8  8.2  6.314  1  2  1421033  North  55      Remzi H Arpaci-Dusseau  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/12/6  2016/1/6  q  15.1  12.4  7.688  0  0  1438826  North  23      Glenn F Wilson  96 Falmouth St  Portland  	Maine  04104-9300  
+2015/6/26  2015/9/26  q  5.4  5  3.05  2  1  1417456  North  50      Ibrahim H Dahlstrom-Hakki  P. O. Box 820  Putney  	Vermont  05346-0820  
+2015/3/4  2015/4/4  g  17.2  6  4.2  1  0  1422488  North  36      Kenneth A Ross  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/8/3  2015/10/3  m  8.9  6.6  3.432  0  1  1308762  North  26      Xue-Wen Chen  5057 Woodward  Detroit  	Michigan  48202-3622  
+2015/5/19  2015/7/19  g  17.4  6.9  3.45  1  2  1430435  North  36      Jill North  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/5/21  2015/8/21  Q  14.3  5.5  4.07  2  1  1401835  North  53      Francois C Baneyx  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/9/9  2016/1/9  G  19.3  14.2  9.94  1  2  1359138  North  26      Ilya Gelfand  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/2/10  2015/4/10  g  12.3  5  2.65  2  0  NNX14AO69G  North  55      ROBERT HOLZ    MADISON  	Wisconsin  53715-1218  
+2015/8/2  2015/9/2  G  10.5  10.1  7.474  1  1  1421452  North  39      Xiaorui Wang  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/2/5  2015/3/5  g  7.4  5  2.7  1  0  1440181  North  36      Dean Krafft  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/2/19  2015/4/19  m  16.9  6.2  4.588  1  1  1408287  North  36      Leman Akoglu  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/5/3  2015/6/3  M  7.3  7.2  4.248  0  0  1348553  North  39      Brad J Bushman  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/9/15  2015/10/15  Q  25  15.9  8.904  1  0  1355437  North  55      Henry H Smith  2 John Brewer's Bay  charlotte amalie   00802-9990  
+2015/11/20  2015/12/20  g  15.7  7.1  5.396  0  1  1441357  North  53      Anjan Bose  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/10/2  2015/12/2  M  22.3  22.1  15.691  1  2  1439221  North  30      Behrad Noudoost  309 MONTANA HALL  BOZEMAN  	Montana  59717-2470  
+2015/8/21  2015/9/21  g  8.5  8.1  5.265  0  1  1433014  North  36      Susan E Alter  94-20 Guy R. Brewer Boulevard  Jamaica  	New York  11451-0002  
+2015/4/4  2015/5/4  M  17.1  11.9  7.497  1  2  1416730  North  26      Arika Ligmann-Zielinska  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/17  2015/2/17  q  14.1  11.2  5.6  1  1  1363093  North  36      Jeffrey W Kysar  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/15  2015/3/15  q  13.1  10.4  7.592  2  2  1421410  North  23      Lois R Lupica  96 Falmouth St  Portland  	Maine  04104-9300  
+2015/10/5  2016/1/5  G  6.9  5.5  3.41  2  1  1449627  North  53      Ann Bostrom  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/4/26  2015/6/26  M  21.1  13.3  9.576  2  0  1408517  North  36      Qiang Lin  518 HYLAN, RIVER CAMPUSBOX 27014  ROCHESTER  	New York  14627-0140  
+2015/9/16  2015/11/16  m  12.8  6.4  5.248  0  2  1355196  North  41      Geraldine L Richmond  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/2/10  2015/3/10  Q  10.3  10.3  5.871  0  0  1357887  North  26      Mary T Rodgers  5057 Woodward  Detroit  	Michigan  48202-3622  
+2015/11/15  2016/2/15  g  19.4  14.6  7.884  0  2  1416860  North  36      Deborah Balk  One Bernard Baruch Way  New York  	New York  10010-5526  
+2015/2/18  2015/5/18  Q  16.4  5.6  3.08  1  1  1414462  North  41      Hailin Wang  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/10/24  2015/11/24  g  13.7  5.1  3.264  0  0  1412218  North  26      Shailesh K Lal  530 Wilson Hall  Rochester  	Michigan  48309-4401  
+2015/3/14  2015/6/14  G  21.1  11  5.5  1  0  1425337  North  23      Nicholas Giudice  5717 Corbett Hall  ORONO  	Maine  04469-5717  
+2015/10/3  2015/11/3  m  20  10.2  6.834  1  1  1357725  North  39      Julia K Thomas  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/5/17  2015/7/17  g  10.9  5.8  3.654  0  2  1412007  North  36      Ranajeet Ghose  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/4/9  2015/6/9  M  22.9  12.3  9.471  1  1  1433514  North  27      Andrew R Metcalf    Saint Paul  	Minnesota  55113-6329  
+2015/5/13  2015/7/13  M  15.2  9.2  5.152  0  0  1413770  North  39      Peter J Thomas  Nord Hall, Suite 615  CLEVELAND  	Ohio  44106-4901  
+2015/9/26  2015/11/26  Q  14.2  12  7.2  2  1  1432522  North  36      Sharon Sassler  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/8/24  2015/11/24  Q  16.8  9.9  7.128  1  0  1420750  North  55      Eric Bach  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/6/23  2015/8/23  M  17.2  15.3  7.65  0  1  1431379  North  27      Eric S Cole  1520 St. Olaf Avenue  Northfield  	Minnesota  55057-1098  
+2015/10/9  2015/11/9  g  14.7  9.4  6.674  2  1  1412060  North  39      Daniel A Scherson  Nord Hall, Suite 615  CLEVELAND  	Ohio  44106-4901  
+2015/2/3  2015/6/3  M  8.4  7.5  5.175  1  0  NNX14AL92G  North  23      WILLIAM BALCH    EAST BOOTHBAY  	Maine  04544  
+2015/1/24  2015/3/24  Q  7.6  6.1  3.05  1  1  1422979  North  41      Mark Jones  1600 SW 4th Ave  Portland  	Oregon  97207-0751  
+2015/12/3  2016/1/3  G  7.3  7.3  4.161  2  0  1347285  North  55      Basil Tikoff  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/7/21  2015/9/21  Q  21.3  7  3.78  1  0  1450271  North  33      Harry J Richards  51 COLLEGE RD SERVICE BLDG 107  Durham  	New Hampshire  03824-3585  
+2015/7/14  2015/9/14  M  19.2  9.7  6.693  0  2  1354809  North  27      Laura S Gammill  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/10/25  2015/11/25  g  23.7  14.8  9.62  1  0  1355987  North  27      Todd Frauenholtz  1500 Birchmont Dr. NE  Bemidji  	Minnesota  56601-2699  
+2015/3/27  2015/4/27  g  16.9  15.3  9.639  2  2  1434798  North  27      Kang Ding  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/13  2015/3/13  G  11.3  10.7  8.667  1  2  1408949  North  16      Hui (Claire) Xiong  1910 University Drive  boise  	Idaho  83725-1135  
+2015/8/9  2015/10/9  g  8.9  8.2  6.068  0  1  1405719  North  39      Vincent J Roscigno  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/6/11  2015/7/11  q  9.7  6.9  5.244  0  0  1409420  North  26      Mary T Rodgers  5057 Woodward  Detroit  	Michigan  48202-3622  
+2015/9/18  2015/10/18  M  13.1  9.4  5.922  2  2  NNX14AN08G  North  36      TIMOTHY D GLOTCH    STONY BROOK  	New York  11794-0001  
+2015/11/10  2015/12/10  G  24.3  8.5  6.035  1  2  1418064  North  41      Eric D Skyllingstad  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/11/6  2016/2/6  q  13.7  12.6  6.3  2  0  1443131  North  36      Michael Shur  110 8TH ST  Troy  	New York  12180-3522  
+2015/5/23  2015/7/23  M  8.7  7.5  5.4  0  1  1419865  North  16      Matthew J Kohn  1910 University Drive  boise  	Idaho  83725-1135  
+2015/7/16  2015/9/16  M  5.5  5  3.25  0  2  1420373  North  27      Viktor N Nemykin  1049 University Drive  Duluth  	Minnesota  55812-3011  
+2015/6/16  2015/8/16  g  19.5  15.1  11.627  0  0  1446704  North  36      Marie Chantale Damas  222-05 56th Avenue  Oakland Gardens  	New York  11364-1497  
+2015/5/18  2015/8/18  m  11.1  5.8  3.886  0  0  1359330  North  53      Paul C Spiegel  516 High Street  Bellingham  	Washington  98225-9038  
+2015/7/28  2015/10/28  M  17  14.9  10.877  0  1  1411824  North  26      Sergey Nadtochiy  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/10/15  2015/11/15  M  9.3  7.5  5.775  0  2  1362812  North  26      Babak Borhan  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/4  2015/2/4  q  21.4  13.2  6.996  1  1  1451866  North  50      Cynthia J Forehand  85 SO. PROSPECT ST.  BURLINGTON  	Vermont  05405-0160  
+2015/9/6  2015/12/6  g  13.4  7.7  4.081  2  2  1405152  North  36      Mu-Tao Wang  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/10/26  2015/12/26  M  15.7  13.2  10.164  1  0  1436631  North  26      Jerome P Lynch  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/11/18  2015/12/18  q  9.7  6.5  5.135  2  2  1422027  North  36      Peter J Katzenstein  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/6/11  2015/7/11  Q  22.5  13.6  6.8  0  2  1414171  North  16      Jesse Barber  1910 University Drive  boise  	Idaho  83725-1135  
+2015/3/12  2015/4/12  g  5.5  5.2  2.808  0  2  1436014  North  36      Heather L Ford  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/3/5  2015/4/5  M  7.4  6.9  4.83  2  1  1408429  North  36      Stefan F Preble  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/10/13  2015/11/13  G  7.2  5.5  3.685  0  1  1420898  North  41      Joshua J Roering  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/11/8  2016/2/8  g  15.6  12.2  8.052  1  2  1440547  North  36      Richard G Hennig  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/1/11  2015/4/11  M  16.8  14.4  7.92  0  1  NNX14AN65H  North  41      BEV LAW    CORVALLIS  	Oregon  97331-8517  
+2015/10/4  2016/1/4  G  10.1  9.7  7.566  2  2  1430884  North  36      David C Stark  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/8/10  2015/11/10  g  19.4  17.8  11.036  2  0  1423407  North  27      Keshab K Parhi  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/9/6  2015/11/6  G  19.1  8.9  5.518  1  1  1422284  North  26      Sandeep Sadanandarao  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/8/24  2015/9/24  g  16.1  6.7  3.551  1  2  1400527  North  39      Perlberg James  2830 Napoleon Road  Fremont  	Ohio  43420-9670  
+2015/7/15  2015/9/15  g  23.6  13.4  10.184  2  1  1362136  North  55      Jordan R Schmidt  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/8/5  2015/9/5  q  22.4  21.5  17.415  1  2  1411278  North  44      Govind Menon  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/6/17  2015/9/17  m  7.2  5.9  3.127  1  2  1412560  North  36      Michael I Weinstein  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/7/20  2015/8/20  m  9.2  8.1  4.293  1  0  1436173  North  36      Gretchen J Mahler  4400 VESTAL PKWY E  BINGHAMTON  	New York  13902-6000  
+2015/6/2  2015/8/2  g  9.1  8.9  5.073  2  2  1427255  North  36      T. Kesavadas  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/1/26  2015/4/26  q  23.8  14.5  7.83  0  2  1418750  North  44      Chi-Wang Shu  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/10/15  2016/1/15  m  18.9  8.4  6.636  2  1  NNX14AJ91G  North  36      TIMOTHY GLOTCH    STONY BROOK  	New York  11794-0001  
+2015/2/6  2015/5/6  q  12.9  9.3  4.65  1  0  1408028  North  53      Cynthia Twohy  4118 148th Ave NE  Redmond  	Washington  98052-5164  
+2015/4/8  2015/5/8  Q  20.3  16.4  12.464  0  2  1419971  North  44      Laura A Meyerson  RESEARCH OFFICE  KINGSTON  	Rhode Island  02881-1967  
+2015/4/15  2015/7/15  Q  20.8  5.5  3.905  2  1  1420667  North  53      Daniel S Weld  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/6/20  2015/8/20  G  14.3  5.4  4.05  1  0  1349595  North  44      Elizabeth K Thomas    Providence  	Rhode Island  02912-9019  
+2015/5/28  2015/8/28  Q  14.3  11.5  8.51  1  2  1450358  North  36      Jiangang Dai  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/4/25  2015/7/25  M  6.1  6  3.18  2  1  1405641  North  36      Michael Ferdman  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/3/17  2015/6/17  G  8.2  5.1  3.774  2  1  1424035  North  55      Jon Pevehouse  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/3/12  2015/5/12  q  8.9  7  5.39  0  1  1401778  North  55      Zhengyu Liu  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/5/18  2015/6/18  g  24.8  24.3  15.552  2  2  1423306  North  36      Allison Lewko  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/6  2015/4/6  g  24.5  10.7  5.457  0  2  1437625  North  36      Taehun Lee  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/8/9  2015/11/9  m  14  12.9  8.643  0  0  1407042  North  36      Paul Agris  1400 WASHINGTON AVE  Albany  	New York  12222-0100  
+2015/5/24  2015/8/24  q  11.8  11  7.37  2  2  1411160  North  36      William Bailey  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/2/8  2015/5/8  M  12.6  12.2  8.418  2  1  1427705  North  36      Sunghee Lee  715 North Avenue  New Rochelle  	New York  10801-1830  
+2015/10/22  2016/4/22  m  15.4  6.8  4.42  0  1  1352271  North  27      Fiona J Burnell  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/3/9  2015/4/9  M  16.2  5.3  3.127  0  1  1439879  North  36      Paul J Bischoff  Research Foundation of SUNY  Oneonta  	New York  13820-4015  
+2015/8/20  2015/11/20  M  12.3  7.2  3.744  0  2  1410840  North  39      Jacques G Amar  2801 W Bancroft St., MS 944  TOLEDO  	Ohio  43606-3390  
+2015/2/10  2015/4/10  M  25  12.2  7.564  0  0  1415112  North  53      Doerte Blume  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/9/2  2015/12/2  g  9.3  5.4  4.266  0  2  NNX14AM01G  North  36      MARGARET ESTAPA    SARATOGA SPRINGS  	New York  12866-1698  
+2015/5/12  2015/6/12  Q  23.9  12.6  6.3  1  0  1439283  North  53      Blake Rutherford  4118 148th Ave NE  Redmond  	Washington  98052-5164  
+2015/3/24  2015/4/24  M  22.5  13.5  10.125  0  0  1435867  North  36      Lei Zuo  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/10/20  2015/12/20  M  21.3  12.3  9.225  0  2  1438996  North  26      Scott Mahlke  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/1/9  2015/4/9  m  14.7  10.1  7.777  1  0  1437016  North  53      David S Ginger  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/5/15  2015/8/15  M  7.8  6.2  4.154  2  2  1435908  North  36      Sara Behdad  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/3/27  2015/6/27  g  8.7  7.8  5.382  2  0  1361862  North  55      Vadim Shapiro  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/3/12  2015/5/12  g  8.8  7.1  4.473  0  2  1363509  North  41      Irem Y Tumer  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/10/10  2015/12/10  m  8.9  6.3  4.221  0  0  1419323  North  53      Curtis Deutsch  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/11/28  2016/1/28  M  6.2  5.7  4.446  1  1  1418959  North  26      Di Liu  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/14  2015/2/14  M  20.7  14.1  9.729  2  0  1402964  North  36      Rostislav Konoplich  4513 Manhattan College Parkway  Bronx  	New York  10471-4004  
+2015/5/12  2015/8/12  m  8.9  7.5  4.425  2  2  1421498  North  36      Geraldine K Gay  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/11/24  2015/12/24  q  15.1  14.5  10.15  1  0  1347772  North  44      Stephen Parman  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/3/25  2015/5/25  g  23.7  14.4  8.208  0  2  1444560  North  53      K.D. Leka  4118 148th Ave NE  Redmond  	Washington  98052-5164  
+2015/9/11  2015/12/11  g  7.7  6.3  4.032  1  1  1435072  North  55      Xiaoping Qian  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/3/24  2015/4/24  M  15.7  8.8  5.72  2  0  1433670  North  36      Maurizio Porfiri  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/5/8  2015/8/8  Q  21.2  20  12  1  0  1450497  North  26      August E Evrard  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/12/27  2016/2/27  G  23.5  21.4  15.836  1  2  1445424  North  36      Hoeteck Wee  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/5/11  2015/8/11  M  24  13.3  7.182  2  1  1401729  North  41      Tanya Cheeke    Portland  	Oregon  97211-3162  
+2015/2/25  2015/4/25  G  20.6  12.3  7.749  1  0  1406857  North  55      Joseph Draves  2740 West Mason Street  Green Bay  	Wisconsin  54303-4966  
+2015/6/15  2015/8/15  G  7.8  6.2  3.968  1  2  1359440  North  30      Aaron M Thomas  32 CAMPUS DRIVE MAIN HALL  MISSOULA  	Montana  59812-4104  
+2015/6/26  2015/9/26  M  15.7  14.6  9.636  1  1  1404343  North  26      Elena Litvinova  1903 West Michigan Avenue  Kalamazoo  	Michigan  49008-5200  
+2015/10/7  2015/11/7  M  5.2  5.1  3.264  0  1  1358959  North  36      Surita R Bhatia  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/4/21  2015/5/21  m  24.9  24.9  16.932  2  1  1343063  North  36      Ludmilla Aristilde  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/2/14  2015/3/14  M  13.1  6.7  4.69  0  1  1449319  North  41      Randy Zelick  1600 SW 4th Ave  Portland  	Oregon  97207-0751  
+2015/11/16  2016/1/16  m  19.7  11.4  7.638  2  1  1438266  North  53      Stuart Strand  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/3/27  2015/6/27  g  14.4  13.1  8.384  1  1  1416753  North  44      Karen M Fischer  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/5/1  2015/6/1  M  21.8  14.9  8.493  2  1  1417149  North  36      John D Kessler  518 HYLAN, RIVER CAMPUSBOX 27014  ROCHESTER  	New York  14627-0140  
+2015/1/12  2015/2/12  q  6.1  5.9  3.894  1  1  NNX14AK73G  North  27      KEITH GOETZ    MINNEAPOLIS  	Minnesota  55455-2009  
+2015/7/7  2015/10/7  Q  22  7.4  4.366  1  1  1361604  North  27      Andrew Harned  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/3/16  2015/5/16  m  22  19.7  15.169  2  0  1422262  North  26      Selin Aviyente  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/12/18  2016/2/18  m  11.4  8.9  5.785  1  1  1422516  North  44      Resit Sendag  RESEARCH OFFICE  KINGSTON  	Rhode Island  02881-1967  
+2015/3/11  2015/6/11  G  16  7.7  5.852  2  1  NNX14AJ18G  North  33      JINGFENG XIAO    DURHAM  	New Hampshire  03824-3585  
+2015/3/14  2015/4/14  m  19.3  12.1  7.502  2  1  1424176  North  36      Nicolas Van de Walle  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/6/7  2015/8/7  q  22.4  5.5  3.355  0  0  NNX14AL65H  North  26      BENJAMIN LONGMIER    ANN ARBOR  	Michigan  48109-1340  
+2015/9/19  2015/12/19  g  8.9  5.1  3.978  1  0  1360675  North  39      Daryl W Baldwin  500 E High Street  Oxford  	Ohio  45056-3653  
+2015/11/21  2015/12/21  M  14.3  12.2  10.004  1  1  1400249  North  39      Tao Jiang  500 E High Street  Oxford  	Ohio  45056-3653  
+2015/7/5  2015/10/5  g  22  17.2  11.524  1  1  1420702  North  27      Gilliane F Monnier  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/4/25  2015/5/25  g  11.7  9.1  5.733  2  2  1425530  North  53      Mark S Ghiorso  28430 NE 47th Place  Redmond  	Washington  98053-8841  
+2015/2/27  2015/4/27  g  16.7  14.2  7.668  1  0  1411565  North  26      Yifan Liu  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/12/25  2016/2/25  g  23.6  13  8.32  2  0  NNX14AK96H  North  36      RICHARD SEAGER    NEW YORK  	New York  10027-6944  
+2015/11/11  2016/1/11  M  14.3  10.3  6.901  0  1  1341393  North  39      David L Denlinger  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/8/28  2015/10/28  Q  18.9  17  10.88  0  2  1358613  North  36      William E Holt  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/6/21  2015/9/21  M  23  9.5  6.08  1  1  1356474  North  53      Rafael Arce-Nazario  PO Box 21790  San Juan   00931-1790  
+2015/12/15  2016/2/15  G  11.2  10  5.4  1  0  1361431  North  41      Huaxin Lin  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/7/26  2015/10/26  G  23.1  10.6  8.586  1  1  1412362  North  39      David A Modarelli  302 Buchtel Common  Akron  	Ohio  44325-0001  
+2015/10/22  2016/1/22  G  5.2  5.1  3.825  1  0  1360770  North  33      David A Peterson  OFFICE OF SPONSORED PROJECTS  HANOVER  	New Hampshire  03755-1404  
+2015/12/21  2016/2/21  g  16  5.2  3.588  1  1  1359173  North  41      Holly M Swisher  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/3/5  2015/6/5  Q  19.6  14.4  8.928  1  0  NNX14AJ13G  North  38      JIANGLONG ZHANG    GRAND FORKS  	North Dakota  58202-6059  
+2015/2/15  2015/4/15  M  15.9  15  10.2  1  0  1401793  North  53      Peter Guttorp  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/5/20  2015/7/20  M  14.8  6.2  4.526  2  2  1407600  North  36      Michael Nussbaum  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/6/24  2015/7/24  M  21.1  11.7  9.594  0  2  1420967  North  26      Jingchun Li    Ann Arbor  	Michigan  48109-1079  
+2015/10/16  2016/1/16  M  14.9  12  7.8  1  1  1424798  North  36      Michael R Leippe  524 West 59th Street  New York  	New York  10019-1069  
+2015/8/26  2015/11/26  G  13  11.9  8.449  2  0  1420864  North  44      Sherief Reda  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/11/11  2016/2/11  Q  9.8  5.3  2.968  0  0  1340681  North  26      Lucas Nave  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/6/8  2015/8/8  m  6.1  6.1  4.636  1  1  1417540  North  36      Stephen B Shaw  PO Box 9  Albany  	New York  12201-0009  
+2015/2/4  2015/4/4  m  5.5  5.4  3.996  1  0  NNX14AI03G  North  53      CECILIA M BITZ    SEATTLE  	Washington  98195-0001  
+2015/6/1  2015/9/1  G  22  9.3  6.975  2  1  1417542  North  36      David Chandler  OFFICE OF SPONSORED PROGRAMS  SYRACUSE  	New York  13244-1200  
+2015/11/28  2016/2/28  M  24.9  11.1  7.326  2  2  1418988  North  36      Robert M Rosenswig  1400 WASHINGTON AVE  Albany  	New York  12222-0100  
+2015/8/3  2015/9/3  m  10.1  8.6  5.504  0  1  1402019  North  36      Daniel T Baldassarre    Ithaca  	New York  14850-1923  
+2015/8/23  2015/10/23  M  19.9  7.3  5.767  1  2  NNX14AJ28G  North  36      BASTIAAN DIEDENHOVEN    NEW YORK  	New York  10027-6944  
+2015/4/10  2015/5/10  Q  11.1  8.6  4.3  1  0  1405907  North  36      Justin Cappos  15 Metrotech Center  Brooklyn  	New York  11201-3826  
+2015/8/26  2015/10/26  q  22.2  7.3  5.402  0  2  1440495  North  36      David S Goldberg  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/23  2015/2/23  M  18.7  14.3  11.011  0  0  1418706  North  36      Aleksandar Donev  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/12/2  2016/1/2  Q  7.6  7.1  4.97  0  0  1354557  North  41      David D Myrold  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/7/9  2015/9/9  m  13.3  10.9  7.412  2  2  1417820  North  36      Sean Cleary  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/1/7  2015/2/7  Q  15  10.7  7.597  1  1  1361484  North  36      Roger F Loring  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/5/13  2015/6/13  g  7.1  5  3.55  0  0  1348957  North  26      Rosario Ceballo  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/2/16  2015/4/16  M  16.5  14.4  7.632  1  0  1424049  North  27      Howard Lavine  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/21  2015/3/21  M  18.6  7.9  5.688  1  0  1429948  North  26      Sheryl Kubiak  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/12/9  2016/2/9  G  13.6  7  4.83  1  1  1422677  North  36      Jeffrey C Good  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/12/15  2016/1/15  G  13  12.2  6.1  1  0  1431078  North  36      Brett R Fajen  110 8TH ST  Troy  	New York  12180-3522  
+2015/7/20  2015/10/20  G  11.9  11.6  6.612  2  2  1413321  North  30      Timothy R McDermott  309 MONTANA HALL  BOZEMAN  	Montana  59717-2470  
+2015/6/28  2015/8/28  M  23.9  9  5.94  2  1  1359194  North  36      Dallas Abbott  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/3/14  2015/6/14  M  12.8  6.6  4.026  0  1  1444099  North  44      Nicole F Steinmetz  512 Liberty Lane  West Kingston  	Rhode Island  02892-0000  
+2015/12/25  2016/2/25  g  25  23.9  14.101  2  0  1404995  North  39      Ponnuswamy Sadayappan  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/11/5  2016/1/5  g  22.6  17.8  14.418  1  1  NNX14AK02G  North  27      KRISTEN MCQUINN    MINNEAPOLIS  	Minnesota  55455-2009  
+2015/2/27  2015/4/27  G  19.6  16.9  10.478  1  1  1422631  North  39      Lori A Dalton  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/7/6  2015/9/6  Q  21.1  8.1  5.184  1  1  1400247  North  36      Susannah P Fritton  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/6/1  2015/8/1  Q  18.1  9.8  6.86  2  0  1444637  North  44      Norman P Armitage  512 Liberty Lane  West Kingston  	Rhode Island  02892-0000  
+2015/7/22  2015/9/22  G  6.4  5  3.25  1  2  1445267  North  26      Victor C Li  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/11/25  2016/1/25  G  19.3  11.6  7.308  1  0  1400885  North  27      Christopher M Lutz  11200 Mississippi Blvd NW  Coon Rapids  	Minnesota  55433-3470  
+2015/12/18  2016/1/18  G  5.6  5.4  2.808  0  0  1442019  North  44      Shanti Deemyad  512 Liberty Lane  West Kingston  	Rhode Island  02892-0000  
+2015/12/18  2016/1/18  g  19.1  11  7.7  2  0  1443318  North  44      Rachel J O'Neill  512 Liberty Lane  West Kingston  	Rhode Island  02892-0000  
+2015/3/4  2015/5/4  g  18.7  7.5  5.475  2  1  NNX14AJ03G  North  26      NATHALIE DEGENAAR    ANN ARBOR  	Michigan  48109-1340  
+2015/1/1  2015/2/1  G  18.8  15.8  8.374  2  0  1342621  North  36      Marcin Mazur  4400 VESTAL PKWY E  BINGHAMTON  	New York  13902-6000  
+2015/6/22  2015/9/22  M  21.1  12.2  8.052  2  2  1212543  North  36      Benjamin Widom  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/7/12  2015/10/12  Q  6.5  5.3  3.551  2  1  1408259  North  36      Angelo Cacciuto  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/16  2015/2/16  G  14  5.5  2.805  0  2  1362120  North  26      Suljo Linic  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/7/25  2015/8/25  q  16.7  16.6  11.952  1  2  1441739  North  33      Kevin H Gardner  51 COLLEGE RD SERVICE BLDG 107  Durham  	New Hampshire  03824-3585  
+2015/11/15  2016/2/15  Q  16.5  15.2  9.12  1  0  1407779  North  53      James R Lee  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/8/21  2015/9/21  m  12.8  10.2  7.752  1  1  NNX14AF97G  North  53      FAISAL HOSSAIN    SEATTLE  	Washington  98195-0001  
+2015/8/22  2015/10/22  q  13.7  8.5  5.695  0  2  1362777  North  41      Frederick S Colwell  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/11/19  2016/1/19  g  6.6  6.2  4.216  2  2  1362095  North  39      Thaliyil V RajanBabu  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/1/21  2015/4/21  m  19.1  19.1  15.471  1  2  1350133  North  53      Emily B Fox  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/3/10  2015/4/10  M  23.8  11.8  7.552  2  2  1409102  North  36      Scott Misture  1 Saxon Drive  Alfred  	New York  14802-1205  
+2015/1/10  2015/4/10  g  14  11.2  6.832  1  0  NNX14AG60A  North  30      ADRIAN LEIGHTON    PABLO  	Montana  59855-0000  
+2015/3/6  2015/5/6  M  5.8  5  3.7  0  0  1359262  North  36      Leslie K Wright  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/5/28  2015/6/28  q  13.3  5.3  4.187  0  2  1443185  North  39      Xiaodong Zhang  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/7/16  2015/10/16  M  21.5  19.9  10.348  0  0  1361643  North  55      Anne Pringle  800 Algoma Boulevard  Oshkosh  	Wisconsin  54901-3551  
+2015/9/23  2015/10/23  G  12.5  11.2  8.736  0  1  NNX14AI84A  North  30      JEFFREY S HOOKER    LAME DEER  	Montana  59043-0000  
+2015/12/2  2016/1/2  g  23.3  18  11.7  0  1  1352143  North  53      Gwen Ottinger  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/11/17  2016/2/17  g  22.6  13.1  8.122  0  0  1411984  North  36      Ruth E Stark  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/6/22  2015/8/22  q  19.3  7.4  4.218  2  2  NNX14AI50G  North  30      JOHN KIMBALL    MISSOULA  	Montana  59812-0001  
+2015/12/1  2016/1/1  q  14.3  8.9  6.319  1  2  1404435  North  36      Laurent Saloff-Coste  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/5/15  2015/8/15  Q  24.8  9.4  5.358  0  1  1441387  North  36      Gilda A Barabino  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/7/18  2015/9/18  g  6.2  5.7  4.674  0  2  NNX14AI44G  North  39      JOEL T JOHNSON    COLUMBUS  	Ohio  43210-1016  
+2015/8/4  2015/11/4  M  23.1  19.6  11.564  1  1  1356118  North  26      Frederick J Morrison  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/2/19  2015/5/19  Q  24  20.8  13.936  1  1  1404276  North  26      Qingyu Yang  5057 Woodward  Detroit  	Michigan  48202-3622  
+2015/7/13  2015/9/13  M  19.9  14.7  9.114  0  0  1408974  North  36      Melissa Tulig  2900 Southern Blvd  Bronx  	New York  10458-5126  
+2015/6/11  2015/8/11  Q  12.1  11.5  6.9  0  1  1414736  North  39      Michael D Sokoloff  University Hall, Suite 530  Cincinnati  	Ohio  45221-0222  
+2015/5/23  2015/8/23  M  15.5  9.3  6.324  1  1  1445125  North  36      Chen Liu  8 Clarkson Avenue  Potsdam  	New York  13699-5630  
+2015/12/24  2016/2/24  g  10.3  6.2  4.774  1  2  1354100  North  55      Matthew H Edney  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/7/3  2015/9/3  Q  24.9  8.9  6.675  0  1  1410159  North  53      Gary S Collins  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/3/22  2015/5/22  g  14.7  13.5  9.855  2  2  NNX14AH07G  North  33      KRISTINA LYNCH    HANOVER  	New Hampshire  03755-4099  
+2015/4/3  2015/5/3  Q  8.8  8.6  4.816  2  1  1403906  North  26      Pawel D Danielewicz  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/6/4  2015/9/4  M  7.2  5.5  3.63  0  2  1444859  North  39      Shi-Qing Wang  302 Buchtel Common  Akron  	Ohio  44325-0001  
+2015/10/5  2016/1/5  G  11  10.1  6.868  0  0  1358893  North  36      Tony Ro  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/10/12  2015/12/12  g  22.2  13.1  8.384  0  0  1401698  North  36      Naresh Devineni  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/11/21  2015/12/21  Q  24.4  5.6  2.856  1  0  1415015  North  36      Caitlyn S Korren    Bedford  	New York  10506-1702  
+2015/11/26  2015/12/26  Q  7.7  6.6  4.422  1  1  1362030  North  39      Anita Mattson  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/8/18  2015/11/18  G  7.7  6.6  3.894  0  2  1402895  North  53      Caren Marzban  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/12/12  2016/1/12  M  17.4  5.1  3.366  2  0  1420042  North  26      Rachael Seidler  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/9/28  2015/10/28  Q  22.7  5.3  3.604  2  0  1414439  North  53      Kevin T Gray    Pullman  	Washington  99163-5463  
+2015/7/27  2015/10/27  M  24.7  20.9  12.749  1  1  1410935  North  39      David Terman  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/2/23  2015/5/23  M  12  11.8  7.198  0  2  1355990  North  36      Steven Skiena  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/12/11  2016/1/11  M  10.1  8.5  6.46  0  2  1359868  North  55      Evan R Larson  1 University Plaza  Platteville  	Wisconsin  53818-0000  
+2015/1/18  2015/4/18  m  10.7  8.3  4.98  0  1  1353827  North  41      Mark Novak  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/12/13  2016/2/13  g  22.7  5.1  3.774  1  1  1402587  North  55      Mario F Trujillo  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/8/19  2015/10/19  g  20.4  12  8.88  1  0  1445723  North  36      Timothy J Crone  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/3/25  2015/6/25  M  21.9  18.1  11.041  0  2  1422324  North  36      Jinhui Xu  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/10/3  2015/12/3  M  10.4  7.6  4.94  0  1  1339130  North  41      Alice Barkan  5219 UNIVERSITY OF OREGON  EUGENE  	Oregon  97403-5219  
+2015/2/1  2015/4/1  M  13.5  12.8  8.704  0  0  NNX14AI51G  North  41      MICHAEL S TWARDOWSKI    PHILOMATH  	Oregon  97370-0000  
+2015/7/7  2015/10/7  m  23.3  7.8  5.46  1  2  1414910  North  36      Adonis R Pimienta-Penalver    Buffalo  	New York  14068-1613  
+2015/4/7  2015/5/7  m  16.9  14.7  8.379  1  0  1403271  North  36      Qile Chen  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/10/1  2016/1/1  g  14.1  8.8  4.928  0  1  1414628  North  36      John Hellerstedt    Clayton VIC 3168     
+2015/8/4  2015/10/4  g  17.1  9.3  6.045  2  2  1414723  North  39      Nicholas J Goble    Cleveland  	Ohio  44106-7078  
+2015/5/23  2015/8/23  g  11.7  5.5  3.3  1  1  1353553  North  36      Kenneth L Shepard  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/9/9  2015/12/9  Q  16.7  14.1  9.87  2  2  1414739  North  36      Alex C Levine    Ellenville  	New York  12428-2629  
+2015/4/6  2015/6/6  g  12.2  5.3  2.809  1  2  1414988  North  41      Jessie R Wishart    Corvallis  	Oregon  97330-5466  
+2015/2/27  2015/3/27  g  10.3  9.2  6.348  1  0  1401954  North  36      Sarah M Collins    Ithaca  	New York  14850-1026  
+2015/7/28  2015/9/28  G  8.3  6.5  3.445  0  1  1405224  North  55      D C Kelly  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/11/7  2016/3/7  g  19.1  6.6  5.346  1  0  NNX14AI57A  North  36      PETER J GIERASCH    ITHACA  	New York  14850-2820  
+2015/12/27  2016/2/27  g  16.3  7.8  5.538  0  0  1356377  North  53      Edgar L Andreas  4118 148th Ave NE  Redmond  	Washington  98052-5164  
+2015/11/10  2015/12/10  g  12.3  11  5.83  1  1  1353896  North  55      John W Williams  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/10/23  2015/11/23  M  15.6  15  10.8  0  0  1412472  North  36      Barry Honig  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/9/22  2015/11/22  M  14.9  10.2  6.12  2  2  1409590  North  44      David C Paine  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/5/17  2015/6/17  Q  22  19.9  11.144  1  0  1409507  North  36      Benjamin S Hsiao  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/6/27  2015/8/27  M  18.2  14.9  10.132  0  0  1439448  North  26      Vladimir D Tonchev  1400 Townsend Drive  Houghton  	Michigan  49931-1295  
+2015/6/27  2015/7/27  q  25  9.7  6.208  2  1  1406162  North  27      Craig C Westerland  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/7/3  2015/8/3  M  22.5  7.1  4.686  0  1  1414979  North  26      Jonathan E Barney    Lansing  	Michigan  48910-5825  
+2015/5/10  2015/6/10  M  18.3  18.1  12.489  2  1  1414820  North  41      Ryan C McMinds    Jefferson  	Oregon  97352-9641  
+2015/6/13  2015/7/13  M  10.3  8.9  7.298  1  0  1414718  North  23      Hillary A Scannell    Kennebunkport  	Maine  04046-5128  
+2015/7/9  2015/8/9  q  9.3  9.3  5.022  2  2  1415047  North  41      Katherine G Sammler    Parkdale  	Oregon  97041-7711  
+2015/2/21  2015/3/21  g  21.8  21.2  12.72  2  0  1414727  North  26      Sarah E Huff    Ann Arbor  	Michigan  48103-6717  
+2015/3/12  2015/5/12  M  7.4  5.9  3.481  0  1  1415057  North  26      Benjamin L Miller    Ann Arbor  	Michigan  48109-1048  
+2015/9/24  2015/10/24  M  20.1  13  8.45  0  2  1414471  North  53      David S Favero    Pullman  	Washington  99163-4432  
+2015/3/23  2015/5/23  M  9.5  8.8  4.928  1  0  1417187  North  26      Robert J Minerick  1401 Sugar Maple Lane  Houghton  	Michigan  49931-1295  
+2015/1/19  2015/4/19  Q  24.1  23.3  17.941  1  2  1406247  North  27      Arnab Sen  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/5/26  2015/7/26  q  9.7  8  4.32  0  1  1405832  North  36      Song Sun  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/1/15  2015/4/15  G  11.1  6.7  4.824  1  2  1359585  North  55      Gordon W Gauchat  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/2/23  2015/3/23  m  13.4  8.3  4.648  0  2  1441402  North  36      Matthew Garb  Office of Research & Sponsored P  Brooklyn  	New York  11210-2889  
+2015/9/28  2015/10/28  g  11.2  5.5  4.29  0  2  1444432  North  44      Colleen Dalton  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/9/16  2015/10/16  g  10.8  6.3  4.032  1  2  1403049  North  36      Sanat K Kumar  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/3/15  2015/4/15  Q  20.8  16  13.12  0  0  1405840  North  26      Jean Tsao  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/27  2015/4/27  m  16.3  8.7  4.872  0  0  1357893  North  33      Bernard J Vasquez  51 COLLEGE RD SERVICE BLDG 107  Durham  	New Hampshire  03824-3585  
+2015/12/18  2016/1/18  m  19.6  13.9  8.479  2  0  NNX14AG57A  North  55      LISA B BOSMAN    KESHENA  	Wisconsin  54135  
+2015/2/8  2015/5/8  M  5.3  5  3.1  2  2  1415841  North  55      Alexey G Zdanovsky  1202 Ann Street  Madison  	Wisconsin  53713-2410  
+2015/2/24  2015/3/24  G  7.2  6.2  5.022  0  0  1402849  North  39      Stuart J Rowan  Nord Hall, Suite 615  CLEVELAND  	Ohio  44106-4901  
+2015/6/18  2015/9/18  q  13.3  7.3  5.183  2  0  1262457  North  39      William Ray  700 Childrens Drive  Columbus  	Ohio  43205-2664  
+2015/12/24  2016/2/24  G  9.4  7.4  3.996  0  2  1416205  North  26      Nicholas A Moroz  600 Renaissance Center ? Suite 1  Detroit  	Michigan  48243-1802  
+2015/4/5  2015/7/5  Q  9.4  7.6  4.104  0  1  1408947  North  41      Edward C Waymire  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/11/24  2016/1/24  G  9.3  7  5.67  1  0  1355496  North  36      Vincent B Crapanzano  365 Fifth Avenue  New York  	New York  10016-4309  
+2015/9/1  2015/10/1  G  23.5  20.7  13.455  0  2  1357684  North  41      Kenneth C Maes  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/2/1  2015/3/1  g  15.5  9.7  7.954  0  1  1406179  North  33      Brad W Taylor  OFFICE OF SPONSORED PROJECTS  HANOVER  	New Hampshire  03755-1404  
+2015/6/5  2015/8/5  M  13.5  7.5  5.475  2  1  1401380  North  26      Gopal Prasad  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/12/15  2016/2/15  q  7.6  6.6  3.3  1  1  1361131  North  36      Ovidiu Savin  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/6/16  2015/8/16  Q  16.1  14.4  9.936  2  2  1347349  North  36      Richard DeMartino  1 LOMB MEMORIAL DR  ROCHESTER  	New York  14623-5603  
+2015/8/14  2015/11/14  M  23.1  7.8  4.992  2  0  1441810  North  44      Charles Schroeder  512 Liberty Lane  West Kingston  	Rhode Island  02892-0000  
+2015/6/26  2015/8/26  M  7  6.5  4.94  0  2  1402076  North  36      Donald T Rodbell  807 Union Street  Schenectady  	New York  12308-3103  
+2015/2/26  2015/5/26  g  9.2  7.3  5.256  1  0  1349276  North  26      Paul E Berry  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/7/7  2015/8/7  g  20.6  19.1  14.325  0  1  1403034  North  39      Bryan C Carstens  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/8/24  2015/11/24  Q  18.2  6.9  4.071  0  0  1444493  North  36      Mor Naaman  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/4/28  2015/5/28  m  16.8  9.6  6.624  0  1  NNX14AG94G  North  36      DONG LAI    ITHACA  	New York  14850-2820  
+2015/10/17  2015/12/17  g  16.9  5.2  2.704  1  0  1357230  North  36      Leslie Paik  Convent Ave at 138th St  New York  	New York  10031-9101  
+2015/11/14  2016/2/14  q  9.9  7.3  3.942  0  2  1338064  North  27      Donald R Neu  720 Fourth Avenue South  St. Cloud  	Minnesota  56301-4498  
+2015/10/27  2015/12/27  m  20.9  6.8  4.216  2  0  1443410  North  36      Richard W Allmendinger  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/2/7  2015/5/7  g  8.3  6.7  4.355  2  2  1405950  North  39      Ahsan Mian  3640 Colonel Glenn Highway  Dayton  	Ohio  45435-0001  
+2015/12/24  2016/1/24  Q  11.9  10.2  6.222  2  0  1439374  North  36      Delaram Kahrobaei  300 Jay Street  Brooklyn  	New York  11201-2902  
+2015/2/23  2015/5/23  g  10.6  9  5.04  1  0  1354297  North  36      Mara C Mills  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/5/28  2015/6/28  g  11.1  9.6  6.336  0  0  1403383  North  36      Dorian Goldfeld  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/12/2  2016/2/2  M  13.4  9.2  4.784  0  2  NNX14AG59A  North  27      COURTNEY KOWALCZAK    CLOQUET  	Minnesota  55720-2964  
+2015/7/13  2015/8/13  Q  16.6  7.3  3.723  2  2  1360745  North  53      Joel A Thornton  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/11/7  2016/1/7  Q  19.4  8.4  6.132  1  0  1410548  North  39      Eric Tepe  University Hall, Suite 530  Cincinnati  	Ohio  45221-0222  
+2015/5/8  2015/8/8  g  18.5  17.1  12.825  1  0  1409831  North  53      Georg Seelig  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/7/6  2015/9/6  M  9.1  8  4.24  1  2  NNX14AH42G  North  53      ANDREW T JESSUP    SEATTLE  	Washington  98195-0001  
+2015/11/18  2016/1/18  G  22.5  18.7  9.35  2  0  1439957  North  41      Daniel Dig  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/1/13  2015/2/13  M  21.9  20  12.8  2  0  1242839  North  26      Aaron J Ridley  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/1/15  2015/2/15  M  22  8.9  6.141  0  0  1341472  North  36      Haim Waisman  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/7/14  2015/10/14  g  24.6  5.8  4.292  0  2  1414246  North  36      Rosalba Perna  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/5/21  2015/7/21  M  24.3  8.8  6.6  1  2  1403350  North  55      Eric V Shusta  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/6/27  2015/8/27  Q  23.2  5.7  3.249  1  0  1349724  North  27      Jasmine Y Foo  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/2/22  2015/3/22  Q  23.9  17.4  11.658  0  2  1359008  North  36      Sharon Small  515 LOUDON ROAD  LOUDONVILLE  	New York  12211-1462  
+2015/7/7  2015/10/7  Q  9.5  9.5  4.845  1  1  1400490  North  53      David Rangel  3028 Lindbergh Avenue  Bellingham  	Washington  98225-1599  
+2015/12/4  2016/1/4  g  23.1  7.8  5.382  2  0  NNX14AH03G  North  55      ALLEN LENZEN    MADISON  	Wisconsin  53715-1218  
+2015/10/12  2015/12/12  M  16.2  11.8  9.086  2  2  1353628  North  36      Paul Nemirovsky  181 North 11th St  Brooklyn  	New York  11211-1175  
+2015/11/7  2016/1/7  g  11.1  5.9  4.012  2  1  1361789  North  26      Sergey Fomin  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/10/11  2016/1/11  M  11.7  8.6  5.762  0  0  1359413  North  36      Samuel S Bowser  150 Broadway, Suite 560  Menands  	New York  12204-2719  
+2015/3/12  2015/6/12  m  21.4  17.7  12.036  1  1  1414053  North  27      James D Van de Ven  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/11/27  2015/12/27  Q  11.5  9.5  7.125  0  2  1304307  North  41      Doug Gardner  3345 Redwood Highway  Grants Pass  	Oregon  97527-9291  
+2015/10/22  2015/12/22  G  23.7  8.5  5.015  0  2  1355211  North  53      John Harrison  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/10/2  2016/1/2  G  6.4  5.1  2.754  1  2  1418976  North  55      Rebecca M Willett  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/9/19  2015/10/19  g  23.8  14.1  10.716  0  2  1359243  North  38      Van A Doze  University Station  Grand Forks  	North Dakota  58202-0000  
+2015/6/6  2015/8/6  M  16.4  16.1  9.982  0  2  NNX14AE72G  North  33      JACK E DIBB    DURHAM  	New Hampshire  03824-3585  
+2015/7/2  2015/10/2  m  6.5  6.1  4.941  0  0  1408681  North  26      Carl M Bromberg  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/24  2015/3/24  M  24.6  12.5  9.125  0  2  1439460  North  36      Abani K Patra  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/3/14  2015/5/14  G  9.8  9.6  5.472  1  0  1437057  North  27      Peter Kennedy  1600 Grand Avenue  Saint Paul  	Minnesota  55105-1801  
+2015/8/6  2015/9/6  Q  17.1  15.5  8.525  2  0  1431428  North  53      Stephanie E Hampton  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/5/3  2015/7/3  g  13.1  10.5  7.98  1  1  1433955  North  55      Alfredo R Berardo  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/6/9  2015/9/9  g  20.8  9.5  6.65  0  1  1406754  North  30      Jeffrey Good  32 CAMPUS DRIVE MAIN HALL  MISSOULA  	Montana  59812-4104  
+2015/3/18  2015/6/18  g  13.3  7.2  5.616  2  0  1406762  North  16      Paul A Hohenlohe  Office of Sponsored Programs  MOSCOW  	Idaho  83844-3020  
+2015/6/20  2015/9/20  M  7.2  6.3  4.599  0  1  1439070  North  36      Rebecca A Bader  OFFICE OF SPONSORED PROGRAMS  SYRACUSE  	New York  13244-1200  
+2015/10/1  2016/1/1  Q  13.2  9.5  7.125  0  0  1421304  North  41      David P O Gorman  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/3/5  2015/5/5  M  22.2  7.9  5.767  0  0  1350178  North  55      Krishanu Saha  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/9/19  2015/10/19  M  15.2  10  6.8  0  2  1438956  North  26      Volker Sick  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/7/24  2015/8/24  g  9.6  5.8  4.466  0  0  NNX14AF74G  North  36      JIN KODA    STONY BROOK  	New York  11794-0001  
+2015/1/20  2015/2/20  Q  5  5  3.7  2  0  1435915  North  55      Richard C Holz  P.O. Box 1881  Milwaukee  	Wisconsin  53201-1881  
+2015/7/18  2015/8/18  Q  20.6  9.8  7.546  0  1  1353592  North  33      Yvon G Durant  2 Marin Way  Stratham  	New Hampshire  03885-2578  
+2015/8/11  2015/9/11  q  5.3  5  3.55  2  2  1351159  North  39      Carlos E Castro  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/12/13  2016/1/13  m  17.4  5.2  3.276  1  0  1357598  North  36      Jushan Bai  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/12/11  2016/1/11  g  5.7  5.3  3.021  0  2  1405204  North  36      Gisela Winckler  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/2/3  2015/4/3  g  8.5  5.3  4.187  0  0  1441415  North  26      Nicole B Ellison  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/4/13  2015/7/13  g  17.8  13  7.67  0  2  1400349  North  33      Jesse Wolfson    Hanover  	New Hampshire  03755-6612  
+2015/11/4  2016/1/4  M  21.9  21.1  17.091  1  2  1433886  North  39      Stephen M Hovick  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/1/12  2015/2/12  G  16.3  16.3  9.128  2  2  1348097  North  36      Ge Wang  110 8TH ST  Troy  	New York  12180-3522  
+2015/9/8  2015/12/8  g  6.9  5.2  3.38  0  0  1407000  North  36      Walter F Eanes  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/4/1  2015/7/1  q  20.7  14.4  7.344  0  0  1419327  North  53      William S Wilcock  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/8/22  2015/11/22  G  22.9  13.3  6.783  2  1  1350772  North  26      Jen C Owen  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/6/4  2015/8/4  M  24.6  11  8.91  0  1  1439555  North  36      Stephen Ruthmann  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/8/21  2015/9/21  Q  7.2  5.1  3.519  1  1  1355960  North  36      Lance F Bosart  1400 WASHINGTON AVE  Albany  	New York  12222-0100  
+2015/6/6  2015/9/6  G  11.4  8.5  5.1  0  0  1418857  North  36      Sean M Higgins  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/9/19  2015/12/19  g  10.8  6.3  3.78  2  2  NNX14AE29H  North  16      DARYL MACOMB    BOISE  	Idaho  83725-0399  
+2015/2/25  2015/5/25  G  10.2  6.3  4.788  0  2  1438644  North  36      Nada M Assaf-Anid  Northern Boulevard  Old westbury  	New York  11568-8000  
+2015/7/16  2015/10/16  g  12.3  8.8  5.544  0  1  NNX14AE38H  North  36      DANIEL LEWIS    TROY  	New York  12180-3522  
+2015/2/28  2015/4/28  g  20.7  6.7  3.35  1  2  1406732  North  39      John V Freudenstein  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/2/5  2015/3/5  G  8.1  5.6  4.424  0  0  1361554  North  27      Shahryar F Kianian  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/10/27  2015/11/27  M  8  7.7  5.544  1  0  1350795  North  44      Baylor Fox-Kemper  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/5/16  2015/8/16  q  23.7  8.6  5.59  1  1  1438867  North  36      Ivan Z Corwin  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/11  2015/2/11  G  6.3  5.1  3.825  1  0  1440036  North  36      Kathleen M Keranen  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/7/6  2015/8/6  g  24.1  11.8  8.142  0  2  1430556  North  36      James F Lynch  8 Clarkson Avenue  Potsdam  	New York  13699-5630  
+2015/2/26  2015/5/26  m  13.7  11.4  8.208  1  0  1344602  North  16      Daniele Tonina  Office of Sponsored Programs  MOSCOW  	Idaho  83844-3020  
+2015/4/19  2015/7/19  q  12.9  6.2  4.092  1  2  1430015  North  27      Richard D Ricketts  1049 University Drive  Duluth  	Minnesota  55812-3011  
+2015/12/17  2016/1/17  q  8.4  7.5  4.05  2  2  1404614  North  55      Mark D Ediger  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/5/4  2015/8/4  g  12.9  10.3  5.459  2  2  1359358  North  36      Brooks B Gump  OFFICE OF SPONSORED PROGRAMS  SYRACUSE  	New York  13244-1200  
+2015/4/1  2015/5/1  Q  20.7  16  12.16  2  2  1353293  North  26      John S Carson  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/3/22  2015/5/22  G  11.2  8.2  6.724  1  1  1361448  North  55      Laura McLay  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/8/27  2015/11/27  M  20.9  12.4  7.068  1  2  1432997  North  53      Ashley Ater-Kranov  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/8/23  2015/11/23  q  16.4  7.5  5.7  2  0  1356132  North  26      Peter E van Keken  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/3/23  2015/4/23  G  20.7  18.8  12.972  0  2  1358091  North  36      Cian R Wilson  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/10/11  2015/12/11  G  6.1  6.1  3.172  0  0  1348627  North  38      Benjamin Balas  Dept 4000 - PO Box 6050  FARGO  	North Dakota  58108-6050  
+2015/3/15  2015/5/15  g  17  16.4  10.988  0  2  1350741  North  27      Melissa K Gardner  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/12/23  2016/12/23  Q  24  19.9  13.134  1  0  1351590  North  27      Pavlo Pylyavskyy  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/7/11  2015/10/11  G  16.9  6.2  4.154  1  2  1439285  North  36      Robert Lazarsfeld  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/8/6  2015/10/6  M  12.6  9.9  6.138  0  1  1357529  North  41      Alan C Mix  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/6/24  2015/7/24  q  21.4  16.1  10.304  0  0  1351837  North  26      Brian Arbic  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/6/16  2015/7/16  Q  8.8  8.1  5.103  2  0  1356632  North  53      Paul Jobsis  2 John Brewer's Bay  charlotte amalie   00802-9990  
+2015/7/11  2015/8/11  m  12.5  10.5  6.825  1  2  1359256  North  36      Shane W Rogers  8 Clarkson Avenue  Potsdam  	New York  13699-5630  
+2015/12/25  2016/1/25  M  20.2  9.9  7.326  1  0  1359461  North  53      Behrooz A Shirazi  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/12/7  2016/2/7  m  12.4  8.2  5.412  1  1  1347848  North  55      Andrew J Frierdich    Madison  	Wisconsin  53706-1600  
+2015/7/11  2015/10/11  M  16.1  5.2  2.912  2  0  1322732  North  55      Ora J Reuter  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/10/18  2015/11/18  m  17.9  14.4  10.08  0  1  1420978  North  36      Gregory P Dietl  1259 Trumansburg Road  Ithaca  	New York  14850-1313  
+2015/4/13  2015/7/13  g  21.6  14.8  10.36  0  2  1350207  North  23      David R Angelini  4000 Mayflower Hill  Waterville  	Maine  04901-8840  
+2015/11/10  2015/12/10  g  5.9  5.3  2.756  2  2  1351412  North  26      Anish Tuteja  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/10/17  2016/1/17  g  6.1  5.4  4.158  2  0  1401929  North  36      Carl A Batt  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/2/14  2015/5/14  g  22.8  12.1  9.438  0  0  1345143  North  44      Karen M Fischer  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/9/6  2015/12/6  M  24.4  20.5  10.455  0  2  1416953  North  26      Ivo D Dinov  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/12/8  2016/2/8  g  22  7.4  4.662  2  0  NNX14AC60G  North  27      THOMAS NELSON    MINNEAPOLIS  	Minnesota  55455-2009  
+2015/5/25  2015/8/25  q  11.5  11.4  7.41  0  0  1359059  North  36      John Parsons  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/11/16  2015/12/16  g  24.9  11.6  5.8  2  0  1419498  North  27      Sergey Bobkov  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/9/20  2015/12/20  Q  17.2  15.2  10.944  0  1  1344668  North  36      Noemie Elhadad  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/2/7  2015/3/7  Q  7.8  7.1  5.538  0  1  1350047  North  44      Wesley H Bernskoetter  BOX 1929  Providence  	Rhode Island  02912-1929  
+2015/12/10  2016/1/10  g  20.8  15.6  9.204  0  2  NNX14AE24H  North  39      MARCELO DAPINO    COLUMBUS  	Ohio  43210-1016  
+2015/2/11  2015/3/11  M  16.1  14.5  8.265  2  1  1262396  North  36      Steven T Kelling  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/9/14  2015/10/14  m  23.1  8.9  6.764  2  0  1419009  North  53      Keiko Torii  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/6/22  2015/7/22  G  9.3  8.2  5.084  2  1  1264146  North  27      Mark J Engebretson  2211 Riverside Avenue  Minneapolis  	Minnesota  55454-1338  
+2015/2/3  2015/3/3  g  12.7  7.7  5.544  2  2  1354625  North  26      Timothy James  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/8/9  2015/9/9  g  12.5  7.8  4.212  0  0  1361107  North  41      Devlin Montfort  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/12/26  2016/1/26  M  12.8  9.9  5.445  0  2  1355567  North  53      Robert A Houze  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/6/25  2015/9/25  q  6.8  5.8  3.712  1  2  1357522  North  53      Laurence Padman  2101 Fourth Ave Suite 1310  Seattle  	Washington  98121-2350  
+2015/10/5  2016/1/5  g  19.8  11.2  7.056  2  2  NNX14AD62G  North  36      DANIEL OSGOOD    NEW YORK  	New York  10027-6944  
+2015/7/11  2015/10/11  g  11.3  9.6  5.76  1  1  1352694  North  27      Sridharan Ramaswamy  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/1/1  2015/4/1  M  15.4  14.7  10.437  2  2  NNX14AC97G  North  41      MITCHELL TURKER    PORTLAND  	Oregon  97201-3011  
+2015/1/17  2015/4/17  q  6.3  5.8  3.248  1  1  1400800  North  39      Sundaram Murali Meenakshi  University Hall, Suite 530  Cincinnati  	Ohio  45221-0222  
+2015/5/17  2015/8/17  g  8.1  6.1  3.66  1  0  1430180  North  36      Andreas Stavridis  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/2/17  2015/5/17  q  9.9  6.8  4.352  0  0  1421191  North  26      Yinlun Huang  5057 Woodward  Detroit  	Michigan  48202-3622  
+2015/11/22  2016/1/22  M  20.7  17.2  9.288  2  0  1300603  North  39      John M Herbert  Office of Sponsored Programs  Columbus  	Ohio  43210-1016  
+2015/4/25  2015/6/25  m  12.2  11.4  6.726  1  0  1347499  North  36      Brian A Colle  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/11/26  2016/1/26  Q  8.2  6.3  4.221  2  0  NNX14AD23G  North  39      TOM MEGEATH    TOLEDO  	Ohio  43606-3390  
+2015/5/6  2015/8/6  g  12.6  9  4.77  1  0  1356964  North  36      Ian Hewson  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/8/2  2015/9/2  G  12.3  6.8  4.828  2  2  1354101  North  55      Ellen I Damschen  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/2/21  2015/5/21  q  23.5  16.8  12.096  2  0  1357869  North  26      Meredith Gore  CONTRACT AND GRANT ADMINISTRATIO  EAST LANSING  	Michigan  48824-1046  
+2015/1/23  2015/4/23  M  21.9  15.2  11.248  2  1  NNX14AD50G  North  36      PHILIP NICHOLSON    ITHACA  	New York  14850-2820  
+2015/3/10  2015/5/10  Q  22.6  9  6.21  1  2  1425187  North  39      Nicole S Zacharia  302 Buchtel Common  Akron  	Ohio  44325-0001  
+2015/10/23  2015/12/23  g  15.9  13.4  7.504  0  2  1411704  North  44      Meng Wei  RESEARCH OFFICE  KINGSTON  	Rhode Island  02881-1967  
+2015/4/19  2015/5/19  g  9.7  8.8  5.808  0  0  1352567  North  36      Brian Humensky  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/1/25  2015/3/25  q  23.1  16.3  12.225  0  0  1351184  North  36      Roseanna N Zia  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/6/28  2015/7/28  q  16.6  8.3  4.98  0  2  1417741  North  36      Tiffany Yip  441 E.Fordham Road  Bronx  	New York  10458-5149  
+2015/6/24  2015/7/24  M  5.5  5.1  3.57  1  2  1422335  North  26      Sarah C Koch  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/8/4  2015/10/4  g  7.4  5.4  2.808  0  0  1350720  North  36      Phillipa Gill  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/4/11  2015/5/11  q  23.8  13  7.28  0  2  1323034  North  36      Joshua Tucker  70 WASHINGTON SQUARE S  NEW YORK  	New York  10012-1019  
+2015/6/22  2015/7/22  g  19.5  6  4.26  0  1  1417455  North  36      Kui Ren  402 Crofts Hall  Buffalo  	New York  14260-0000  
+2015/10/16  2016/1/16  G  14.3  10  6.7  1  0  1351545  North  36      Olivier Desjardins  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/7/25  2015/10/25  g  13.4  5.1  3.366  2  2  1350182  North  36      Ross E Tate  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/11/9  2016/1/9  Q  9.8  6.6  5.082  1  0  1414342  North  36      Pietro Ortoleva  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/4/9  2015/5/9  M  16.1  14.8  10.064  2  1  1351002  North  27      Mo Li  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/1/16  2015/4/16  M  24.4  5.9  3.599  2  1  1414314  North  53      Von P Walden  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/1/19  2015/2/19  g  21.5  11.7  7.956  1  0  1346974  North  36      Terri I Grodzicker  1 BUNGTOWN ROAD  COLD SPRING HARBOR  	New York  11724-4220  
+2015/7/9  2015/10/9  Q  5.8  5.6  3.864  0  0  1414855  North  26      Carol C Menassa  3003 South State St. Room 1062  Ann Arbor  	Michigan  48109-1274  
+2015/8/18  2015/11/18  m  13.6  12.8  8.704  0  0  1363328  North  36      Y. Lawrence Yao  2960 Broadway  NEW YORK  	New York  10027-6902  
+2015/8/1  2015/9/1  m  13.7  6.4  3.776  2  2  1355469  North  53      Edward H Hagen  NEILL HALL, ROOM 423  PULLMAN  	Washington  99164-3140  
+2015/9/18  2015/12/18  q  15.4  13.5  7.02  0  0  1344357  North  26      M. Clara Castro  3003 South State St.  Ann Arbor  	Michigan  48109-1274  
+2015/11/25  2016/2/25  M  16.4  12.8  8.064  2  1  NNX14AC10G  North  33      HANS MUELLER    HANOVER  	New Hampshire  03755-4099  
+2015/11/13  2016/1/13  G  24.3  17.3  13.148  1  1  NNX14AC43G  North  39      IAN HOWAT    COLUMBUS  	Ohio  43210-1016  
+2015/12/23  2016/2/23  q  7.6  6.5  4.875  1  1  1351160  North  36      Qing Chang  WEST 5510 FRK MEL LIB  STONY BROOK  	New York  11794-3362  
+2015/3/1  2015/4/1  g  14.9  9.9  6.831  1  0  1341996  North  55      Wilfred T Tysoe  P O BOX 340  Milwaukee  	Wisconsin  53201-0340  
+2015/8/21  2015/10/21  q  8.7  5.9  3.658  1  2  NNX14AC57G  North  26      JON M MILLER    ANN ARBOR  	Michigan  48109-1340  
+2015/6/6  2015/7/6  g  16.9  14.1  11.139  0  0  1347192  North  30      Rebecca O Bendick  32 CAMPUS DRIVE MAIN HALL  MISSOULA  	Montana  59812-4104  
+2015/9/12  2015/12/12  g  13.3  6.5  4.29  0  2  1346380  North  27      John R Budenske  6901 East Fish Lake Road  maple grove  	Minnesota  55369-5454  
+2015/8/6  2015/9/6  M  12.3  8.1  4.941  0  2  NNX14AC54G  North  27      CHARLES E WOODWARD    MINNEAPOLIS  	Minnesota  55455-2009  
+2015/4/20  2015/6/20  M  23.9  20.3  16.646  1  1  1349892  North  36      Arindam Chakraborty  OFFICE OF SPONSORED PROGRAMS  SYRACUSE  	New York  13244-1200  
+2015/12/16  2016/2/16  q  19.8  9.2  4.968  2  1  1322861  North  36      William M Trochim  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/4/3  2015/6/3  m  11.6  5.7  3.762  0  2  NNX14AC36G  North  55      PHILIP TOWNSEND    MADISON  	Wisconsin  53715-1218  
+2015/8/4  2015/11/4  q  11.3  8.3  6.723  1  1  1322659  North  53      Lorna A Rhodes  4333 Brooklyn Ave NE  SEATTLE  	Washington  98195-9472  
+2015/7/21  2015/10/21  m  20.8  6.6  3.366  1  1  1333367  North  36      Philip D McMichael  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/8/7  2015/9/7  g  6.1  5.5  2.915  1  0  1362663  North  44      Cheryl D Wilga  RESEARCH OFFICE  KINGSTON  	Rhode Island  02881-1967  
+2015/10/15  2015/12/15  M  8.4  5.5  2.86  2  2  NNX14AB89G  North  53      BENJAMIN SMITH    SEATTLE  	Washington  98195-0001  
+2015/12/3  2016/2/3  q  8.2  6.5  4.81  1  1  1345675  North  26      Tae Hyung Kim  1600 Huron Parkway  Ann Arbor  	Michigan  48109-0000  
+2015/4/22  2015/5/22  M  7  5.3  3.445  0  2  1345892  North  36      Prakash Narayan  51 Charles Lindbergh Blvd  Uniondale  	New York  11553-3658  
+2015/7/17  2015/8/17  M  24.3  7.6  3.8  1  1  1345555  North  55      Fritz m Schomburg  5201 Whitcomb Dr.  Madison  	Wisconsin  53711-2638  
+2015/8/6  2015/11/6  Q  19.9  5.3  3.763  2  1  1339325  North  55      Richard D Vierstra  21 North Park Street  MADISON  	Wisconsin  53715-1218  
+2015/4/19  2015/7/19  g  11.3  9.5  6.46  1  0  1345672  North  55      Shun Mao  P. O. Box 11424  Milwaukee  	Wisconsin  53211-9998  
+2015/1/4  2015/4/4  Q  18.1  16.3  10.106  1  2  1345753  North  38      Agus Widjaja  201 5th Street North  Fargo  	North Dakota  58102-4889  
+2015/7/11  2015/8/11  G  23.3  15.9  9.381  0  1  1401669  North  36      Amit Lal  373 Pine Tree Road  Ithaca  	New York  14850-2820  
+2015/6/8  2015/8/8  g  18  6.8  3.876  2  0  1333029  North  53      Richard K Scott  4118 148th Ave NE  Redmond  	Washington  98052-5164  
+2015/10/28  2015/11/28  g  14.3  12.1  7.502  0  2  1361229  North  41      Shane A Brown  OREGON STATE UNIVERSITY  Corvallis  	Oregon  97331-8507  
+2015/9/12  2015/12/12  M  18.9  14  7.28  0  1  1358182  North  27      Sairaj V Dhople  200 OAK ST SE  Minneapolis  	Minnesota  55455-2070  
+2015/1/19  2015/2/19  Q  24.4  16.6  8.632  1  0  1346202  North  53      Jay Goyal  220 2nd Ave S  Seattle  	Washington  98104-2617  
+2015/9/28  2015/10/28  Q  7.1  6.8  4.148  0  1  1360077  North  39      James McManus  302 Buchtel Common  Akron  	Ohio  44325-0001  

@@ -1,0 +1,433 @@
+Order Date  Delivery Date Stone Code length depth height length Edge Finished depth Edge Finished Order Number State Code Customer name and address
+2015/8/18  2015/9/18  G  5.5  5.5  3.52  2  1  NNX14AT36G  East  34      MARK ZONDLO    PRINCETON  	New Jersey  08544-2001  
+2015/6/23  2015/7/23  M  17.3  5  2.5  2  0  NNX14AR20A  East  24      KAI YANG    COLLEGE PARK  	Maryland  20742-0001  
+2015/8/15  2015/9/15  G  14.5  8.7  5.133  1  0  NNX14AR46G  East  24      MATT HANSEN    COLLEGE PARK  	Maryland  20742-0001  
+2015/3/7  2015/5/7  g  9.6  8  4.4  0  0  NNX14AQ96G  East  42      MICHAEL RAMSEY    PITTSBURGH  	Pennsylvania  15213-3320  
+2015/9/5  2015/10/5  g  17.2  6.5  4.03  0  0  1444794  East  34      Jaroslaw S Zola  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/11/26  2016/2/26  g  14  10.8  7.776  1  0  1447416  East  51      Christopher L North  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/9/15  2015/11/15  m  13.9  6.3  4.473  2  1  NNX14AR81G  East  34      WILLIAM STORRAR    PRINCETON  	New Jersey  08540-6813  
+2015/1/10  2015/3/10  g  13.8  10.8  6.48  2  0  NNX14AR02A  East  34      HAIM BARUH    NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/5/25  2015/7/25  M  21.5  17.8  12.816  1  2  NNX14AT47G  East  24      PIETRO BERNASCONI    BALTIMORE  	Maryland  21218-2680  
+2015/6/24  2015/9/24  M  12.5  6.8  5.236  0  0  NNX14AT53H  East  10      DR. GARY HOLNESS    DOVER  	Delaware  19901-2202  
+2015/2/12  2015/4/12  Q  14.5  10.4  7.8  0  0  NNX14AT04H  East  24      LASEAN ROBINSON    BALTIMORE  	Maryland  21251-0002  
+2015/1/12  2015/2/12  g  23.8  21.4  11.342  1  2  NNX14AR23G  East  24      NATHAN BRIDGES    BALTIMORE  	Maryland  21218-2680  
+2015/10/23  2015/11/23  g  20.4  11.3  5.989  1  2  NNX14AQ76G  East  09      JAMES P GREENWOOD    MIDDLETOWN  	Connecticut  06459-3208  
+2015/6/13  2015/8/13  G  24.8  12.8  8.832  0  1  1443873  East  51      Lee Pucker  12100 Sunset Hills Road  Reston  	Virginia  20190-0000  
+2015/3/7  2015/6/7  Q  20.2  17  9.52  0  0  NNX14AR83G  East  42      WILLIAM H BRUNE    UNIVERSITY PARK  	Pennsylvania  16802-1505  
+2015/6/20  2015/9/20  g  24.6  17.9  9.308  2  0  1444902  East  51      Stephanie Adams  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/8/14  2015/11/14  M  6.3  5.9  3.953  0  2  1461919  East  34      Stacey Brenner-Moyer  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/12/25  2016/1/25  G  19.4  11.1  7.215  0  1  1439681  East  42      Kostas Daniilidis  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/1/27  2015/4/27  m  7  5.5  3.245  1  0  1446574  East  42      Saroj K Biswas  3400 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/3/5  2015/4/5  M  16.5  7.5  6.075  1  1  1440745  East  09      Yang R Yang  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/2/3  2015/4/3  g  6.8  6.7  5.159  2  0  1441750  East  09      Mohammad Tehranipoor  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/2/5  2015/5/5  q  20  11.8  9.676  2  0  1440226  East  34      Suzanne T Staggs  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/1/25  2015/4/25  q  17.5  13.8  10.35  1  1  1441736  East  42      Kenneth Mai  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/8/5  2015/11/5  q  24.5  13.7  8.083  2  0  1443069  East  42      Jia Zhang  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/8/6  2015/9/6  g  11.9  9.9  6.93  0  2  1410319  East  42      Carlos Badenes  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/1/4  2015/4/4  M  5.6  5.1  3.009  1  1  1421869  East  51      Brian L Mark  4400 UNIVERSITY DR  FAIRFAX  	Virginia  22030-4422  
+2015/4/3  2015/7/3  g  23.8  20.6  12.36  0  2  1437219  East  24      Chao Wang  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/3/25  2015/6/25  q  24.3  15.7  10.205  1  1  NNX14AQ10G  East  51      RAUL BARAGIOLA    CHARLOTTESVILLE  	Virginia  22903-4833  
+2015/8/17  2015/9/17  Q  11.9  8.7  4.959  0  0  1405697  East  51      Ali Butt  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/12/6  2016/2/6  g  14.4  10.1  7.474  0  1  NNX14AQ71G  East  24      MARKOS GEORGANOPOULOS    BALTIMORE  	Maryland  21250-0001  
+2015/6/3  2015/8/3  G  8.2  5.6  3.808  0  0  1460333  East  51      Walid Saad  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/11/27  2015/12/27  G  10.2  7.2  4.248  0  2  1441131  East  42      Paulina Jaramillo  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/1/26  2015/3/26  m  8.3  6.2  3.782  1  0  1430408  East  24      Martin Frank  9650 Rockville Pike  Bethesda  	Maryland  20814-3991  
+2015/5/7  2015/8/7  M  11.4  7.1  4.26  0  2  1412826  East  51      Jin Wang  4111 Monarch Way  NORFOLK  	Virginia  23508-2561  
+2015/7/18  2015/8/18  G  16.4  11.7  8.541  0  1  1460651  East  24      Eric Ford  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/11/6  2015/12/6  m  14.2  10.7  7.704  2  2  1413158  East  42      Mechtilde Pohlschroder  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/2/5  2015/4/5  M  17.9  6.8  4.352  2  1  1458256  East  51      Milos Manic  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/4/4  2015/6/4  m  22.4  15.1  8.154  2  1  1412108  East  24      Karen G Fleming  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/7/3  2015/10/3  q  11.3  7.2  4.536  2  0  1411773  East  42      Gordon T Richards  3201 Arch Street  Philadelphia  	Pennsylvania  19104-2737  
+2015/3/14  2015/4/14  m  10.7  7.8  5.226  1  2  1422718  East  24      Roger Tourangeau  1650 RESEARCH BLVD  ROCKVILLE  	Maryland  20850-0319  
+2015/2/27  2015/4/27  g  17.2  12.5  7.125  1  0  1421577  East  51      Wei Zhang  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/4/3  2015/5/3  G  18.8  15  11.25  1  0  NNX14AP95G  East  24      RACHEL KLIMA    BALTIMORE  	Maryland  21218-2680  
+2015/7/8  2015/9/8  M  14.9  5.4  2.916  2  2  1458633  East  51      Scott C Neubauer  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/9/2  2015/10/2  m  19.2  11.5  8.165  2  2  1355554  East  10      Malcolm J D'Souza  120 N State Street  Dover  	Delaware  19901-3875  
+2015/11/20  2015/12/20  G  7  5.6  3.976  0  2  1400575  East  42      Ronald Logreco  800 Allegheny Avenue  Pittsburgh  	Pennsylvania  15233-1895  
+2015/10/13  2016/1/13  M  23.9  23.8  12.138  0  0  1444266  East  11      Heidi Schweingruber  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/6/26  2015/8/26  m  16.7  11.5  6.9  0  0  1446001  East  11      Saniya LeBlanc  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/3/8  2015/6/8  Q  9.9  9.3  7.254  0  2  NNX14AP61G  East  51      JOHN QU    FAIRFAX  	Virginia  22030-4422  
+2015/9/23  2015/10/23  M  23.1  11.7  7.839  0  1  1430728  East  51      Carlos R Aguayo-Gonzalez  2200 Kraft Drive, Suite 1200 R  Blacksburg  	Virginia  24060-6748  
+2015/4/21  2015/5/21  M  24.1  20.8  14.56  2  1  1456172  East  42      April Kontostathis  PO Box 1000  Collegeville  	Pennsylvania  19426-1000  
+2015/10/20  2015/12/20  G  19.5  7.9  5.609  1  2  1436206  East  42      Michael J Janik  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/6/2  2015/7/2  M  8.9  7.2  4.392  1  2  1418272  East  11      Timothy Heleniak  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/11/20  2016/2/20  M  16.7  16.2  11.178  0  1  1433492  East  34      G. Charles Dismukes  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/6/3  2015/8/3  M  10  7.6  4.712  0  1  1450877  East  42      Yasmin B Kafai  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/10/19  2015/12/19  G  24.9  7  5.39  0  1  1419504  East  42      Erwann Michel-Kerjan  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/7/20  2015/10/20  M  10.5  9.5  6.65  2  0  1450500  East  42      S. Shyam Sundar  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/7/10  2015/10/10  M  16.5  7.2  3.672  0  1  1422594  East  42      Peng Liu  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/4/12  2015/5/12  Q  16.6  6.1  4.819  0  0  1408782  East  34      Martin Farach-Colton  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/12/4  2016/1/4  M  15.8  11.7  8.541  2  1  1439656  East  11      Linda Giannarelli  2100 M ST NW STE 400  WASHINGTON  	District of Columbia  20037-1207  
+2015/10/26  2015/11/26  m  21  13.8  9.936  2  1  1421585  East  42      John R Lange  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/9/2  2015/10/2  M  8.3  7.7  5.544  2  1  1412792  East  11      Joshua D Simon  1530 P ST NW  WASHINGTON  	District of Columbia  20005-1910  
+2015/5/13  2015/8/13  M  7.5  5.2  3.432  1  0  1446651  East  11      James C Lancaster  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/6/6  2015/8/6  Q  21.1  6.4  3.648  1  1  1460381  East  42      Anne M Jensen  101 N. Merion Avenue  Bryn Mawr  	Pennsylvania  19010-2899  
+2015/11/6  2015/12/6  M  6.8  5.8  4.756  1  1  1443767  East  42      Brian Edwards  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/5/17  2015/6/17  M  10.1  5.2  3.328  1  1  1446258  East  51      Michael D LaMar  Office of Sponsored Programs  Williamsburg  	Virginia  23187-8795  
+2015/2/12  2015/4/12  q  5.4  5.4  3.51  1  2  1431739  East  42      Kathy Jackson  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/3/20  2015/6/20  M  12.9  12.7  9.525  1  1  1451263  East  42      Larry J Shuman  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/4/13  2015/6/13  Q  17.3  5.5  3.135  2  0  1432037  East  09      Carol Bascom-Slack  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/10/23  2015/11/23  q  12.8  7.3  5.475  2  2  1400993  East  42      Andrew R Deans  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/9/3  2015/10/3  Q  13.5  7  4.41  0  1  1423139  East  34      Prateek Mittal  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/4/3  2015/7/3  Q  17.8  13  9.49  0  0  1404832  East  34      Yannis G Kevrekidis  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/5/24  2015/7/24  g  6.7  5.7  3.705  1  0  1418882  East  42      Daniel B Szyld  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/6/6  2015/8/6  g  19.8  13  10.27  1  2  1412419  East  24      Alberto Bolatto  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/10/22  2015/12/22  g  22.9  18.6  11.346  2  0  1451760  East  09      Ruzica Piskac  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/2/18  2015/4/18  M  17.2  8.2  6.642  2  0  1424646  East  24      Shino Suzuki  9704 Medical Center Drive  Rockville  	Maryland  20850-0000  
+2015/1/24  2015/3/24  M  5.3  5  3.05  0  0  1417970  East  42      Dmitry Storchak  c/o University of Oxford  Thatcham, RG19 4NS     
+2015/1/16  2015/3/16  m  21.5  10.6  6.784  2  0  1422951  East  42      C. L Giles  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/6/13  2015/9/13  m  5.2  5.2  4.264  2  0  1425827  East  11      David Konisky  37th & O St N W  Washington  	District of Columbia  20057-1789  
+2015/2/22  2015/4/22  m  20.3  18.9  12.096  1  2  1422215  East  42      Dongwon Lee  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/12/12  2016/1/12  m  23  17.5  13.825  1  1  NNX14AP08G  East  09      JOHN WETTLAUFER    NEW HAVEN  	Connecticut  06511-6614  
+2015/11/4  2016/1/4  m  8.8  8.4  4.704  2  0  1409767  East  34      Yingying Chen  CASTLE POINT ON HUDSON  HOBOKEN  	New Jersey  07030-5991  
+2015/2/11  2015/5/11  q  9.7  5.3  3.604  1  0  1408703  East  34      Haimin Wang  323 DOCTOR MARTIN LUTHER  Newark  	New Jersey  07102-1982  
+2015/12/1  2016/2/1  G  23.7  8  5.2  1  0  1447782  East  51      Carol Mershon  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/9/3  2015/11/3  Q  6.4  5.8  3.77  1  1  1407454  East  09      Bryan A Ford  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/6/18  2015/8/18  g  16.4  11.5  7.36  2  2  1418133  East  42      Susan E Gill  970 Spencer Road  Avondale  	Pennsylvania  19311-9514  
+2015/9/28  2015/10/28  q  7.2  6.5  4.355  0  2  1419362  East  42      David Brumley  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/11/8  2016/2/8  m  5.2  5.2  3.692  1  1  1402655  East  51      Hooman Vahedi Tafreshi  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/9/4  2015/10/4  g  21.7  13.7  7.535  2  0  1440729  East  42      Jill B Keeney  1700 Moore Street  Huntingdon  	Pennsylvania  16652-2119  
+2015/11/2  2016/1/2  m  23  11.5  8.165  2  0  1452783  East  42      Alan Snyder  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/6/27  2015/7/27  M  5.7  5.5  3.245  1  1  1422179  East  09      Bahram Javidi  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/3/20  2015/4/20  q  12.9  6.9  4.278  0  2  1439057  East  42      Kamesh Madduri  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/1/28  2015/3/28  G  9  6.2  3.658  0  1  1408803  East  34      Vinod Ganapathy  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/9/2  2015/11/2  Q  15  14.4  9.936  0  2  1445898  East  34      Eugene R Fiorini  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/11/3  2015/12/3  q  6.4  5.7  3.648  0  1  1408880  East  42      Trent Jaeger  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/1/10  2015/3/10  g  18.5  17.2  12.9  0  1  1402697  East  10      Elizabeth K Shea  4840 Kennett Pike  Wilmington  	Delaware  19807-1814  
+2015/9/7  2015/12/7  q  6.9  6.2  3.968  2  0  1420174  East  54      Xin Li  P.O. Box 6845  Morgantown  	West Virginia  26506-6845  
+2015/2/2  2015/5/2  g  16.1  14.2  11.644  0  0  NNX14AN32G  East  51      ROBERT CRADDOCK    ARLINGTON  	Virginia  22202-3709  
+2015/4/27  2015/5/27  G  14.3  14.2  8.52  2  2  1445005  East  24      Aristos Christou  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/7/16  2015/8/16  G  24.4  20.5  14.35  1  1  1433448  East  24      Thomas Haine  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/6/8  2015/9/8  M  14.6  6.2  3.906  2  2  1440884  East  34      Frances P Trees  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/7/9  2015/9/9  Q  17.3  15.8  11.85  2  2  1428298  East  51      Gon Namkoong  4111 Monarch Way  NORFOLK  	Virginia  23508-2561  
+2015/11/5  2015/12/5  g  7.2  5.7  4.275  2  1  1451197  East  34      Mala Murthy  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/12/19  2016/1/19  m  16.4  6.7  3.752  1  2  1442858  East  42      Shalinee Kishore  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/10/5  2016/1/5  M  15.7  15.4  11.088  1  0  1441224  East  24      Elise D Miller-Hooks  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/8/15  2015/9/15  q  10.9  7.8  4.914  1  1  1411646  East  42      Irene Fonseca  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/10/20  2015/11/20  g  14.6  5  3.6  2  1  1421695  East  24      Naomi Feldman  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/7/15  2015/10/15  Q  19.1  17.7  9.912  1  2  1407205  East  09      Bing Wang  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/6/1  2015/7/1  g  16.7  9.1  5.824  0  1  1432190  East  34      Amruth N Kumar  505 Ramapo Valley Road  Mahwah  	New Jersey  07430-1623  
+2015/4/5  2015/5/5  m  6.3  6.3  3.402  1  1  1432251  East  42      Michael A Posner  800 Lancaster Avenue  Villanova  	Pennsylvania  19085-1676  
+2015/8/5  2015/10/5  q  24.7  19  10.07  2  1  1433757  East  51      Holly M Matusovich  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/1/14  2015/4/14  G  5.1  5  3.2  1  2  1412373  East  42      Ann M Valentine  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/11/17  2016/1/17  M  20.2  12.5  7.5  1  0  1412496  East  42      Jeffery G Saven  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/6/3  2015/9/3  m  19.3  17.8  10.858  2  2  1432257  East  42      Lillian N Cassel  800 Lancaster Avenue  Villanova  	Pennsylvania  19085-1676  
+2015/1/25  2015/4/25  m  22.7  6.1  4.636  2  2  1430077  East  34      Philip J Holmes  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/6/11  2015/7/11  Q  16.9  5.9  3.835  2  1  1422004  East  34      Suneeta Ramaswami  311 N. 5th Street  Camden  	New Jersey  08102-1400  
+2015/7/1  2015/8/1  Q  22.6  17  11.39  0  2  1443434  East  34      Wade K Trappe  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/4/22  2015/7/22  m  10.4  5.6  4.2  2  1  NNX14AN71G  East  51      ERDAL YIGIT    FAIRFAX  	Virginia  22030-4422  
+2015/9/20  2015/11/20  G  17.5  6  3.18  0  1  1446478  East  51      Thomas Hou  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/11/15  2016/2/15  M  9.1  5.6  2.968  1  0  1440671  East  09      Brian M Wood  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/4/24  2015/6/24  g  23.8  12.2  8.784  2  0  1439338  East  11      Maximilian Riesenhuber  37th & O St N W  Washington  	District of Columbia  20057-1789  
+2015/6/17  2015/9/17  M  13.8  5  3.05  0  2  1418590  East  24      Suchi Saria  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/1/23  2015/4/23  Q  13.5  5  3.25  1  2  1444963  East  42      Mayuresh V Kothare  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/6/24  2015/8/24  Q  9.9  5.7  3.42  0  2  1407939  East  34      Tong Zhang  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/7/20  2015/9/20  Q  20.7  6.1  3.172  1  2  1449410  East  11      Jon K Eisenberg  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/11/12  2015/12/12  q  8  6.1  3.233  1  2  1409056  East  34      Jennifer Rexford  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/5/3  2015/8/3  g  13.4  5.5  3.08  2  1  1353366  East  51      Guillaume Pilot  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/3/5  2015/4/5  m  23.9  14.4  8.784  1  0  1404342  East  11      Evangeline J Downie  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/2/10  2015/3/10  M  24.5  13  8.71  1  0  1409524  East  34      Roman R Rafikov  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/6/18  2015/8/18  M  5.7  5.4  4.212  1  2  1449860  East  42      Jie Wu  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/4/18  2015/6/18  m  13  11.6  6.844  0  0  1362305  East  09      Steven K Lamoreaux  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/6/23  2015/7/23  q  16.7  11.7  6.903  2  0  1401593  East  51      Michael C Leopold  202 MARYLAND HALL  RICHMOND  	Virginia  23173-0001  
+2015/6/14  2015/8/14  M  9.4  9.2  6.9  1  2  NNX14AN51G  East  51      DAVID C FRITTS    NEWPORT NEWS  	Virginia  23606-4253  
+2015/6/24  2015/9/24  q  17  11.7  6.318  0  2  1440756  East  42      Arthur W Wetzel  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/8/23  2015/9/23  q  21.8  10.3  7.519  1  1  1423747  East  51      Timothy D Wilson  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/12/9  2016/1/9  q  6.1  5.9  3.481  0  1  1404162  East  09      David DeMille  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/7/3  2015/8/3  q  21.6  16.2  11.016  0  2  1403336  East  10      Jamie Holder  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/5/24  2015/6/24  M  24.3  12.4  9.672  0  0  1407751  East  34      David E Tyler  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/11/23  2016/2/23  m  5.4  5.4  3.996  2  2  1358325  East  09      Maureen D Long  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/3/27  2015/5/27  M  11.1  9.8  5.292  1  1  1417175  East  24      Ciaran Harman  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/10/21  2016/1/21  m  12.3  10.1  6.363  1  2  1422165  East  42      Osman Yagan  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/4/27  2015/6/27  g  22.4  9.7  6.499  1  0  1405045  East  42      Jamie Callan  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/4/4  2015/6/4  M  5.4  5.4  2.862  0  1  1443936  East  24      Mark Foster  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/12/7  2016/2/7  g  8.6  5.1  3.009  2  0  1406093  East  42      Joshua M Sabloff  370 Lancaster Avenue  Haverford  	Pennsylvania  19041-1392  
+2015/2/9  2015/5/9  q  6.4  5  3.3  2  0  1406730  East  42      Marta Lewicka  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/7/15  2015/8/15  Q  5.7  5.3  3.286  0  1  1438864  East  24      Blair Taylor  8000 York Road  Towson  	Maryland  21252-0001  
+2015/8/9  2016/2/9  Q  12.8  9.4  4.794  2  1  1432363  East  24      Norman J Chonacky  One Physics Ellipse  College Park  	Maryland  20740-3845  
+2015/7/12  2015/8/12  m  10.6  6.3  5.103  1  1  1438368  East  24      Cathlyn D Stylinski  BOX 775  Cambridge  	Maryland  21613-0775  
+2015/8/24  2015/11/24  g  6  5.8  3.306  1  1  1420815  East  34      Vinod Ganapathy  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/4/28  2015/6/28  m  6.4  5.6  4.368  0  1  1353870  East  42      Siyang Zheng  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/10/12  2015/12/12  m  21.4  5.1  3.825  2  2  1451203  East  11      Michael N Solem  1710 16th St. NW  Washington  	District of Columbia  20009-3104  
+2015/4/3  2015/7/3  Q  24.3  7.8  5.148  2  0  1445814  East  11      Jon K Eisenberg  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/12/26  2016/2/26  M  11.2  10.3  6.592  2  2  1442059  East  34      Tullis C Onstott  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/12/9  2016/1/9  q  9.3  9.2  5.244  2  0  1437396  East  24      Tim Mueller  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/11/4  2015/12/4  g  6.9  5.7  3.648  1  2  1358135  East  42      Timothy J Peelen  101 N. College Avenue  Annville  	Pennsylvania  17003-1400  
+2015/1/2  2015/2/2  M  7.8  5.9  3.54  2  1  1341494  East  34      Yuan Gao  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/4/26  2015/6/26  q  6.1  5.3  3.975  1  1  1423002  East  10      Hui Fang  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/7/15  2015/8/15  Q  18.8  15.2  11.704  2  1  1444903  East  34      Benjamin J Glasser  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/9/14  2015/12/14  g  24.8  19.8  11.88  1  2  1406626  East  24      Nilanjan Banerjee  1000 Hilltop Circle  Baltimore  	Maryland  21250-0002  
+2015/9/17  2015/10/17  Q  9.8  6.4  4.544  2  1  1415485  East  24      Edo Waks  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/12/5  2016/1/5  g  19.7  6.9  4.761  0  2  1418244  East  42      Noboru Matsuda  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/3/1  2015/4/1  M  23  17.3  12.975  2  1  1359805  East  34      Kevin J St. Martin  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/4/12  2015/5/12  g  21.5  14.6  7.884  0  2  1419913  East  24      Sherry J Yennello  One Physics Ellipse  College Park  	Maryland  20740-3844  
+2015/2/17  2015/3/17  M  11.3  6.9  4.554  0  0  1358137  East  54      Konstantinos Sierros  P.O. Box 6845  Morgantown  	West Virginia  26506-6845  
+2015/1/7  2015/2/7  q  25  16.6  12.948  2  2  1410407  East  42      Jie Shan  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/8/27  2015/9/27  G  14.8  6.2  3.472  1  2  1409249  East  24      David M Levin  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/11/20  2016/2/20  q  11  5.4  2.808  0  0  1432426  East  34      Maria E Garlock  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/2/17  2015/3/17  g  14.1  9.5  7.695  0  1  1434503  East  54      Yon Rojanasakul  P.O. Box 6845  Morgantown  	West Virginia  26506-6845  
+2015/1/14  2015/2/14  m  12  11.6  7.54  1  0  1400528  East  24      Steve Shank  11400 Robinwood Drive  Hagerstown  	Maryland  21742-6514  
+2015/2/16  2015/3/16  g  8.8  6.2  4.34  2  2  1406622  East  42      Soutir Bandyopadhyay  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/5/22  2015/7/22  M  14.7  10.9  8.938  1  0  NNX14AM19G  East  51      JAMES KINTER    FAIRFAX  	Virginia  22030-4422  
+2015/5/21  2015/7/21  M  9.1  9  7.29  0  2  NNX14AM37G  East  42      RAYMOND NAJJAR    UNIVERSITY PARK  	Pennsylvania  16802-1505  
+2015/1/7  2015/2/7  q  9.4  7.3  4.38  1  2  1416873  East  24      Peter J Winch  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/6/11  2015/9/11  Q  10.9  7.4  5.55  2  0  1418010  East  42      Ned Fetcher  84 W. South St.  Wilkes-Barre  	Pennsylvania  18766-0997  
+2015/7/14  2015/8/14  g  15  10.6  6.572  2  2  1446722  East  11      Katherine E Bailey  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/12/1  2016/2/1  M  12.9  6.1  4.209  2  1  1431923  East  51      Robert L Nagel  MSC 5728  HARRISONBURG  	Virginia  22807-7000  
+2015/11/9  2015/12/9  g  5  5  3.7  0  2  1450163  East  34      Enrique N Curchitser  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/1/20  2015/3/20  G  24.3  18.7  14.586  0  2  1406167  East  34      Mark E Feighn  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/6/26  2015/8/26  m  21.2  20.4  10.608  1  1  1446393  East  24      M S Taylor  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/11/9  2016/2/9  M  21  16  9.44  2  1  1416842  East  09      Jun Korenaga  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/10/16  2016/1/16  G  17.3  6.2  4.712  1  0  1437630  East  09      Menachem Elimelech  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/7/7  2015/10/7  Q  11.9  9.6  6.624  1  2  1434455  East  34      Branko Glisic  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/2/21  2015/4/21  M  12.3  7.7  5.005  0  1  1406563  East  42      Edward I George  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/7/20  2015/8/20  M  20.3  8.3  4.565  2  2  1436335  East  51      Yong Xu  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/7/8  2015/10/8  m  19.2  17.6  9.68  2  1  1437989  East  11      Danmeng Shuai  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/4/16  2015/7/16  G  11.4  6.2  3.286  2  0  1450743  East  34      Michael N Katehakis  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/5/22  2015/8/22  M  6.5  5  4.1  2  1  1433212  East  51      Elizabeth Cottrell  Office of Sponsored Projects  Arlington  	Virginia  22202-3709  
+2015/6/28  2015/8/28  g  8  7.9  6.478  1  2  1407910  East  34      Joerg Kliewer  323 DOCTOR MARTIN LUTHER  Newark  	New Jersey  07102-1982  
+2015/4/24  2015/6/24  Q  23  17  13.77  2  1  1436674  East  34      Elena Galoppini  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/8/20  2015/10/20  q  6.9  6.1  4.758  2  2  1437930  East  42      Parkson L Chong  3400 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/8/2  2015/10/2  g  24.9  10.5  6.615  0  2  NNX14AM25G  East  24      KIMBERLY SEELOS    BALTIMORE  	Maryland  21218-2680  
+2015/9/14  2015/12/14  q  8.8  5.2  3.12  2  0  1449322  East  24      Renetta G Tull  1000 Hilltop Circle  Baltimore  	Maryland  21250-0002  
+2015/6/26  2015/8/26  m  21  11.9  9.044  0  2  1450788  East  34      Marianthi Ierapetritou  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/9/10  2015/12/10  M  6.4  5.2  3.38  2  2  1306984  East  09      Fred M Ellis  237 HIGH ST  MIDDLETOWN  	Connecticut  06459-0241  
+2015/6/23  2015/9/23  m  22.7  12.6  9.198  0  1  1436334  East  34      William A Massey  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/3/10  2015/5/10  q  22.8  15.7  12.717  0  2  1450725  East  42      Shizhuo Yin  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/10/26  2016/1/26  M  10.8  5.9  4.189  1  2  1361842  East  51      S. Ted Oyama  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/2/3  2015/4/3  m  15.8  14.1  10.716  0  1  1400267  East  09      Damir D Dzhafarov  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/4/3  2015/7/3  m  5.6  5.2  3.38  1  1  1428480  East  42      Gregory S Rohrer  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/10/21  2015/12/21  q  13.2  12.5  10.125  2  2  1404911  East  24      Lyle D Isaacs  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/7/21  2015/8/21  Q  17.8  7.3  3.942  0  2  1437168  East  42      Sushil Kumar  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/7/17  2015/10/17  q  15.5  11.8  8.732  2  0  NNX14AK45G  East  24      HAJE KORTH    BALTIMORE  	Maryland  21218-2680  
+2015/4/12  2015/6/12  m  7.4  5.1  2.805  1  2  1358443  East  34      Blair Schoene  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/2/17  2015/3/17  M  19.8  15.8  9.638  0  4  1436064  East  42      Yoosuf Picard  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/6/14  2015/9/14  M  8.4  6.4  4.096  2  0  1407986  East  11      Xiuzhen Cheng  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/5/5  2015/8/5  q  24.4  9.3  6.138  1  1  1412789  East  34      Michael Siegel  323 DOCTOR MARTIN LUTHER  Newark  	New Jersey  07102-1982  
+2015/11/27  2015/12/27  z  5.7  5.3  3.604  0  2  1409765  East  24      Tim Mueller  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/4/13  2015/5/13  q  9.4  7.8  4.836  2  2  1430051  East  34      Alan Robock  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/5/4  2015/8/4  Q  20.3  7.4  3.922  0  0  1445507  East  42      Youtao Zhang  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/9/5  2015/10/5  q  6.9  6.8  3.808  1  0  1438564  East  09      Alexander Felson  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/10/9  2015/11/9  q  8.4  5.6  4.088  1  1  1437437  East  42      Zoubeida Ounaies  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/8/4  2015/9/4  q  18.2  10.3  5.562  0  2  1439059  East  24      John P Fisher  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/7/4  2015/10/4  g  23  8.2  4.51  1  2  NNX14AJ39G  East  24      ANDREW RIVKIN    BALTIMORE  	Maryland  21218-2680  
+2015/5/23  2015/7/23  g  5.2  5  3.15  2  0  1417024  East  10      Gabriel D Gwanmesia  1200 N. Dupont Highway  Dover  	Delaware  19901-2277  
+2015/3/3  2015/5/3  g  22.3  10.6  6.996  2  1  1435853  East  34      Celeste M Nelson  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/6/8  2015/9/8  g  13.3  10.9  5.886  2  2  1434432  East  34      Panagiotis Repoussis  CASTLE POINT ON HUDSON  HOBOKEN  	New Jersey  07030-5991  
+2015/12/27  2016/2/27  q  23.8  7  5.53  0  1  1408490  East  34      Kaushik Sengupta  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/5/14  2015/7/14  M  10.4  5.6  3.864  2  0  1435484  East  51      Craig Woolsey  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/10/18  2016/1/18  M  11.4  11.3  8.362  1  2  1356481  East  11      Dennis Davenport  2400 Sixth Street N W  Washington  	District of Columbia  20059-9000  
+2015/8/26  2015/10/26  M  12.6  11.5  8.74  1  2  1404056  East  34      Sergei Lukyanov  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/2/16  2015/4/16  M  12.9  10.3  6.695  1  1  1402600  East  09      Judy Cha  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/10/19  2015/11/19  M  15.7  14.3  10.296  1  0  1400780  East  34      Alexander E Gates  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/7/19  2015/9/19  q  7.5  5  3  0  2  1431070  East  09      Yair Minsky  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/1/25  2015/3/25  g  7.6  7.1  5.609  0  2  1350707  East  42      Aroutis N Foster  3201 Arch Street  Philadelphia  	Pennsylvania  19104-2737  
+2015/2/2  2015/5/2  G  18.5  17.7  9.735  2  1  1413827  East  11      Daniel Denecke  1 Dupont Circle NW  Washington  	District of Columbia  20036-1173  
+2015/6/27  2015/9/27  G  21  11.3  8.249  1  1  1435461  East  42      Sachin S Velankar  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/10/13  2016/1/13  M  14.7  13  7.8  2  0  1432896  East  51      Saied Taheri  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/4/2  2015/7/2  G  9.4  8.7  4.872  1  0  NNX14AJ90A  East  42      CHRISTOPHER HOUSE    UNIVERSITY PARK  	Pennsylvania  16802-1505  
+2015/12/4  2016/1/4  G  13  12.3  8.364  0  0  NNX14AK66G  East  34      DALE GARY    NEWARK  	New Jersey  07102-1824  
+2015/12/3  2016/2/3  g  18.3  9.9  6.237  0  1  NNX14AI56G  East  11      FREDERICK C BRUHWEILER    WASHINGTON  	District of Columbia  20064-0001  
+2015/2/12  2015/5/12  M  14  9.4  6.956  1  0  1435766  East  42      Seong H Kim  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/11/14  2016/2/14  g  7.8  6.5  4.29  2  0  1360415  East  24      William P Ball  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/12/14  2016/1/14  M  6.1  5  3.6  1  0  1446966  East  42      Claire Le Goues  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/6/3  2015/8/3  m  18.9  6.8  3.468  0  2  NNX14AL43H  East  42      ZI-KUI LIU    UNIVERSITY PARK  	Pennsylvania  16802-1505  
+2015/7/7  2015/10/7  g  11.1  10.1  7.474  2  0  1424248  East  24      Michael J Paolisso  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/5/4  2015/7/4  M  19.5  13.8  7.59  1  2  1356374  East  10      K. E Wommack  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/10/24  2015/11/24  g  18.8  6.9  5.313  1  1  1449652  East  11      Hemayet Ullah  2400 Sixth Street N W  Washington  	District of Columbia  20059-9000  
+2015/5/20  2015/7/20  g  24.3  21.9  15.111  2  2  1410390  East  09      Bruce R Branchini  270 Mohegan Avenue  New London  	Connecticut  06320-4196  
+2015/2/22  2015/4/22  g  22.9  8.6  5.762  2  0  1410334  East  42      Suzanne E Mohney  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/5/15  2015/7/15  M  11.3  7.9  5.53  2  2  1406430  East  34      Lee Slater  Blumenthal Hall, Suite 206  Newark  	New Jersey  07102-1896  
+2015/3/10  2015/5/10  Q  14.2  7.4  4.218  1  1  1417980  East  42      Michael J Neilan  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/11/10  2016/1/10  M  13.8  5.1  3.876  1  2  1360395  East  24      Lisa A Wainger  BOX 775  Cambridge  	Maryland  21613-0775  
+2015/4/23  2015/6/23  g  21.5  15.3  12.546  1  1  1406231  East  42      Joshua Auld  South High Street  West Chester  	Pennsylvania  19383-0001  
+2015/11/6  2016/4/6  M  17.9  9.5  6.745  2  0  1407493  East  24      John D Tovar  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/4/3  2015/6/3  Q  17  7.7  5.159  1  0  1431408  East  42      Moses H Chan  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/7/27  2015/8/27  g  15.5  8.6  5.934  0  0  NNX14AJ78G  East  24      YONGLI WANG    BALTIMORE  	Maryland  21250-0001  
+2015/6/4  2015/9/4  g  23.7  18.1  13.213  2  0  1417337  East  51      Lara B Anderson  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/8/13  2015/11/13  g  15.4  5.8  4.292  1  0  1356655  East  09      Jinbo Bi  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/8/27  2015/10/27  M  5.8  5.3  3.922  1  2  1424276  East  24      Randal Burns  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/8/10  2015/9/10  g  18.6  5.2  3.172  0  0  NNX14AI06G  East  09      MELANIE FEWINGS    STORRS  	Connecticut  06269-1133  
+2015/2/19  2015/5/19  g  15.3  5.7  4.617  1  2  1417447  East  42      Laura Toran  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/12/16  2016/1/16  Q  21.7  15  10.05  1  0  1358071  East  51      Philip D Rubin  4400 UNIVERSITY DR  FAIRFAX  	Virginia  22030-4422  
+2015/12/24  2016/2/24  G  21.9  14.7  9.114  0  2  1422054  East  51      Michael S Hsiao  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/3/10  2015/4/10  q  11.3  9.7  5.044  0  0  1353724  East  34      Bonnie Firestein  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/12/19  2016/1/19  M  23.3  18.2  14.014  0  2  1410341  East  51      Padmavathy Rajagopalan  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/8/19  2015/11/19  M  23.7  23.5  13.395  0  2  1445187  East  42      Sudhir Kumar  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/6/10  2015/8/10  m  12.4  8.4  5.46  1  1  NNX14AK81H  East  24      ZHIBO ZHANG    BALTIMORE  	Maryland  21250-0001  
+2015/3/23  2015/6/23  M  17  9.4  5.64  1  2  NNX14AJ33G  East  24      JOHN TOWNSHEND    COLLEGE PARK  	Maryland  20742-0001  
+2015/11/18  2016/2/18  Q  14.8  11.7  9.477  1  1  1410246  East  42      Robert A Riggleman  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/10/25  2016/1/25  q  15.4  5.5  4.18  0  0  1406298  East  09      Peter J Schweitzer  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/5/10  2015/6/10  g  11.2  5.2  2.86  0  1  NNX14AJ88G  East  51      PATRICK NEALE    ARLINGTON  	Virginia  22202-3709  
+2015/8/21  2015/11/21  M  5.9  5.4  3.78  0  2  1407677  East  24      Theodosia Gougousi  1000 Hilltop Circle  Baltimore  	Maryland  21250-0002  
+2015/11/9  2016/1/9  g  8.6  7.1  5.183  0  0  1446219  East  24      Ken Cole  One Physics Ellipse  College Park  	Maryland  20740-3844  
+2015/12/26  2016/1/26  g  18  14.1  11.139  1  0  1438398  East  42      Shimin Liu  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/12/8  2016/1/8  g  23.9  7.9  6.162  0  1  1360280  East  51      Zachary M Easton  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/3/1  2015/4/1  Q  17.9  17.7  14.514  1  1  1417659  East  34      Stephan A Fueglistaler  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/5/4  2015/8/4  M  14.8  12.7  9.144  2  0  1417316  East  51      James A Gray  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/2/6  2015/3/6  m  6.9  6.2  4.216  0  1  1414852  East  51      Brian L Falcone    Fairfax  	Virginia  22031-4272  
+2015/3/11  2015/6/11  M  5.6  5.3  2.809  1  2  NNX14AJ24G  East  24      JUYING WARNER    COLLEGE PARK  	Maryland  20742-0001  
+2015/4/24  2015/5/24  g  18.4  10.2  5.304  1  0  1437688  East  42      Lindsay Soh  High Street  Easton  	Pennsylvania  18042-1768  
+2015/7/15  2015/8/15  g  16.2  13.5  10.125  2  1  1404915  East  09      David C Lund  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/3/23  2015/4/23  M  12.4  12.4  9.672  2  0  NNX14AI81G  East  24      QUANAN ZHENG    COLLEGE PARK  	Maryland  20742-0001  
+2015/3/8  2015/6/8  g  22.6  17  9.52  0  0  1420112  East  34      Bernard Chazelle  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/12/1  2016/1/1  Q  23.4  16.7  9.519  1  0  1360886  East  42      Tomislav Pintauer  Room 310 Administration Building  Pittsburgh  	Pennsylvania  15282-0001  
+2015/2/14  2015/5/14  m  15  11.4  9.348  1  2  1400387  East  24      Michael D Shields  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/10/11  2015/11/11  M  23.3  21  13.23  0  0  1435453  East  42      Theodore K Ralphs  Alumni Building 27  Bethlehem  	Pennsylvania  18015-3005  
+2015/11/14  2016/2/14  g  11.9  7.5  5.625  1  1  1401178  East  42      Jonathan D Amith  North Washington Street  Gettysburg  	Pennsylvania  17325-1483  
+2015/8/12  2015/11/12  G  16.4  6.9  5.313  0  2  1445363  East  34      Jannette Carey  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/6/16  2015/9/16  Q  22.8  12.6  6.804  1  0  1353143  East  24      Marc A Ostermeier  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/11/7  2016/2/7  m  7.3  6.3  4.347  1  1  1412582  East  42      Dennis D Wykoff  800 Lancaster Avenue  Villanova  	Pennsylvania  19085-1676  
+2015/2/14  2015/5/14  g  10.6  8.7  6.873  2  0  1423782  East  10      Gretchen Bauer  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/10/25  2016/1/25  g  20.4  10.3  6.489  2  1  1408139  East  42      Ertugrul Cubukcu  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/3/17  2015/4/17  q  10.3  8  4.48  2  1  1442034  East  24      Andreas Terzis  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/10/17  2015/12/17  q  7.8  5.5  3.52  1  0  1410119  East  42      Tara Y Meyer  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/1/23  2015/2/23  q  8  5.3  4.134  1  2  1424001  East  24      Paul K Huth  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/5/2  2015/7/2  G  5.6  5.5  3.85  2  0  1446794  East  10      Michela Taufer  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/12/2  2016/1/2  m  13.4  11.5  8.395  2  1  1426661  East  51      Nina Stark  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/4/10  2015/6/10  G  20.8  7.3  5.767  0  2  1442014  East  24      David Gracias  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/5/18  2015/7/18  q  15.3  10.1  5.656  1  1  1362256  East  24      Teng Li  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/5/12  2015/8/12  m  18  5  3.05  0  0  1408796  East  24      Ian R Appelbaum  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/4/16  2015/5/16  g  21.5  14.3  8.866  1  2  1419453  East  24      Beth Cunningham  One Physics Ellipse  College Park  	Maryland  20740-3845  
+2015/11/18  2016/2/18  M  13.8  12.3  8.364  1  0  1424768  East  42      Chloe Silverman  3201 Arch Street  Philadelphia  	Pennsylvania  19104-2875  
+2015/2/22  2015/5/22  q  23  8.3  4.482  2  2  1410680  East  42      Sara A Majetich  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/1/19  2015/3/19  m  23.4  12.4  9.796  1  2  1346570  East  10      Deborah E Allen  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/8/1  2015/9/1  g  10.7  8.3  4.399  2  0  1354622  East  51      Benjamin K Blackman  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/10/25  2016/1/25  q  9.7  9.2  5.888  1  1  1410125  East  51      Michael A Reshchikov  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/5/6  2015/7/6  G  9.5  5.5  3.795  0  2  1414030  East  42      William Cohen  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/3/8  2015/5/8  q  11.8  7  4.13  2  1  1407087  East  51      Maria Emelianenko  4400 UNIVERSITY DR  FAIRFAX  	Virginia  22030-4422  
+2015/12/21  2016/1/21  Q  5.6  5.3  3.551  2  1  1350799  East  10      Benjamin Carterette  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/12/15  2016/1/15  Q  8.4  6.4  4.608  1  2  1408940  East  42      Umut Acar  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/1/14  2015/2/14  m  14.9  12.8  8.576  1  2  1445233  East  42      Lee R Kump  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/5/11  2015/7/11  m  14  7.7  3.85  2  1  1409673  East  42      Megan Zirnstein  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/1/22  2015/4/22  g  23.3  5.5  2.86  2  2  1410839  East  51      J. A Floro  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/7/21  2015/8/21  M  24  8.1  5.346  0  1  1439507  East  42      James W Cummings  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/4/23  2015/5/23  M  17.1  14  8.26  1  0  1414468  East  34      Szu-Pei Fu    Kearny  	New Jersey  07032-1533  
+2015/12/15  2016/2/15  q  21.1  15.6  7.956  0  2  1414764  East  24      Edmon L Perkins    Mt. Rainier  	Maryland  20712-1451  
+2015/10/18  2015/12/18  Q  13  7.2  4.32  2  2  1414760  East  42      Zhengqing J Qi    Philadelphia  	Pennsylvania  19104-6396  
+2015/12/12  2016/2/12  m  8.3  7.9  5.767  2  1  1414448  East  42      Ki Seok Sung    State college  	Pennsylvania  16801-4355  
+2015/10/8  2015/11/8  q  24.4  24.3  15.795  1  1  1354184  East  42      Dustin Brisson  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/7/22  2015/8/22  M  18.4  11.5  5.865  1  2  1406770  East  51      Bryan L Brown  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/8/1  2015/11/1  g  19.7  14.7  8.673  2  1  1416946  East  24      Rob R Montgomery  6701 Democracy Blvd.  Bethesda  	Maryland  20817-0000  
+2015/5/9  2015/6/9  m  8.1  6.6  4.62  1  0  1440104  East  11      Eric Stabb  1752 N STREET NW  WASHINGTON  	District of Columbia  20036-2904  
+2015/7/11  2015/9/11  g  19.1  8.6  5.504  2  2  1362854  East  42      Eric J. Schelter  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/4/23  2015/7/23  M  7.8  6.1  4.758  1  0  1361260  East  42      Ken S Feldman  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/6/4  2015/8/4  q  14.5  9.7  7.275  0  0  1444491  East  24      Yanhua Shih  1000 Hilltop Circle  Baltimore  	Maryland  21250-0002  
+2015/4/8  2015/6/8  Q  21.7  7  5.25  2  1  1433760  East  34      Gregory Camilli  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/6/7  2015/7/7  m  9.1  8.7  4.785  1  0  1361697  East  42      Philip T Gressman  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/11/21  2016/2/21  M  14.9  11.7  7.488  2  2  1354603  East  51      Michael Wolyniak  1 College Rd.  Hampden Sydney  	Virginia  23943-0127  
+2015/3/6  2015/4/6  g  20  19.3  14.089  1  2  1415670  East  51      Eduardo Castro-Nallar  45085 University Drive  Ashburn  	Virginia  20147-2766  
+2015/8/20  2015/11/20  M  16.9  6.5  4.875  1  2  1407255  East  10      John F Rabolt  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/7/7  2015/10/7  M  16  7.7  4.312  2  1  1414525  East  51      Patrick O'Brien  4031 University Drive  Fairfax  	Virginia  22030-3409  
+2015/9/26  2015/12/26  M  22.4  9.2  7.544  1  1  1405644  East  42      Maxine Eskenazi  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/8/12  2015/11/12  q  10.2  9.6  5.76  0  0  1442408  East  11      Elizabeth Rogan  2010 Massachusetts Avenue  Washington  	District of Columbia  20036-1023  
+2015/12/28  2016/1/28  M  17.5  13  7.93  2  2  1349906  East  24      Benjamin T Langmead  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/1/15  2015/3/15  G  19.1  13.1  8.253  0  1  1408047  East  42      Larry R Carley  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/8/12  2015/9/12  g  24  6.4  4.8  1  2  1353890  East  34      Qingze Zou  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/11/4  2016/2/4  g  12.9  7.1  5.609  1  0  1403144  East  24      Mikhail Sitnov  3400 N CHARLES ST  Baltimore  	Maryland  21218-2608  
+2015/3/24  2015/5/24  g  24  7.4  4.958  0  2  1357264  East  42      Sarah A Damaske  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/10/19  2015/12/19  m  17.2  13.1  9.563  1  2  1407744  East  24      Theodore A Jacobson  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/7/28  2015/8/28  m  6.2  5.3  3.286  1  1  1349110  East  42      Janet van Hell  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/2/25  2015/5/25  m  18.7  12.4  9.3  2  1  1357903  East  42      Iourii S Manovskii  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/1/11  2015/3/11  Q  21  10  7.7  1  0  NNX14AG41G  East  24      WALTER KIEFER    COLUMBIA  	Maryland  21046-2581  
+2015/9/20  2015/10/20  g  14  6.5  5.33  2  2  1362334  East  42      Kenneth D Jordan  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/8/23  2015/10/23  q  17.4  15.8  9.638  1  1  1441990  East  51      Wei Cheng  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/10/25  2015/12/25  g  14.9  7.8  3.9  0  0  1347119  East  34      Samantha Kleinberg  CASTLE POINT ON HUDSON  HOBOKEN  	New Jersey  07030-5991  
+2015/9/21  2015/10/21  M  20.3  10.6  7.42  0  0  1443065  East  24      Walairat Bumrongjaroen  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/8/15  2015/11/15  q  22.4  12.5  9.5  0  0  1400195  East  51      Yong Xu  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/12/27  2016/1/27  M  11.6  11.2  5.6  1  2  1360209  East  42      Stephen Yeaple  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/2/10  2015/4/10  M  24.2  6.9  4.14  0  2  1354676  East  34      Myla Aronson  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/9/8  2015/10/8  M  18.2  11.5  5.865  0  2  NNX14AG53G  East  24      DARRYN WAUGH    BALTIMORE  	Maryland  21218-2680  
+2015/7/4  2015/9/4  q  9  7.1  3.976  1  0  1400740  East  09      Jerzy M Weyman  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/8/25  2015/9/25  Q  17.8  11.7  9.009  0  0  1400971  East  42      James M Crowley  unknown  Philadelphia  	Pennsylvania  19104-2688  
+2015/11/4  2016/1/4  g  24.9  17.6  10.912  1  2  1363418  East  34      Xiaojun Huang  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/9/14  2015/11/14  q  23.5  23.4  17.082  1  1  1431799  East  42      Mohammad Reza Abidian  506 KEYSTONE DR  WARRENDALE  	Pennsylvania  15086-7573  
+2015/10/12  2015/12/12  m  5.8  5.4  4.266  1  0  1350858  East  34      Antonio R Nicolosi  CASTLE POINT ON HUDSON  HOBOKEN  	New Jersey  07030-5991  
+2015/3/17  2015/6/17  q  9.1  5.8  4.292  2  2  1417347  East  10      James M Kendra  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/11/21  2016/1/21  g  7.9  7.1  4.402  0  2  1356532  East  42      Sylvanus Wosu  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/7/19  2015/8/19  G  6.2  5.1  2.754  1  1  NNX14AF84G  East  11      JUNA KOLLMEIER    WASHINGTON  	District of Columbia  20005-1910  
+2015/2/8  2015/3/8  q  18  5.3  3.763  2  0  1441397  East  10      Michela Taufer  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/6/13  2015/7/13  M  16.6  5.1  3.57  2  1  1401446  East  42      Tyler L Kelly    Philadelphia  	Pennsylvania  19104-6395  
+2015/5/1  2015/8/1  g  18.8  5.1  3.468  0  0  1439107  East  11      Diana Roman  1530 P ST NW  WASHINGTON  	District of Columbia  20005-1910  
+2015/8/17  2015/10/17  g  21.6  16.3  9.943  1  0  1357276  East  42      John W Gastil  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/10/24  2015/11/24  M  13.6  11.7  7.02  2  2  1403463  East  42      Jonathan E Spanier  3201 Arch Street  Philadelphia  	Pennsylvania  19104-2875  
+2015/12/3  2016/2/3  M  7  5.5  4.455  1  0  1356220  East  51      Premchand Uppuluri  Box 6926  Radford  	Virginia  24142-6926  
+2015/10/20  2015/11/20  G  13.1  11.5  9.43  0  0  1360628  East  24      Kasso A Okoudjou  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/8/15  2015/10/15  g  6  6  4.86  2  1  1440356  East  42      Vasily M Studitsky  333 COTTMAN AVENUE  PHILADELPHIA  	Pennsylvania  19111-2434  
+2015/9/8  2015/10/8  G  17.3  7.4  5.328  1  0  NNX14AF81G  East  11      BARRY MADORE    WASHINGTON  	District of Columbia  20005-1910  
+2015/9/17  2015/11/17  Q  9.2  5.4  3.24  0  0  1439222  East  34      Michael H Hecht  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/5/16  2015/7/16  m  8.7  8.3  6.059  2  2  1362046  East  11      Eric Burger  37th & O St N W  Washington  	District of Columbia  20057-1789  
+2015/3/14  2015/5/14  M  5.9  5.8  4.756  0  2  1401732  East  24      Joshua Ballew    Silver Spring  	Maryland  20904-7356  
+2015/1/3  2015/2/3  Q  9  8.5  5.695  0  2  1401967  East  34      Shrenik N Shah    Princeton  	New Jersey  08540-7120  
+2015/4/25  2015/6/25  M  15.9  8.3  5.312  1  1  NNX14AF75G  East  42      MICHAEL VOGELEY    PHILADELPHIA  	Pennsylvania  19104-2875  
+2015/10/27  2016/1/27  M  6.3  5.4  4.374  1  0  1437387  East  51      Anne Staples  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/2/11  2015/4/11  q  24.2  23.6  14.16  2  2  1348468  East  42      Christian D Schunn  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/1/19  2015/3/19  g  8.7  5.3  2.968  2  2  1400278  East  11      Jon K Eisenberg  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/10/16  2015/11/16  q  23.3  19.8  14.058  2  1  1440121  East  11      Hua Liang  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/7/16  2015/8/16  G  23.5  11.1  5.661  2  0  NNX14AE99H  East  24      INDERJIT CHOPRA    COLLEGE PARK  	Maryland  20742-0001  
+2015/3/20  2015/5/20  M  6.6  6  3  1  1  1407896  East  42      Fred S Cannon  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/11/25  2016/1/25  g  19.4  14.1  7.896  1  2  NNX14AE28H  East  34      JENNIFER KADLOWEC    GLASSBORO  	New Jersey  08028-1700  
+2015/8/8  2015/11/8  g  9.2  5.9  3.776  1  2  NNX14AE90G  East  24      PIETRO BERNASCONI    BALTIMORE  	Maryland  21218-2680  
+2015/7/27  2015/9/27  m  21.3  17.6  13.904  0  0  1351443  East  09      Rong Fan  P.O. Box 208047  New Haven  	Connecticut  06520-8047  
+2015/9/15  2015/12/15  M  11.7  11.1  6.549  0  0  1355479  East  09      Douglas H Whalen  300 George Street  New Haven  	Connecticut  06511-6610  
+2015/11/22  2016/2/22  M  13.6  6.1  4.209  0  2  1352758  East  11      Stephen Wolff  1150 18th St NW  Washington  	District of Columbia  20036-3825  
+2015/4/26  2015/7/26  m  8  5.1  4.131  0  2  1344191  East  34      Ned S Wingreen  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/9/27  2015/10/27  Q  11.8  10.8  5.616  1  1  1341394  East  42      David Pollard  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/11/11  2015/12/11  g  13.2  11.3  6.328  2  1  1419055  East  51      Penelope Earley  4400 UNIVERSITY DR  FAIRFAX  	Virginia  22030-4422  
+2015/9/12  2015/10/12  g  7.7  7.1  5.751  1  1  1359365  East  42      Manish Kumar  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/9/11  2015/12/11  M  14  9.9  5.544  0  2  NNX14AD39G  East  24      DONGCHUL KIM    COLUMBIA  	Maryland  21046-2581  
+2015/4/2  2015/7/2  M  21.4  7.2  3.96  2  1  1341927  East  11      Kevin J Finneran  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/10/9  2015/11/9  m  24.5  18.4  13.8  2  2  1430594  East  11      Linda Akli  1201 New York Avenue NW  Washington  	District of Columbia  20005-3928  
+2015/2/2  2015/3/2  g  10.1  8.7  5.394  0  2  1415608  East  11      Scott Schang  200 L Street, NW  Washington  	District of Columbia  20036-1423  
+2015/10/17  2015/11/17  G  21.5  9.8  7.546  1  1  NNX14AD25A  East  11      BONCHO P BONEV    WASHINGTON  	District of Columbia  20064-0001  
+2015/5/20  2015/8/20  M  15.7  8.3  4.233  1  1  1422020  East  24      Jordan L Boyd-Graber  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/1/4  2015/2/4  M  20.3  19.4  10.864  2  0  1406780  East  11      Jay B Labov  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/10/10  2016/1/10  g  15.6  6.2  4.836  0  1  1352060  East  42      Zongming Ma  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/9/20  2015/11/20  g  23.5  15.2  9.272  2  1  1352034  East  34      Grigor Sargsyan  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/4/13  2015/6/13  Q  11.5  9  4.77  2  0  1409504  East  10      Mokshay Madiman  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/1/11  2015/2/11  g  9.8  8.7  4.524  0  2  1352422  East  10      Tobias Kukulka  210 Hullihen Hall  Newark  	Delaware  19716-2553  
+2015/9/8  2015/12/8  q  14.5  10.7  7.704  0  0  1351162  East  51      Rebecca Heise  P.O. Box 980568  RICHMOND  	Virginia  23298-0568  
+2015/9/19  2015/10/19  g  17.1  10.9  8.938  0  1  1400941  East  42      Mohammad Reza Pakzad  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/9/9  2015/12/9  q  11.9  5.5  3.96  2  0  1358169  East  11      Jeffrey G Mangum  1400 16TH ST NW STE 730  WASHINGTON  	District of Columbia  20036-6225  
+2015/10/23  2015/12/23  m  25  21.8  16.786  2  2  1402857  East  51      Feng Wang  1971 University Boulevard  Lynchburg  	Virginia  24502-2213  
+2015/6/5  2015/9/5  M  24.5  19.8  12.672  1  0  1356860  East  34      Sonya A Legg  Off. of Research & Proj. Admin.  Princeton  	New Jersey  08540-0036  
+2015/7/2  2015/10/2  g  5.4  5.3  3.286  2  0  1357169  East  24      James J Pierson  BOX 775  Cambridge  	Maryland  21613-0775  
+2015/6/24  2015/9/24  M  9.4  7.6  6.232  1  0  1355003  East  51      Edmund D Brodie  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/3/7  2015/5/7  g  18.6  8.8  6.952  2  0  1414220  East  54      Rong Luo  P.O. Box 6845  Morgantown  	West Virginia  26506-6845  
+2015/9/15  2015/11/15  G  14.8  6.4  5.184  0  0  1350521  East  42      Haibin Ling  3340 N. Broad Street  PHILADELPHIA  	Pennsylvania  19140-5102  
+2015/2/8  2015/3/8  g  18.7  17.4  12.18  1  0  1351647  East  11      Samer H Hamdar  2121 Eye Street NW  Washington  	District of Columbia  20052-2000  
+2015/11/28  2015/12/28  G  17.3  13.2  9.372  1  0  1419547  East  42      Nicholas Nystrom  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/4/19  2015/7/19  m  5.5  5.4  2.754  2  2  NNX14AC78G  East  24      JAMES DRAKE    COLLEGE PARK  	Maryland  20742-0001  
+2015/5/3  2015/6/3  M  20.2  7.3  4.453  1  2  1359661  East  42      Marc P Bermann  University Club  Pittsburgh  	Pennsylvania  15213-2303  
+2015/1/22  2015/2/22  M  11.1  7.6  5.548  0  1  1418717  East  34      Benjamin P Horton  3 RUTGERS PLAZA  NEW BRUNSWICK  	New Jersey  08901-8559  
+2015/1/25  2015/3/25  g  17.1  15.4  9.086  2  2  1357411  East  24      Neil V Blough  3112 LEE BLDG  COLLEGE PARK  	Maryland  20742-5141  
+2015/12/10  2016/2/10  g  14.4  12.4  8.804  1  1  1419500  East  51      Benjamin Webster  P.O. BOX 400195  CHARLOTTESVILLE  	Virginia  22904-4195  
+2015/4/18  2015/7/18  M  10.2  7.7  4.312  2  1  1346808  East  11      Mohammad F Mahmood  2400 Sixth Street N W  Washington  	District of Columbia  20059-9000  
+2015/1/1  2015/2/1  q  18.9  10.7  7.276  1  1  NNX14AB96G  East  51      LILIAN PINTEA    VIENNA  	Virginia  22182-4100  
+2015/11/16  2016/2/16  g  7.4  6  3.72  0  0  1418673  East  11      Kiho Kim  4400 Massachusetts Avenue, NW  Washington  	District of Columbia  20016-8001  
+2015/3/9  2015/6/9  M  11.1  10.7  6.741  0  1  1405331  East  42      Amy Prieto  506 KEYSTONE DR  WARRENDALE  	Pennsylvania  15086-7573  
+2015/4/12  2015/5/12  Q  20.5  11.1  8.214  2  1  1418012  East  51      Chunsheng Xin  4111 Monarch Way  NORFOLK  	Virginia  23508-2561  
+2015/7/20  2015/8/20  g  14.5  6.6  3.894  1  1  NNX14AB98A  East  11      FREDERICK BRUHWEILER    WASHINGTON  	District of Columbia  20064-0001  
+2015/10/10  2015/12/10  G  20.9  15.9  11.448  0  0  1359351  East  42      Arjun G Yodh  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/2/10  2015/4/10  g  23  8.6  5.676  2  0  1360962  East  11      Catherine Didion  500 FIFTH STREET NW  WASHINGTON  	District of Columbia  20001-2721  
+2015/9/4  2015/12/4  Q  13.1  8.9  5.073  2  1  1323258  East  09      Scott A Strobel  Grant & Contract Administration  New Haven  	Connecticut  06510-3209  
+2015/2/22  2015/4/22  g  15.6  9.1  4.641  0  1  1408674  East  51      Aditya Johri  4400 UNIVERSITY DR  FAIRFAX  	Virginia  22030-4422  
+2015/10/6  2016/1/6  q  15.9  7.2  4.464  0  1  1351462  East  42      Tak Sing Wong  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/8/16  2015/10/16  g  10.8  9.2  6.992  0  1  1352106  East  51      Camillo Mariani  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/8/7  2015/11/7  q  19.7  14.8  8.732  1  1  1311924  East  42      Gary M Bernstein  Research Services  Philadelphia  	Pennsylvania  19104-6205  
+2015/1/16  2015/4/16  g  23.4  19.2  10.944  1  1  1345444  East  24      Jacob Krispin  14 Freas court  North Potomac  	Maryland  20878-2586  
+2015/1/5  2015/3/5  g  12.2  6.6  5.148  0  2  1351936  East  51      Guohua Cao  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/6/24  2015/8/24  M  16.5  12.1  9.559  2  0  NNX14AB41G  East  42      DESMOND HILLIER    PITTSBURGH  	Pennsylvania  15213-3320  
+2015/6/23  2015/8/23  m  5.3  5.1  4.029  1  2  NNX14AB60A  East  51      MELANIE B SALYER    WISE  	Virginia  24293-0000  
+2015/5/22  2015/8/22  q  24.3  7.2  5.184  2  1  1401905  East  09      Ruzica Piskac  P.O. Box 208047  New Haven  	Connecticut  06520-8047  
+2015/7/5  2015/10/5  M  7.3  5.7  3.591  2  2  1338256  East  09      Michael T Hren  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/5/10  2015/6/10  M  10.8  5.8  4.176  1  1  NNX14AB64G  East  24      HOWARD SMITH    BALTIMORE  	Maryland  21218-2680  
+2015/4/18  2015/7/18  q  23.6  23.2  17.4  1  0  1345876  East  51      Xinchuan Liu  4810 Garden Spring Ln.  Glen Allen  	Virginia  23059-7552  
+2015/10/4  2015/12/4  m  13.6  12.4  6.696  1  2  NNX14AB61A  East  11      NORMAN NESS    WASHINGTON  	District of Columbia  20064-0001  
+2015/6/27  2015/8/27  m  18.8  14.6  11.096  1  1  1346331  East  34      Kevin J Durr  2 Friends Avenue  Medford  	New Jersey  08055-2406  
+2015/1/24  2015/4/24  M  22.8  6.3  4.221  2  1  NNX14AB29A  East  42      JOSE PALACIOS    UNIVERSITY PARK  	Pennsylvania  16802-1505  
+2015/3/11  2015/4/11  m  19.9  11.8  6.726  2  0  1404463  East  42      Snezhana I Abarzhi  5000 Forbes Avenue  PITTSBURGH  	Pennsylvania  15213-3815  
+2015/6/25  2015/8/25  M  7.1  6.2  3.162  1  2  1351493  East  42      Scarlett Miller  110 Technology Center Building  UNIVERSITY PARK  	Pennsylvania  16802-7000  
+2015/10/10  2015/12/10  g  11.1  6.7  4.489  2  0  1401260  East  09      William Ouimet  438 Whitney Road Ext.  Storrs  	Connecticut  06269-1133  
+2015/7/11  2015/9/11  g  6.9  5.8  3.654  1  1  1401511  East  51      Zhenyu Kong  Sponsored Programs 0170  BLACKSBURG  	Virginia  24061-0001  
+2015/4/17  2015/7/17  G  18.3  12.2  9.028  1  1  1362109  East  10      Andreas Muenchow  210 Hullihen Hall  Newark  	Delaware  19716-2553  

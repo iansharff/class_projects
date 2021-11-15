@@ -1,0 +1,759 @@
+Order Date  Delivery Date Stone Code length depth height length Edge Finished depth Edge Finished Order Number State Code Customer name and address
+2015/7/22  2015/8/22  M  10.9  5.3  3.445  1  1  NNX14AR41G  West  06      IRA LEIFER    SOLVANG  	California  93463-2613  
+2015/8/12  2015/11/12  g  8.4  7.1  3.692  0  1  NNX14AR98A  West  06      DIMITRI PAPAMOSCHOU    IRVINE  	California  92617-3067  
+2015/8/1  2015/9/1  g  15.1  6.2  3.906  1  0  1437591  West  06      Daniela F Cusack  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/2/7  2015/3/7  g  17.5  15.5  11.16  4  2  1427782  West  08      Emily B Moore  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/7/10  2015/8/10  M  13.1  12.2  8.418  1  2  NNX14AO98G  West  08      STEVEN T MASSIE    BOULDER  	Colorado  80303-1058  
+2015/1/14  2015/2/14  M  13.8  8.1  6.642  1  1  1412951  West  06      Pascale Garaud  1156 High Street  SANTA CRUZ  	California  95064-1077  
+2015/2/18  2015/3/18  g  12.5  9.1  6.825  2  0  NNX14AR16A  West  15      LUKE FLYNN    HONOLULU  	Hawaii  96822-2247  
+2015/10/23  2016/1/23  q  6.6  6.3  3.339  2  0  NNX14AR94G  West  06      BENNETT MARUCA    BERKELEY  	California  94704-5940  
+2015/1/5  2015/4/5  G  20.3  11.8  5.9  1  0  NNX14AR57G  West  04      CHRISTPHER W HAMILTON    TUCSON  	Arizona  85719-4824  
+2015/8/22  2015/9/22  q  14.3  11  8.91  2  1  NNX14AQ13G  West  06      RONALD EGUCHI    LONG BEACH  	California  90802-4388  
+2015/10/10  2015/10/10  G  17.2  15.1  9.664  1  2  1461841  West  19      Long Que  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/5/14  2015/6/14  m  22.2  8.8  5.896  2  2  1462189  West  06      David N Tse  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/9/15  2015/10/15  q  23.7  10.6  8.374  2  0  1462141  West  48      Thamar Solorio  4800 Calhoun Boulevard  Houston  	Texas  77204-2015  
+2015/9/23  2015/10/23  M  5.6  5  3.25  1  2  NNX14AQ02G  West  08      ROBERT BRAKENRIDGE    BOULDER  	Colorado  80303-1058  
+2015/12/20  2016/2/20  g  24.5  14.3  8.151  1  0  1449370  West  49      Gregg Warnick  A-285 ASB  Provo  	Utah  84602-1231  
+2015/3/4  2015/5/4  g  24.6  21.6  16.2  1  2  1433330  West  48      Craig E Tweedie  ADMIN BLDG RM 209  ElPaso  	Texas  79968-0587  
+2015/5/7  2015/8/7  M  12.8  10.3  7.622  0  1  1406304  West  48      Martin Burtscher  601 University Drive  San Marcos  	Texas  78666-4616  
+2015/4/10  2015/5/10  M  17.6  14.6  10.512  1  1  NNX14AR24G  West  19      JASPER S HALEKAS    IOWA CITY  	Iowa  52242-1316  
+2015/2/16  2015/4/16  M  19.6  7.2  5.328  2  0  1436006  West  48      Pengcheng Dai  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/12/2  2016/1/2  g  7.3  5.8  4.002  0  0  NNX14AP88G  West  08      GEOFFREY CROWLEY    BOULDER  	Colorado  80301-2870  
+2015/6/7  2015/8/7  M  20.9  20.2  10.504  1  2  NNX14AQ50G  West  04      MEENAKSHI WADHWA    TEMPE  	Arizona  85281-3670  
+2015/7/18  2015/8/18  g  19  13.4  9.38  0  2  1439693  West  08      Anneliese Andrews  2199 S. University Blvd.  Denver  	Colorado  80208-0000  
+2015/6/2  2015/9/2  G  14.1  5.1  2.55  1  0  1446901  West  06      Urbashi Mitra  University Park  Los Angeles  	California  90089-0701  
+2015/2/18  2015/3/18  m  22.5  9.6  7.392  0  2  1450342  West  18      Walter D Leon-Salas  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/4/2  2015/5/2  M  7.3  6.5  5.005  1  0  1418845  West  08      Azer Yalin  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/12/28  2016/1/28  q  14.4  10.6  7.738  0  2  1413317  West  48      Casey J Papovich  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/4/28  2015/6/28  q  6.4  6.2  4.836  1  2  1412845  West  56      Henry A Kobulnicky  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/12/24  2016/1/24  M  7.8  6.5  4.94  0  2  NNX14AP59G  West  06      RAMANARAYANAN KRISHNAMURTHY    LA JOLLA  	California  92037-1000  
+2015/9/4  2015/11/4  Q  7.7  5.4  3.078  2  1  1430725  West  06      Soyeon Park  4428 Philbrook Sq  San Diego  	California  92130-8673  
+2015/10/5  2015/12/5  M  6.7  5  3.5  2  2  1433008  West  06      Sheldon G Brown  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/12/15  2016/2/15  G  21  15.5  11.625  0  1  1422119  West  08      Xiaobo Zhou  1420, Austin Bluffs Parkway  Colorado Springs  	Colorado  80918-3733  
+2015/9/9  2015/11/9  g  12.4  7.2  5.328  0  0  1415914  West  04      Susan L Beck  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/9/6  2015/11/6  G  22.4  12.2  6.71  2  0  1441069  West  56      Lynne K Ipina  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/11/25  2015/12/25  M  11.6  5.8  3.306  2  2  1406322  West  48      James Pascaleff  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/8/15  2015/10/15  G  11.8  5.4  2.862  0  2  1461547  West  06      Veronica J Santos  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/2/10  2015/5/10  m  8.8  7.1  4.047  0  0  1424398  West  06      Jaye Padgett  1156 High Street  SANTA CRUZ  	California  95064-1077  
+2015/1/22  2015/2/22  g  7.1  6.7  5.025  0  0  NNX14AP69A  West  04      KAMEL DIDAN    TUCSON  	Arizona  85719-4824  
+2015/6/16  2015/7/16  m  7.7  5.9  3.835  1  2  1436590  West  06      Laurence Y Yeung  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/8/26  2015/11/26  G  23.1  21.5  14.405  2  0  1405066  West  06      Tian Yang  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/2/23  2015/4/23  M  22.1  16.3  11.084  1  2  NNX14AQ22G  West  06      TOM ABEL    STANFORD  	California  94305-2004  
+2015/12/4  2016/2/4  Q  7.7  5.1  3.417  0  1  1261040  West  06      Leandro S Carvalho  University Park  Los Angeles  	California  90089-0701  
+2015/2/19  2015/5/19  g  21.7  20  10.4  1  2  1404670  West  06      Lee T Kennard  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/10/16  2015/11/16  G  13.1  8.7  4.698  2  0  1153441  West  06      Branislav L Slantchev  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/7/21  2015/9/21  g  12.8  12  6  2  2  NNX14AP93G  West  04      BEATRICE MUELLER    TUCSON  	Arizona  85719-2395  
+2015/10/26  2015/12/26  g  22.6  11.6  6.38  0  2  1436326  West  06      William M Berelson  University Park  Los Angeles  	California  90089-0701  
+2015/3/27  2015/6/27  M  24.1  19.6  15.092  0  0  1409172  West  04      Marwan M Krunz  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/7/16  2015/8/16  G  13.3  7.7  5.159  1  0  1450600  West  35      Patrick Kelley  1700 Lomas Blvd. NE, Suite 2200  ALBUQUERQUE  	New Mexico  87131-0001  
+2015/12/13  2016/1/13  g  5.2  5  3.1  2  1  1354900  West  18      Nancy C Emery  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/6/23  2015/11/23  q  16.3  11.6  6.496  2  2  1358900  West  06      Stephanie E Hampton  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/2/24  2015/5/24  g  21.6  11.7  7.722  1  2  1442348  West  06      Anna Carolin Frank  5200 North Lake Road  Merced  	California  95343-5001  
+2015/12/12  2016/2/12  Q  12.4  12.1  8.954  1  2  1450661  West  04      Caroline VanIngen-Dunn  400 E. Van Buren, Suite 200  Phoenix  	Arizona  85004-2289  
+2015/1/7  2015/2/7  g  9.5  6.1  3.233  1  1  1417570  West  48      Arthur L Mason  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/11/26  2016/2/26  M  6  5.7  3.705  1  2  1446578  West  48      Behcet Acikmese  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/7/19  2015/9/19  m  7.9  6.1  3.05  2  1  1449029  West  06      Sandip Sen  2275 E BAYSHORE RD STE 160  Palo Alto  	California  94303-3224  
+2015/7/19  2015/8/19  g  12  7.4  4.144  1  1  1428857  West  40      Megan E Elwood Madden  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/5/6  2015/8/6  g  12.7  5.5  2.915  1  0  1415603  West  02      Gary Holton  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/6/4  2015/8/4  M  11.5  5.4  4.158  0  1  1419571  West  08      J. F Lamarque  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/9/18  2015/12/18  m  22.7  16.3  8.639  1  0  1406193  West  48      Igor Zelenko  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/12/12  2016/1/12  Q  19.6  7.6  5.472  2  2  1341647  West  08      Colm Sweeney  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/6/8  2015/9/8  Q  13.6  12.9  6.708  1  0  1417987  West  49      Richard R Forster  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/9/5  2015/10/5  G  19.6  10.5  6.825  1  0  1427838  West  48      Bo Sun  4400 Port Arthur Road  Beaumont  	Texas  77705-5748  
+2015/9/12  2015/12/12  m  17.4  16  11.2  0  1  NNX14AP78G  West  49      GERALD MACE    SALT LAKE CITY  	Utah  84112-9023  
+2015/1/24  2015/2/24  g  15.6  10.5  8.505  1  0  1408241  West  32      Andrey Y Khlystov  2215 Raggio Parkway  Reno  	Nevada  89512-1095  
+2015/2/18  2015/4/18  g  6.8  6.5  5.005  1  1  1419563  West  08      James Done  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/5/14  2015/8/14  g  13.9  5.4  2.97  1  0  1423576  West  06      Songwu Lu  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/9/18  2015/12/18  M  22.7  13.5  10.125  2  1  1251667  West  48      Fenglin Niu  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/5/19  2015/8/19  M  9.2  6.6  4.62  1  1  1446288  West  18      Hai Lin  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/9/1  2015/12/1  q  23.3  22.9  12.366  0  2  1445426  West  08      Sheldon D Drobot  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/12/24  2016/2/24  g  15.4  11.3  8.475  1  0  1455850  West  06      Lixia Zhang  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/4/19  2015/5/19  m  11.4  6.2  3.782  2  0  NNX14AP34G  West  15      ROBERT WRIGHT    HONOLULU  	Hawaii  96822-2247  
+2015/6/9  2015/7/9  q  19.3  14.5  8.265  1  0  1427157  West  18      David M Lodge  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/5/16  2015/7/16  M  19.4  10.7  6.313  2  0  1424013  West  18      Matthew E Hall  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/12/10  2016/1/10  Q  13.7  8  6.48  0  0  1449024  West  48      Yan Huang  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/6/24  2015/7/24  q  14.5  6.4  3.392  0  2  1354181  West  06      Martin Tresguerres  8602 La Jolla Shores Dr  LA JOLLA  	California  92093-0210  
+2015/3/8  2015/5/8  g  7.4  6.1  4.514  1  0  1427355  West  06      James Andreoni  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/7/4  2015/10/4  g  17.9  13.6  10.608  2  2  1447720  West  06      Michael Carey  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/11/11  2016/2/11  G  9.7  7.3  3.65  1  2  1448821  West  06      Patricia Cruse  1111 Franklin Street  Oakland  	California  94607-5200  
+2015/10/19  2015/11/19  M  12.4  10.7  8.774  2  2  1401432  West  08      Diego Krapf  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/7/23  2015/8/23  g  18.3  8.4  6.048  0  2  1440878  West  32      Andreas M Stefik  4505 MARYLAND PARKWAY  LAS VEGAS  	Nevada  89154-1055  
+2015/5/28  2015/6/28  Q  6.3  5.8  4.234  0  0  1408458  West  18      David B McReynolds  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/9/8  2015/12/8  g  17.9  7  5.11  1  1  1453947  West  08      James W Hurrell  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/7/16  2015/9/16  Q  13.4  8.1  6.237  2  1  1445076  West  08      C. Diane Matt  1901 East Asbury Ave., Suite 220  Denver  	Colorado  80210-3302  
+2015/8/23  2015/10/23  G  9  8.9  6.141  0  2  1429003  West  08      Seth E Frietze  Office of Sponsored Programs  Greeley  	Colorado  80639-6900  
+2015/5/20  2015/7/20  Q  21  8.2  6.642  2  0  1448633  West  06      Louise H Kellogg  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/3/14  2015/4/14  M  18.2  13.4  8.844  2  1  1440015  West  06      Thorsten Kiefer  Zaehringerstrasse 25  Bern 3012     
+2015/4/20  2015/7/20  m  12.2  9.3  4.743  1  0  1446290  West  04      Brian H Smith  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/6/17  2015/8/17  g  16.5  14.8  9.62  1  2  1356569  West  48      Olivier Lichtarge  ONE BAYLOR PLAZA  HOUSTON  	Texas  77030-3411  
+2015/5/13  2015/8/13  Q  24.7  13.9  10.286  0  1  1449220  West  06      Bartlett W Mel  University Park  Los Angeles  	California  90089-0701  
+2015/1/26  2015/2/26  G  19.2  15.9  11.13  1  1  1430979  West  49      Jacqueline T Siy-Ronquillo  717 5th Avenue, #204  Salt Lake City  	Utah  84103-3572  
+2015/5/26  2015/7/26  M  16.9  11.6  8.7  2  0  1355224  West  06      Donovan P German  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/5/5  2015/8/5  Q  9.5  5.8  3.712  2  0  1439591  West  04      Keith W Kintigh  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/10/15  2015/12/15  M  23.4  8.4  4.788  2  0  1444458  West  19      MaryAnn Leung  PO Box 1966  Ames  	Iowa  50010-1966  
+2015/7/23  2015/10/23  Q  11.5  5.3  4.293  1  1  1434613  West  19      Valery I Levitas  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/8/10  2015/9/10  M  21.5  16.5  12.54  1  1  1435170  West  48      Yanzhang Ma  349 Administration Bldg  Lubbock  	Texas  79409-1035  
+2015/12/23  2016/2/23  g  20.1  13.4  10.586  1  1  1418440  West  06      Rachelle DiStefano  25976 Carlos Bee Blvd  Hayward  	California  94542-1602  
+2015/12/18  2016/1/18  q  7.6  7.6  5.852  0  2  1420252  West  06      Jose-Felipe Martinez-Fernandez  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/10/16  2015/12/16  g  12.7  7.1  3.976  1  2  1422277  West  04      Junshan Zhang  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/3/28  2015/5/28  q  23.8  18.5  13.69  0  0  1441331  West  48      Tracy A Hammond  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/8/13  2015/10/13  m  17.7  9.3  5.487  1  2  1434723  West  18      William Carbonaro  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/10/2  2016/1/2  M  10.8  7.8  5.46  0  0  1429648  West  06      Matthew G Jackson  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/7/7  2015/10/7  M  20.6  15.7  10.833  1  1  1355202  West  06      Miri VanHoven  210 North Fourth Street  San Jose  	California  95112-5569  
+2015/12/13  2016/2/13  M  23.2  6.4  3.776  2  1  1452228  West  06      Mark Allman  1947 CENTER ST STE 600  BERKELEY  	California  94704-4115  
+2015/2/7  2015/5/7  g  24.6  21  12.6  1  2  1411945  West  06      Chung-Pei Ma  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/10/11  2015/12/11  g  7.9  6.3  4.536  2  2  1413537  West  04      Jay B Holberg  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/7/16  2015/8/16  q  7  5  3.75  0  2  1429718  West  06      Allen P Mills  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/9/13  2015/12/13  Q  6.1  5.6  3.864  2  1  1420241  West  48      Cristine Legare  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/8/11  2015/10/11  g  11  7  4.13  1  2  1419105  West  06      Mayya Tokman  5200 North Lake Road  Merced  	California  95343-5001  
+2015/12/3  2016/1/3  g  15.6  14.7  9.261  1  0  1443857  West  48      Hao Ling  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/10/3  2015/12/3  q  10.5  7.3  4.307  0  1  1413255  West  48      Petr Chaguine  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/9/20  2015/10/20  g  14.2  12.4  9.424  0  2  1413358  West  06      Hanguo Wang  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/12/6  2016/2/6  M  6.7  6  4.44  1  2  1423298  West  06      Ashish Tiwari  333 RAVENSWOOD AVE  MENLO PARK  	California  94025-3493  
+2015/4/22  2015/7/22  G  21.3  18.8  13.724  0  2  1452164  West  06      Xuelin Wu  301 Platt Boulevard  CLAREMONT  	California  91711-5901  
+2015/5/21  2015/8/21  m  20.7  20.1  13.869  2  0  1441561  West  08      Joseph L Polman  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/1/19  2015/4/19  Q  14.6  9.4  6.392  2  0  1431223  West  08      Albert Kim  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/1/5  2015/4/5  g  11.5  11  5.61  2  1  1423621  West  06      Michael Mahoney  1947 CENTER ST STE 600  BERKELEY  	California  94704-4115  
+2015/12/17  2016/1/17  G  10.7  6.8  5.372  1  0  1417939  West  06      Jacqueline Barber  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/5/9  2015/7/9  Q  15.2  8.7  4.959  0  2  1423496  West  08      Kathleen A Hinko  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/10/12  2015/12/12  m  15.9  15.1  9.513  1  2  1424298  West  06      Michael W Love  18111 Nordhoff Street  Northridge  	California  91330-8309  
+2015/12/28  2016/1/28  M  24.1  7.6  6.156  2  0  1440443  West  19      Alberto Passalacqua  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/4/2  2015/5/2  m  22.6  6.6  3.696  0  0  1428646  West  18      Joyce B Main  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/4/8  2015/6/8  g  15.8  5.7  3.477  1  2  1433414  West  18      Selma Sabanovic  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/3/22  2015/5/22  g  6.8  5.1  3.162  1  2  1361677  West  48      Mariusz Urbanski  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/9/21  2015/10/21  M  5.4  5.2  3.536  1  1  1407947  West  48      Yuze Sun  1 UNIVERSITY OF TEXAS AT  Arlington  	Texas  76019-9000  
+2015/7/19  2015/8/19  g  23.3  5.2  3.432  1  0  1419751  West  06      Bradley R Hacker  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/1/17  2015/4/17  q  22.3  10.9  6.54  2  0  1419683  West  19      Emily Finzel  2 GILMORE HALL  IOWA CITY  	Iowa  52242-1320  
+2015/9/27  2015/10/27  M  22.3  14.9  11.473  0  1  1444871  West  35      Stephanie Forrest  1700 Lomas Blvd. NE, Suite 2200  ALBUQUERQUE  	New Mexico  87131-0001  
+2015/1/14  2015/2/14  M  21.4  11.2  5.936  2  1  1419748  West  04      Paul Kapp  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/11/6  2015/12/6  g  17.5  15.9  10.971  1  0  1419165  West  48      Paul Rad  One UTSA Circle  San Antonio  	Texas  78249-9113  
+2015/10/16  2015/12/16  Q  7.5  6.4  4.48  0  2  1428673  West  06      Dirk Baron  9001 Stockdale Highway  Bakersfield  	California  93311-1022  
+2015/4/10  2015/6/10  g  9.6  7.8  4.368  1  2  1408165  West  18      Shaoen Wu  2000 University Ave  Muncie  	Indiana  47306-1022  
+2015/12/7  2016/1/7  q  13.3  9.3  6.138  1  0  1362214  West  18      Tong Ren  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/7/6  2015/8/6  g  13.8  5.3  2.862  1  0  1445079  West  06      Raul Aranovich  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/11/17  2015/12/17  q  18.9  13.1  9.039  1  0  1429794  West  06      Kevin D McKeegan  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/10/1  2015/12/1  Q  18.8  6.1  3.111  0  1  1427470  West  49      Frank J Black  1840 South 13th East  Salt Lake City  	Utah  84105-3617  
+2015/2/28  2015/3/28  M  19.1  6  3.54  2  0  1355978  West  06      Carol Rhodes  3401 CSM Drive  San Mateo  	California  94402-3699  
+2015/1/9  2015/3/9  G  20.2  13.5  10.53  0  2  1409987  West  06      Sven Koenig  University Park  Los Angeles  	California  90089-0701  
+2015/2/23  2015/5/23  Q  21  9.6  5.76  1  2  1431264  West  08      Rick Reeves  13300 W 6th Avenue  Lakewood  	Colorado  80228-1255  
+2015/8/11  2015/9/11  M  17.9  7.6  5.776  0  2  1410719  West  04      Judd D Bowman  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/8/27  2015/11/27  q  24.8  15.5  12.71  1  1  1417906  West  18      Scott A McLuckey  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/1/12  2015/3/12  G  9.8  9.2  7.176  1  2  1451026  West  06      David Kleinfeld  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/9/6  2015/10/6  G  15.9  10.3  8.034  1  2  1451034  West  48      Todd Roberts  5323 HARRY HINES BLVD.  DALLAS  	Texas  75390-9105  
+2015/7/26  2015/9/26  G  7.6  6.9  3.933  2  1  1440342  West  15      Ruth D Gates  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/4/11  2015/5/11  q  6.8  5.8  4.002  2  1  1440087  West  06      Rommie E Amaro  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/9/8  2015/11/8  g  6.6  5.3  3.127  2  1  1331519  West  48      Cecilia Clementi  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/8/26  2015/11/26  G  9.9  9.7  6.208  0  1  1331552  West  06      Vijay S Pande  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/3/14  2015/4/14  G  9.2  6.1  3.599  0  1  1421068  West  49      Koushik Chakraborty  Sponsored Programs Office  Logan  	Utah  84322-1415  
+2015/7/18  2015/9/18  M  10.4  6.1  3.355  2  1  1434561  West  18      Kenneth D Ridgway  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/3/22  2015/6/22  g  5.1  5  3.7  1  1  1451033  West  08      Tom Yeh  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/9/8  2015/12/8  G  16.2  14.5  9.86  2  2  1417815  West  02      C. Geoffrey Wheat  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/9/26  2015/11/26  m  19.3  7.1  4.189  2  2  1434940  West  48      Robert Reece  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/3/19  2015/4/19  g  9.4  8.2  5.084  1  2  1357478  West  48      Marie T Mora  1201 West University Dr  Edinburg  	Texas  78539-2909  
+2015/8/19  2015/10/19  m  6.1  5.5  2.86  2  0  1432829  West  06      Philip Janowicz  2600 E. Nutwood Ave.  Fullerton  	California  92831-3137  
+2015/2/24  2015/5/24  Q  19.2  17.9  10.919  0  0  1418378  West  04      Danielle S McNamara  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/1/23  2015/4/23  g  18  13.8  10.764  2  0  1319197  West  06      Jelena Mirkovic  University Park  Los Angeles  	California  90089-0701  
+2015/11/22  2016/2/22  G  6.5  5.4  2.754  1  2  1407351  West  06      Charles M Bradford  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/9/1  2015/10/1  M  8.1  6.7  4.355  2  0  1318734  West  19      Douglas W Jacobson  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/11/19  2015/12/19  M  23.8  23  12.19  1  0  1423550  West  02      Matthew Sturm  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/8/9  2015/9/9  q  17.5  10.2  5.712  1  2  1446318  West  35      Tariq A Khraishi  1700 Lomas Blvd. NE, Suite 2200  ALBUQUERQUE  	New Mexico  87131-0001  
+2015/9/16  2015/10/16  g  24.8  21.9  15.33  0  0  1402907  West  49      Tommaso de Fernex  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/8/24  2015/10/24  Q  12.5  11.4  9.234  1  0  1404890  West  48      Jose E Silva-Martinez  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/4/28  2015/7/28  q  12.4  9  7.29  1  0  1418911  West  18      Michael S Jolly  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/12/18  2016/2/18  g  11.5  5.8  3.306  2  0  1446958  West  08      Anatoliy V Glushchenko  1420, Austin Bluffs Parkway  Colorado Springs  	Colorado  80918-3733  
+2015/12/23  2016/1/23  M  14.2  6.7  3.484  2  0  1313588  West  04      A. J. Timothy Jull  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/6/3  2015/8/3  M  24.3  23  11.96  1  0  NNX14AO52G  West  18      REBECCA KRAMER    WEST LAFAYETTE  	Indiana  47907-2024  
+2015/6/5  2015/8/5  Q  15.6  10.9  6.867  2  2  1242918  West  06      Vassilis Angelopoulos  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/11/23  2016/2/23  M  21.5  19.7  14.381  0  1  1410297  West  06      Konstantinos Kalogerakis  333 RAVENSWOOD AVE  MENLO PARK  	California  94025-3493  
+2015/12/25  2016/1/25  q  22.2  20.4  10.2  1  0  1433190  West  02      Lisa J Busch  834 LINCOLN ST #200  SITKA  	Alaska  99835-1373  
+2015/6/17  2015/7/17  g  22.9  12.4  8.804  2  2  1429708  West  48      Chunqiang Li  ADMIN BLDG RM 209  ElPaso  	Texas  79968-0587  
+2015/1/16  2015/2/16  g  14  9  4.77  0  2  1444133  West  04      Curtis W Marean  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/9/20  2015/10/20  Q  8.2  7.9  5.609  0  2  1423620  West  06      Christopher M Clark  301 Platt Boulevard  CLAREMONT  	California  91711-5901  
+2015/8/22  2015/10/22  g  5.1  5.1  3.774  0  2  NNX14AO06A  West  48      ANITA COCHRAN    AUSTIN  	Texas  78712-1500  
+2015/7/28  2015/9/28  G  23.4  9.9  5.445  0  2  NNX14AO89G  West  15      BRUCE HOSE    HONOLULU  	Hawaii  96822-2247  
+2015/6/1  2015/8/1  Q  23.1  10  5  1  1  1404017  West  48      Jose L Lage  6425 BOAZ  DALLAS  	Texas  75205-6312  
+2015/11/26  2016/2/26  m  22.3  19.9  15.124  1  2  1449397  West  06      Regina Ragan  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/2/12  2015/4/12  M  10.2  7.8  5.07  0  1  1421999  West  04      Yanchao Zhang  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/3/24  2015/6/24  M  10.6  7.5  5.7  1  1  1450746  West  18      Daniel P Maki  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/7/27  2015/9/27  M  5.3  5.1  3.009  2  1  1445070  West  48      Siva A Vanapalli  349 Administration Bldg  Lubbock  	Texas  79409-1035  
+2015/3/28  2015/5/28  M  19.5  7.2  4.824  0  1  1358004  West  08      Tammy L Haut Donahue  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/8/8  2015/11/8  g  24.6  16.7  11.022  2  2  1445097  West  06      M. Saif Islam  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/11/22  2016/1/22  g  23  8.3  4.399  2  2  1402935  West  06      Larry A Coldren  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/5/22  2015/8/22  q  22  7.7  4.543  1  2  1439145  West  48      Diego A Donzis  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/9/24  2015/12/24  G  9.8  7.6  4.18  1  2  NNX14AO46G  West  06      YUAN LIAN    PASADENA  	California  91106-3977  
+2015/5/22  2015/6/22  G  11.1  10.9  6.976  2  2  1331083  West  02      Helen V Wiggins  3535 College Road, Suite 101  Fairbanks  	Alaska  99709-3710  
+2015/1/19  2015/4/19  G  21.3  15.3  11.169  2  1  1407212  West  06      Greg Thomas  1102 Q Street, Third Floor  Sacramento  	California  95811-6549  
+2015/9/14  2015/11/14  M  25  5.3  3.922  0  1  1440811  West  06      Elbridge G Puckett  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/6/15  2015/7/15  G  13.9  13.6  9.792  1  2  1402172  West  06      Christina M Tellez    Alhambra  	California  91801-2856  
+2015/10/25  2016/1/25  G  22.5  14.9  11.622  0  1  NNX14AN69G  West  04      MICHAEL KRAFT    TEMPE  	Arizona  85281-3670  
+2015/6/19  2015/7/19  G  10  9.1  7.098  1  1  1413078  West  06      Karin Leiderman  5200 North Lake Road  Merced  	California  95343-5001  
+2015/3/21  2015/6/21  Q  12  9.4  6.674  2  0  1437571  West  06      Mark A Steele  18111 Nordhoff Street  Northridge  	California  91330-8309  
+2015/10/23  2016/3/23  M  22.3  18.2  12.558  0  1  1417274  West  32      Sylvia-Monique Thomas  4505 MARYLAND PARKWAY  LAS VEGAS  	Nevada  89154-1055  
+2015/1/14  2015/2/14  g  12.1  9.9  7.623  2  2  1436545  West  06      Scott Hamilton  210 North Fourth Street  San Jose  	California  95112-5569  
+2015/11/3  2015/12/3  G  7  5.3  3.604  1  2  1427396  West  06      Oussama Khatib  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/4/28  2015/7/28  Q  10.8  5.9  3.776  0  1  1407828  West  06      Tze L Lai  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/1/4  2015/3/4  M  6.2  6  4.08  2  0  1404542  West  04      Shufeng Zhang  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/2/20  2015/5/20  M  17.8  12.1  6.776  0  0  1432815  West  06      Stephen Cooper  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/4/16  2015/5/16  M  9.1  6.8  3.74  1  0  1358908  West  40      Garey A Fox  101 WHITEHURST HALL  Stillwater  	Oklahoma  74078-1011  
+2015/11/11  2016/1/11  g  9.2  5.7  2.85  1  0  1412981  West  06      Jason X Prochaska  1156 High Street  SANTA CRUZ  	California  95064-1077  
+2015/8/2  2015/11/2  m  12  6.6  4.356  1  0  1407804  West  06      Dan Werthimer  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/7/24  2015/8/24  g  13  8  4  0  0  1407723  West  06      Fraydoun Rezakhanlou  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/3/1  2015/4/1  G  10.8  5.8  3.132  0  1  1436263  West  06      Michael Chabinyc  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/8/8  2015/10/8  M  19.4  8.2  6.396  1  2  1410350  West  48      Orion Ciftja  P O Box 667  Prairie View  	Texas  77446-0667  
+2015/5/25  2015/8/25  q  17.8  6  4.68  0  0  1434854  West  06      Christian G Van de Walle  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/4/23  2015/7/23  G  22.1  12  7.08  2  0  1350909  West  18      Yulia Pushkar  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/1/17  2015/4/17  m  20.6  13.9  8.201  2  2  1441263  West  08      Abbie B Liel  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/9/13  2015/11/13  m  10.8  7.4  5.328  2  2  1424111  West  48      Robert Crosnoe  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/9/27  2015/10/27  M  19.9  16.2  9.558  2  2  1441358  West  06      Allison M Okamura  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/2/23  2015/4/23  g  10.2  9.6  5.472  0  2  1427422  West  49      Sanford G Meek  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/12/23  2016/1/23  M  5.8  5.2  3.9  2  2  1430118  West  06      Cristina Milesi  100 Campus Center  seaside  	California  93955-8001  
+2015/9/16  2015/12/16  g  22  16.2  13.284  0  0  1429687  West  40      Miriam Belmaker  800 S. Tucker Drive  Tulsa  	Oklahoma  74104-9700  
+2015/7/12  2015/10/12  g  20.9  18  13.5  0  0  1429822  West  06      Elissa Hallem  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/6/10  2015/9/10  q  9.8  7.1  5.609  1  1  1430034  West  06      Trent Biggs  5250 Campanile Drive  San Diego  	California  92182-2190  
+2015/5/10  2015/7/10  Q  5.8  5.2  3.536  1  1  1439682  West  18      J. Nicholas Laneman  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/11/1  2016/2/1  M  12.4  8.4  4.956  1  1  1361807  West  06      Dean J Tantillo  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/8/14  2015/10/14  M  11.7  8.9  6.052  1  0  1401737  West  06      Ryan R Julian  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/6/8  2015/9/8  Q  19.4  9.5  5.795  0  0  NNX14AO61H  West  06      BETHANY EHLMANN    PASADENA  	California  91125-0001  
+2015/2/22  2015/3/22  M  8.9  8.7  6.699  1  1  1402029  West  06      Andrew K Udit  1600 Campus Road  Los Angeles  	California  90041-3314  
+2015/8/6  2015/9/6  g  6.4  5.2  2.912  0  1  1421022  West  49      Sanghamitra Roy  Sponsored Programs Office  Logan  	Utah  84322-1415  
+2015/5/8  2015/8/8  G  24.2  6.6  3.894  2  1  1407835  West  04      Evan Scannapieco  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/8/7  2015/9/7  g  17.2  14.1  9.87  0  1  1429929  West  04      Jean-Marc Fellous  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/6/5  2015/7/5  g  8.2  7.7  4.851  2  1  1410375  West  06      Congjun Wu  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/5/15  2015/8/15  Q  17.7  5.3  2.703  0  2  1406042  West  06      Ethan B Katz-Bassett  University Park  Los Angeles  	California  90089-0701  
+2015/11/13  2016/1/13  q  6.5  6  3.72  0  2  1412500  West  40      Wouter D Hoff  101 WHITEHURST HALL  Stillwater  	Oklahoma  74078-1011  
+2015/5/14  2015/7/14  g  7.6  7.4  5.772  2  2  1353804  West  04      Robert J Handa  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/4/7  2015/7/7  M  20.9  19.9  15.522  1  1  NNX14AO45G  West  48      LESLIE YOUNG    SAN ANTONIO  	Texas  78238-5166  
+2015/7/11  2015/9/11  G  24  5.6  4.592  0  1  1403502  West  48      Amarnath P Banerjee  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/9/19  2015/10/19  G  22.9  17.5  9.45  2  2  1440568  West  08      Thomas Hauser  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/2/15  2015/3/15  Q  11.9  9.9  5.643  1  2  1440066  West  15      Edward F DeLong  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/1/7  2015/4/7  Q  24.1  10.5  7.98  0  1  1449247  West  06      Natalie Mladenov  5250 Campanile Drive  San Diego  	California  92182-2190  
+2015/5/17  2015/6/17  g  6.5  6.4  4.672  2  0  1440133  West  08      Michael D Daniels  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/10/12  2015/12/12  M  10.7  9.2  7.544  2  0  1412271  West  06      Alexei G Kritsuk  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/9/25  2015/12/25  G  11  10.5  8.19  0  2  1439587  West  08      Phil Westra  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/8/25  2015/9/25  g  22.7  13.8  10.488  0  0  1438963  West  48      Martin Burtscher  601 University Drive  San Marcos  	Texas  78666-4616  
+2015/12/4  2016/2/4  g  6  5.1  3.876  2  2  1445373  West  08      Frederic Latremoliere  2199 S. University Blvd.  Denver  	Colorado  80208-0000  
+2015/7/24  2015/9/24  g  10.7  5.5  3.575  2  0  1353101  West  32      Kam K Leang  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/7/23  2015/10/23  q  15.4  8.7  7.134  1  1  1451463  West  06      Sherry H Hsi  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/9/6  2015/12/6  q  9  7.5  5.25  2  0  1303279  West  19      Douglas W Jacobson  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/1/13  2015/2/13  Q  17.3  12.8  10.368  0  2  NNX14AN92G  West  08      ROBERT PINCUS    BOULDER  	Colorado  80303-1058  
+2015/7/15  2015/9/15  m  14.8  14.7  7.35  1  1  NNX14AN03G  West  06      ERIC RIGNOT    IRVINE  	California  92617-3067  
+2015/12/20  2016/1/20  M  11.9  11.4  8.208  2  1  1409668  West  18      Dongyan Xu  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/6/23  2015/7/23  m  9.7  8  5.68  2  1  1410000  West  49      Ryan Gerdes  Sponsored Programs Office  Logan  	Utah  84322-1415  
+2015/2/17  2015/5/17  G  15.5  8  5.84  0  2  1303051  West  35      Lorie M Liebrock  801 Leroy Place  Socorro  	New Mexico  87801-4681  
+2015/5/4  2015/7/4  g  20.3  13.8  8.97  2  2  1339185  West  06      Savithramma P Dinesh-Kumar  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/9/20  2015/11/20  g  21.2  14.2  8.804  1  0  1451828  West  06      Ravi Ramamoorthi  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/11/2  2015/12/2  G  10.7  9.1  6.643  1  1  1420691  West  48      Chandra L Muller  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/6/9  2015/9/9  M  17.5  6.8  5.236  2  1  1358072  West  18      Michael T Niemier  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/12/16  2016/1/16  Q  20.2  8.6  5.676  0  0  1454641  West  06      Biswanath Mukherjee  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/8/28  2015/9/28  M  7.6  5.7  4.275  0  0  1404744  West  18      Paul W Bohn  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/5/5  2015/7/5  G  18.9  8.7  4.35  1  2  1454143  West  04      Georgios Fainekos  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/1/21  2015/4/21  m  8.6  5.4  2.808  1  0  1405619  West  04      Raymond K Kostuk  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/5/20  2015/7/20  G  22  19  9.5  0  2  1447570  West  06      Julie Shah  2275 E BAYSHORE RD STE 160  Palo Alto  	California  94303-3224  
+2015/6/6  2015/9/6  M  11.2  7.3  4.38  0  2  1409434  West  06      Jean-Pierre Fouque  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/2/23  2015/3/23  q  14.3  6.4  3.84  1  2  1414599  West  06      Eric A Kaltenbacher  333 RAVENSWOOD AVE  MENLO PARK  	California  94025-3493  
+2015/5/18  2015/6/18  G  19.7  10.4  7.072  1  2  1446078  West  18      Filippo Radicchi  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/7/21  2015/8/21  g  16.4  12  8.16  2  1  NNX14AN35G  West  04      VISHNU KANUPURU    TUCSON  	Arizona  85719-2395  
+2015/2/3  2015/4/3  q  14.5  10  5.2  1  2  NNX14AO38G  West  06      MATIJA CUK    MOUNTAIN VIEW  	California  94043-0818  
+2015/1/28  2015/3/28  M  8.2  5.3  3.869  1  0  1423515  West  06      Miguel A Carreira-Perpinan  5200 North Lake Road  Merced  	California  95343-5001  
+2015/7/26  2015/10/26  M  19.2  12.6  8.694  2  0  1412942  West  48      Jyoti Shah  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/4/12  2015/6/12  G  16.2  7.3  4.38  1  2  1430328  West  32      Kam K Leang  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/2/4  2015/4/4  m  24.9  13  7.15  1  2  1339128  West  06      William J Lucas  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/8/4  2015/9/4  g  12.7  10.7  6.099  1  0  1444958  West  06      James Chan  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/6/18  2015/9/18  g  8.3  8.1  6.237  2  2  1428184  West  48      Isabell Thomann  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/7/2  2015/9/2  G  7.7  7.1  4.97  0  0  1434753  West  06      Wenlong Jin  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/9/26  2015/10/26  Q  9.4  5.2  3.744  1  0  1433395  West  06      Alexander A Balandin  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/8/24  2015/10/24  g  21.6  5.6  4.368  1  2  1363485  West  40      Daryoosh Vashaee  101 WHITEHURST HALL  Stillwater  	Oklahoma  74078-1011  
+2015/9/25  2015/12/25  G  18.2  7.3  5.11  0  0  1434284  West  06      Kimberly TallBear  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/7/19  2015/8/19  q  9.7  5.1  3.876  2  0  1413900  West  48      Bradford Wilcox  2147 TAMU  College Station  	Texas  77845-3000  
+2015/10/5  2015/12/5  g  10.1  7.3  4.161  0  2  NNX14AO20H  West  08      DAVE BRAIN    BOULDER  	Colorado  80303-1058  
+2015/8/28  2015/10/28  q  22  10.6  7.42  2  0  NNX14AN31G  West  06      FRANK DAVIS    SANTA BARBARA  	California  93106-0001  
+2015/2/18  2015/4/18  m  23  14.7  9.408  1  0  1407560  West  06      Hongquan Xu  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/4/19  2015/5/19  q  23.2  22.6  17.176  1  2  1354022  West  06      Neal M Williams  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/11/14  2015/12/14  M  5.2  5.1  3.519  0  1  1413955  West  06      Amit Sahai  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/8/3  2015/10/3  M  23.9  15.7  10.362  2  1  1357619  West  06      Mark S Handcock  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/3/19  2015/5/19  q  19.1  12.2  9.272  2  2  1401008  West  48      Matthew Young  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/11/26  2015/12/26  G  9.6  6.3  3.402  1  0  1417367  West  49      Pearl Sandick  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/4/9  2015/6/9  M  13.5  10.4  6.76  2  2  1446563  West  06      Heather J Henter  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/2/11  2015/5/11  M  5.6  5  3.35  0  1  1421935  West  04      Sergio Rey  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/2/21  2015/4/21  g  18.1  15.7  8.007  0  0  1404129  West  48      Paul Fitzpatrick  7703 FLOYD CURL DR  SAN ANTONIO  	Texas  78229-3901  
+2015/4/12  2015/5/12  g  12.8  5.3  3.498  0  2  1402004  West  48      Jonathan L Sessler  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/12/15  2016/2/15  M  15.3  11  6.71  0  2  NNX14AO18H  West  08      MICHAEL SHULL    BOULDER  	Colorado  80303-1058  
+2015/10/19  2015/12/19  g  10.1  7.3  5.402  2  2  1345074  West  06      Jean M Carlson  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/4/26  2015/6/26  q  8.2  5.8  3.77  1  0  NNX14AM34G  West  06      ROBERT J FROUIN    LA JOLLA  	California  92093-1500  
+2015/2/4  2015/5/4  Q  16.8  6.1  3.111  0  2  NNX14AN47G  West  08      MERRITT N DEETER    BOULDER  	Colorado  80301-2252  
+2015/5/26  2015/7/26  g  17.7  16.6  11.786  2  0  1417145  West  08      David A Benson  1500 Illinois  Golden  	Colorado  80401-1887  
+2015/7/9  2015/9/9  q  6.3  5.1  3.468  2  2  1360709  West  40      Jacob Manatowa-Bailey  920883 S. Hwy 99  Stroud  	Oklahoma  74079-9998  
+2015/11/2  2015/12/2  G  13  10  6.3  2  0  1432673  West  48      Jennifer L Glass  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/11/20  2015/12/20  Q  12  5.7  3.192  2  2  1402480  West  06      Jill P Naiman    Santa Cruz  	California  95060-3082  
+2015/3/20  2015/5/20  G  8.5  5.1  3.57  1  1  1350230  West  48      Miao Pan  3100 Cleburne Street  Houston  	Texas  77004-4501  
+2015/12/15  2016/2/15  M  7.4  5.4  3.402  2  1  1439779  West  08      Richard Kitchen  2199 S. University Blvd.  Denver  	Colorado  80208-0000  
+2015/7/17  2015/10/17  g  8.4  8.4  5.292  0  1  1408572  West  06      Robert A Hanneman  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/9/11  2015/10/11  M  12.2  10.2  8.364  2  2  1406536  West  08      William P Kleiber  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/1/9  2015/4/9  g  9.9  7.1  5.325  0  2  1354007  West  02      Merritt Turetsky  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/9/19  2015/12/19  m  8  5  3.9  1  0  1431845  West  06      Thomas M Korman  One Grand Ave  San Luis Obispo  	California  93407-0830  
+2015/3/6  2015/6/6  Q  15.6  11  8.58  0  2  1362129  West  19      Claudio J Margulis  2 GILMORE HALL  IOWA CITY  	Iowa  52242-1320  
+2015/10/25  2016/1/25  m  22.9  6.9  3.864  1  1  1347323  West  48      Julie Newman  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/4/3  2015/5/3  g  15.4  14.3  8.723  1  2  NNX14AN36G  West  08      BRIAN HYNEK    BOULDER  	Colorado  80303-1058  
+2015/10/2  2015/12/2  G  17.2  8.8  4.4  2  0  1421100  West  04      Jieping Ye  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/3/7  2015/6/7  M  7.1  5.6  3.808  2  0  1355998  West  48      Christopher M Jermaine  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/4/4  2015/5/4  m  23.5  11.6  6.38  2  0  1433927  West  04      Robin Stryker  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/8/15  2015/9/15  q  20.8  17.8  9.078  2  2  1423998  West  18      Lauren M MacLean  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/12/2  2016/2/2  m  14  11.9  6.783  0  1  NNX14AK69G  West  35      CATHERINE E BREWER    LAS CRUCES  	New Mexico  88003-8001  
+2015/2/5  2015/4/5  g  9.8  6.1  4.453  2  2  1425616  West  06      Karthik Muralidharan  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/6/23  2015/8/23  M  18.6  17.1  11.115  0  0  1406496  West  18      Ellen D Ketterson  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/1/28  2015/3/28  g  13.8  11.4  6.384  0  1  1358646  West  06      Michael C Gurnis  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/10/10  2015/11/10  g  20.9  5.2  3.12  0  2  1442966  West  06      Brandon Kuczenski  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/3/19  2015/4/19  g  22.7  7.4  3.848  0  0  1343908  West  06      Hans-Rudolf Wenk  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/9/23  2015/11/23  M  23.2  18.9  14.175  2  1  1356086  West  06      Winny Dong  3801 West Temple  Pomona  	California  91768-2557  
+2015/1/19  2015/2/19  M  13.1  10.1  5.05  1  2  1411335  West  06      Eric E Fullerton  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/5/20  2015/7/20  g  13.3  11.2  7.84  2  1  1449194  West  06      Ursula Simonis  1600 Holloway Ave  San Francisco  	California  94132-1722  
+2015/4/28  2015/5/28  g  24.6  10.5  8.085  2  2  1362497  West  56      David T Anderson  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/4/23  2015/5/23  M  6.7  6.5  4.225  0  0  1406588  West  06      Anastasiia Tsvietkova  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/9/23  2015/10/23  q  13.9  9.2  7.084  0  0  1405175  West  08      Congming Li  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/5/2  2015/7/2  g  13.2  9.2  6.624  1  1  1418202  West  18      Guang Cheng  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/5/26  2015/6/26  M  17.5  14.4  7.488  2  2  NNX14AK41G  West  06      BRIAN WALSH    BERKELEY  	California  94704-5940  
+2015/1/13  2015/3/13  Q  14.7  13.2  7.788  2  0  1404909  West  35      Ron Lumia  1700 Lomas Blvd. NE, Suite 2200  ALBUQUERQUE  	New Mexico  87131-0001  
+2015/1/18  2015/2/18  g  10.3  5.8  4.002  0  1  1417857  West  08      Douglas W Nychka  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/11/28  2016/2/28  m  6.4  5.6  2.968  2  2  1429826  West  06      Thomas Girke  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/8/16  2015/9/16  g  16.9  6.4  3.456  2  0  1434670  West  48      Darek J Bogucki  6300 Ocean Drive  Corpus Christi  	Texas  78412-5503  
+2015/7/9  2015/10/9  M  11.5  10.7  7.169  0  0  1421443  West  08      Qing Yi  1420, Austin Bluffs Parkway  Colorado Springs  	Colorado  80918-3733  
+2015/2/27  2015/5/27  M  16.5  14.3  10.01  0  0  1420608  West  08      Jie Luo  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/4/18  2015/7/18  Q  17.3  15.1  9.966  2  1  1417856  West  49      Matthew J Heaton  A-285 ASB  Provo  	Utah  84602-1231  
+2015/4/10  2015/5/10  q  8.6  8.6  6.966  0  2  1407712  West  06      Ali H Sayed  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/10/17  2016/1/17  m  9  8.2  6.724  1  1  1443134  West  06      Richard M Karp  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/8/27  2015/9/27  g  21.7  17.3  9.688  0  0  1417724  West  08      William P Kleiber  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/3/25  2015/6/25  g  9.9  6.2  3.348  1  2  1405413  West  06      Murat Arcak  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/2/22  2015/5/22  Q  14.7  7.2  4.248  2  0  1439142  West  04      Ahmed Louri  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/10/4  2015/12/4  M  13.4  10  6.5  1  2  NNX14AM67G  West  49      DAVID LONG    PROVO  	Utah  84602-1014  
+2015/5/15  2015/7/15  g  10.7  5  3.25  0  1  1405937  West  48      Lin Zhong  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/6/8  2015/8/8  q  6.6  5.5  2.915  1  2  1417674  West  06      Andrea L Bertozzi  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/5/2  2015/6/2  m  6  5.5  2.86  2  2  1428398  West  48      Rafael Tadmor  4400 Port Arthur Road  Beaumont  	Texas  77705-5748  
+2015/10/22  2015/12/22  g  6.1  6.1  3.782  2  1  1439165  West  06      Jean-Luc Gaudiot  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/11/12  2016/1/12  M  24.8  9  5.85  2  1  1433155  West  02      Marilyn J Sigman  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/2/8  2015/5/8  g  18  15  8.85  0  0  1419818  West  08      Elizabeth Barnes  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/7/8  2015/9/8  g  18.3  18.2  14.196  0  2  1405766  West  06      James D DeKloe  4000 Suisun Valley Rd  Fairfield  	California  94534-3197  
+2015/9/10  2015/10/10  g  21.2  17.6  11.968  0  1  1362302  West  08      Steven H Strauss  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/11/12  2016/1/12  g  22.5  7.5  6.075  2  2  1404371  West  04      Joseph J Galaskiewicz  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/6/13  2015/7/13  q  21.1  19.4  9.7  0  2  1414298  West  06      Jared T Shaw  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/7/2  2015/8/2  m  23.7  16.6  8.466  0  2  1423659  West  06      Alberto Dainotti  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/6/17  2015/9/17  g  7.6  7.1  3.834  1  2  1424213  West  06      Eric Stover  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/2/13  2015/3/13  q  18.2  9.3  5.301  1  1  NNX14AN09G  West  48      NATHANIEL PUTZIG    SAN ANTONIO  	Texas  78238-5166  
+2015/6/9  2015/11/9  Q  12.7  9  5.13  0  1  1434199  West  06      Jessica M Warren  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/12/3  2016/2/3  M  21.2  7.4  5.55  1  0  1408309  West  48      Randall G Hulet  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/8/28  2015/10/28  M  19.6  6.8  4.896  2  2  1449751  West  04      Eric Hekler  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/9/25  2015/11/25  Q  16.6  12.7  9.017  0  2  1449601  West  06      Ludwig Bartels  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/9/2  2015/10/2  g  18  16  10.08  0  2  1404566  West  06      Holger Mueller  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/11/20  2016/2/20  Q  16.8  14.9  8.94  0  1  1450819  West  48      Satish T Bukkapatnam  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/3/13  2015/6/13  M  8.6  5.4  3.726  0  1  NNX14AM11G  West  04      REBECCA WILLIAMS    TUCSON  	Arizona  85719-2395  
+2015/11/4  2016/1/4  g  16.3  5.9  4.425  1  0  1434273  West  06      John K Hedrick  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/5/24  2015/6/24  Q  6.6  5.8  4.234  2  0  1437118  West  04      Jean E McLain  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/5/24  2015/8/24  M  20.9  11.1  5.661  2  1  1449559  West  32      Paul Y Oh  4505 MARYLAND PARKWAY  LAS VEGAS  	Nevada  89154-1055  
+2015/3/13  2015/4/13  Q  9.8  5.2  3.276  1  2  1437923  West  06      Jin Nam  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/5/6  2015/6/6  M  6.8  6.5  3.51  2  2  1449621  West  35      Krishna Kota  Corner of Espina St. & Stewart  Las Cruces  	New Mexico  88003-8002  
+2015/12/1  2016/2/1  g  7.3  6.3  3.843  0  1  1363254  West  19      Erin MacDonald  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/9/27  2015/11/27  g  9.1  5.7  3.591  2  1  1410735  West  08      Ivan I Smalyukh  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/3/13  2015/6/13  M  17  11.5  8.74  1  2  1404400  West  06      Giovanni Zocchi  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/1/16  2015/3/16  m  23.4  11.2  6.048  2  0  1411260  West  48      Yonghui Wang  P O Box 667  Prairie View  	Texas  77446-0667  
+2015/10/4  2015/12/4  g  18.8  11.2  5.936  0  1  1418775  West  04      Kevin K Lin  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/3/24  2015/4/24  Q  21.9  18.2  13.65  0  0  1436018  West  06      Erik A Johnson  University Park  Los Angeles  	California  90089-0701  
+2015/9/12  2015/11/12  q  13.3  7.9  5.767  0  2  1450110  West  48      Majid Minary Jolandan  800 W. Campbell Rd.  Richardson  	Texas  75080-3021  
+2015/4/5  2015/5/5  q  7.3  7.3  3.796  1  2  1361814  West  08      J. Mathias Weber  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/7/8  2015/8/8  m  23.9  8.2  4.1  1  0  1445933  West  49      Seth Lyman  Sponsored Programs Office  Logan  	Utah  84322-1415  
+2015/10/11  2015/11/11  M  10.6  6  4.32  0  1  1421300  West  48      Marianne Karplus    Southampton     
+2015/3/26  2015/6/26  M  14.8  5.3  3.975  2  1  1403421  West  48      Mark Lee  800 W. Campbell Rd.  Richardson  	Texas  75080-3021  
+2015/5/8  2015/7/8  m  10.5  8.6  6.192  2  1  1440504  West  04      Wai Kiong Chong  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/8/26  2015/9/26  m  8.3  7.3  4.453  2  1  1361783  West  18      Christoph M Hoffmann  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/4/26  2015/6/26  g  5.8  5.2  4.108  2  2  1449717  West  48      Michael Moreno  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/12/20  2016/1/20  M  11.2  8.4  5.208  1  0  1427096  West  06      Ronald S Fearing  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/9/28  2015/12/28  g  23.3  16.5  8.415  0  0  1358554  West  49      Tammy M Rittenour  Sponsored Programs Office  Logan  	Utah  84322-1415  
+2015/6/26  2015/7/26  M  21.9  15.4  7.7  0  1  1358514  West  08      Rebecca M Flowers  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/9/4  2015/11/4  m  8.7  7.6  5.7  2  2  1450861  West  06      Patrick J Lynett  University Park  Los Angeles  	California  90089-0701  
+2015/7/7  2015/10/7  M  13.5  11.9  7.259  0  2  1358401  West  04      J Ramon Arrowsmith  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/5/2  2015/7/2  M  13.1  12.1  9.196  1  2  1435178  West  48      Gary R Webb  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/9/14  2015/10/14  g  14.7  14.1  9.165  0  1  1400989  West  06      Robyn E Sanderson    Groningen     
+2015/2/19  2015/4/19  q  19.6  14.9  10.579  1  2  1451258  West  08      Brian M Argrow  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/2/1  2015/3/1  G  23  16.8  13.608  2  1  1447440  West  08      Elizabeth Bradley  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/2/12  2015/4/12  q  23.4  20.1  12.663  0  2  1436532  West  40      Brian P Grady  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/9/26  2015/12/26  q  16.4  10.1  5.757  2  1  1412924  West  48      Diane E Bailey  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/2/16  2015/4/16  g  17.1  9.1  7.098  0  1  1362111  West  19      Gregory K Friestad  2 GILMORE HALL  IOWA CITY  	Iowa  52242-1320  
+2015/4/17  2015/7/17  G  17.6  10.8  7.02  0  1  1416161  West  06      Phillip Geissler  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/8/24  2015/9/24  q  18.7  9.9  6.93  1  2  NNX14AL06G  West  04      VISHNU REDDY KANUPURU    TUCSON  	Arizona  85719-2395  
+2015/4/13  2015/6/13  Q  14.1  9.8  5.194  2  1  1362691  West  48      Christian B Hilty  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/12/1  2016/2/1  M  17.2  7  4.34  2  2  NNX14AL72H  West  08      DAVID M KLAUS    BOULDER  	Colorado  80303-1058  
+2015/2/24  2015/4/24  G  13.3  13  8.97  2  0  1402193  West  08      Julia Kamenetzky    Boulder  	Colorado  80301-1959  
+2015/5/10  2015/7/10  M  16.1  15.9  11.448  0  0  1415398  West  08      Steven T Cundiff  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/12/22  2016/1/22  q  9.6  8.1  5.994  2  1  1363255  West  06      Judy E Kim  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/11/24  2016/2/24  M  16  7.9  3.95  2  1  NNX14AI89G  West  08      DANIEL STEINHOFF    BOULDER  	Colorado  80301-2252  
+2015/7/20  2015/9/20  M  14.3  6.9  3.726  0  1  1438634  West  48      Stephan Link  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/7/15  2015/9/15  Q  7.1  5.4  3.51  1  0  1436960  West  04      Spring Berman  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/2/10  2015/5/10  Q  13.4  5.1  3.978  0  1  1341658  West  06      Sujoy Mukhopadhyay  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/9/11  2015/11/11  M  8.2  5  2.7  1  1  NNX14AM60H  West  06      SIGRID CLOSE    STANFORD  	California  94305-2004  
+2015/3/14  2015/5/14  m  9.8  9.2  7.084  1  1  1436285  West  19      Christina L Bloebaum  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/1/16  2015/4/16  g  9.3  8.6  5.332  2  2  1449197  West  06      Emma L Aronson  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/2/27  2015/3/27  g  8.6  7  3.85  2  1  1436856  West  48      Oleg Makarenkov  800 W. Campbell Rd.  Richardson  	Texas  75080-3021  
+2015/1/10  2015/4/10  g  15.9  8.5  5.015  0  0  1449387  West  04      Cody Youngbull  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/6/21  2015/7/21  G  9.4  8.6  4.816  0  2  1436958  West  06      Douglas E Hammond  University Park  Los Angeles  	California  90089-0701  
+2015/3/20  2015/4/20  g  17.9  12.7  9.779  0  0  1363404  West  06      Eva A Kanso  University Park  Los Angeles  	California  90089-0701  
+2015/10/22  2015/11/22  Q  14.7  5.3  4.028  1  2  1409130  West  06      Sungjin Im  5200 North Lake Road  Merced  	California  95343-5001  
+2015/4/7  2015/7/7  m  8.7  7.1  3.692  2  1  NNX14AM41H  West  48      OZDEN OCHOA    COLLEGE STATION  	Texas  77845-4645  
+2015/3/6  2015/6/6  G  9.2  6.9  4.899  1  2  1348059  West  18      Andrew P Barth  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/10/19  2015/12/19  g  16  8  5.12  2  0  1443948  West  06      Ricardo Cortez  1115 Mission Street  SANTA CRUZ  	California  95060-0000  
+2015/12/4  2016/1/4  G  19.9  8.7  6.873  1  1  1435881  West  04      Zhihua Wang  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/8/7  2015/11/7  Q  8.2  7  4.69  0  2  1423657  West  08      Mahesh K Varanasi  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/6/10  2015/8/10  g  16.9  11.7  8.073  0  1  1420681  West  04      Ahmed Louri  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/8/6  2015/11/6  M  14.7  8.9  7.298  0  2  NNX14AL42H  West  08      AZER YALIN    FORT COLLINS  	Colorado  80521-2807  
+2015/7/26  2015/10/26  Q  14.4  9.6  6.816  1  1  NNX14AJ64G  West  15      NIKOLAI MAXIMENKO    HONOLULU  	Hawaii  96822-2247  
+2015/6/4  2015/7/4  M  12.6  9.2  7.544  2  1  1401217  West  06      Sarah Feakins  University Park  Los Angeles  	California  90089-0701  
+2015/9/20  2015/10/20  m  24.9  24.8  12.648  0  2  1450867  West  06      Gurol Suel  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/4/17  2015/5/17  M  6.1  5.9  4.661  2  1  1356306  West  48      Matthew L Baker  ONE BAYLOR PLAZA  HOUSTON  	Texas  77030-3411  
+2015/2/14  2015/5/14  q  24.2  6.1  4.514  1  1  NNX14AL16G  West  08      DANIEL SCHEERES    BOULDER  	Colorado  80303-1058  
+2015/6/21  2015/8/21  g  9.6  8.1  4.293  2  1  1408425  West  18      Susan Fullerton  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/9/28  2015/10/28  g  22.6  17  9.69  0  0  1418716  West  40      Gerilyn S Soreghan  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/2/7  2015/3/7  M  18.7  17.1  9.576  1  0  1402163  West  08      Devin W Silvia    Boulder  	Colorado  80305-6526  
+2015/3/9  2015/6/9  M  6  5.6  4.256  2  2  1437857  West  35      Susan Kurien  4200 West Jemez Road, Suite 301  Los Alamos  	New Mexico  87544-2587  
+2015/11/23  2016/1/23  g  23.8  17.6  12.848  2  1  1437865  West  19      Rodney O Fox  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/1/2  2015/3/2  M  9.2  6.2  3.1  2  0  1436617  West  06      Jason T DeJong  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/8/12  2015/10/12  g  9.4  5.1  3.111  1  2  1351968  West  06      Anastassia N Alexandrova  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/2/8  2015/5/8  M  14.2  14.2  10.082  1  1  1423602  West  06      Calvin Morrill  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/10/13  2015/12/13  M  6.1  5.6  3.024  2  0  1356796  West  15      Robert C Thomson  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/10/18  2015/11/18  M  23.9  16  9.76  0  0  1430514  West  04      Ben A Minteer  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/5/8  2015/8/8  g  21.7  6.4  3.904  2  0  1410242  West  06      Anton Van der Ven  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/3/20  2015/6/20  m  21.6  16.2  11.178  2  0  1427922  West  06      Phillip Crews  1156 High Street  SANTA CRUZ  	California  95064-1077  
+2015/1/21  2015/3/21  q  17.9  15.6  9.828  0  2  1428729  West  48      Patrick J Farmer  One Bear Place #97360  Waco  	Texas  76798-7360  
+2015/8/19  2015/11/19  Q  22  15.3  7.956  0  0  1402901  West  49      John C Conboy  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/6/25  2015/8/25  M  22.7  16.2  11.34  0  0  1411315  West  06      Frances Hellman  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/6/20  2015/8/20  M  9.2  6.8  4.284  2  1  1445624  West  06      Chris A Mattmann  University Park  Los Angeles  	California  90089-0701  
+2015/10/4  2016/1/4  q  12.4  8.1  4.779  2  2  1423296  West  06      Ashish Tiwari  333 RAVENSWOOD AVE  MENLO PARK  	California  94025-3493  
+2015/4/12  2015/5/12  m  7.6  5.4  2.862  1  1  1401667  West  48      Hristo V Kojouharov  1 UNIVERSITY OF TEXAS AT  Arlington  	Texas  76019-9000  
+2015/7/14  2015/8/14  M  11.2  7.1  4.544  1  1  1421652  West  18      Sam Tobin-Hochstadt  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/6/15  2015/9/15  M  7.8  7.3  4.964  1  2  1360509  West  04      Mikhail Chester  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/12/21  2016/1/21  g  19.1  15.7  10.519  1  2  1415195  West  02      Elizabeth D Tobin  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/2/16  2015/3/16  G  20.9  11.2  7.616  1  2  1321969  West  06      Ennio Sanchez  333 RAVENSWOOD AVE  MENLO PARK  	California  94025-3493  
+2015/11/17  2016/2/17  m  17  12.9  10.191  0  0  1438530  West  48      Philip L Varghese  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/6/23  2015/9/23  G  7.1  6.9  4.899  0  0  1340852  West  04      Gerard J Allan  ARD Building #56, Suite 240  Flagstaff  	Arizona  86011-4130  
+2015/1/20  2015/4/20  G  18.2  16.2  12.15  2  1  1435652  West  32      Henry C Fu  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/9/5  2015/11/5  g  16.5  5.3  2.65  2  0  1443217  West  48      Ashutosh Sabharwal  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/9/1  2015/11/1  g  12.6  7.2  3.96  1  2  1449584  West  06      Rachel Segalman  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/10/1  2015/12/1  Q  15.8  7.3  5.475  2  2  1445796  West  15      Jason Leigh  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/8/8  2015/10/8  Q  11.4  8.3  4.233  0  0  1435205  West  02      Brenda H Konar  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/5/20  2015/8/20  g  9.4  8.4  5.04  0  0  1423570  West  06      Ertem Tuncel  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/2/23  2015/3/23  M  21.4  5.7  3.021  0  0  1406812  West  06      Fabien Pinaud  University Park  Los Angeles  	California  90089-0701  
+2015/2/2  2015/3/2  Q  24.8  17.8  12.816  2  2  NNX14AJ21G  West  06      JULIAN BORRILL    BERKELEY  	California  94704-5940  
+2015/5/27  2015/7/27  G  19.8  18.6  12.648  2  0  1429925  West  08      Steven A Rutledge  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/8/4  2015/9/4  q  9  7.8  4.368  2  2  1417985  West  06      Jiawang Nie  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/2/4  2015/3/4  M  23.6  15.7  9.42  0  0  1418936  West  06      Xu Yang  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/10/20  2015/11/20  G  14.2  8.7  5.916  1  1  1434330  West  06      Helga Leitner  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/7/14  2015/9/14  m  18.6  8.9  5.963  1  0  1433681  West  04      Daoqin Tong  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/9/6  2015/10/6  g  25  16.8  10.248  2  2  1440452  West  04      E. Charles Adams  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/11/21  2015/12/21  G  11.1  9.3  4.743  2  0  1349677  West  18      Sebastien Helie  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/11/4  2015/12/4  q  19.5  7.8  5.85  2  1  1360783  West  48      Patience Epps  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/4/1  2015/7/1  q  11.8  10.1  7.272  1  1  NNX14AJ96G  West  08      MARGARET TOLBERT    BOULDER  	Colorado  80303-1058  
+2015/2/2  2015/3/2  M  16.5  7.4  5.476  1  2  NNX14AJ99A  West  35      ALEXANDER T MCMAHON    ALBUQUERQUE  	New Mexico  87120-3101  
+2015/8/20  2015/9/20  M  13.2  9.4  4.7  1  1  NNX14AJ84G  West  06      JOHN WASSON    LOS ANGELES  	California  90095-2000  
+2015/4/21  2015/5/21  G  11.4  9.2  4.692  1  2  1349179  West  06      John McCormack  1600 Campus Road  Los Angeles  	California  90041-3314  
+2015/7/4  2015/10/4  q  15  7.3  5.548  2  1  1358510  West  06      Peter M Shearer  8602 La Jolla Shores Dr  LA JOLLA  	California  92093-0210  
+2015/10/24  2015/12/24  m  22.4  13  8.19  1  2  1349419  West  02      Kevin S Winker  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/9/23  2015/10/23  m  9.2  5.2  3.432  0  1  1418841  West  06      Roberta Marinelli  University Park  Los Angeles  	California  90089-0701  
+2015/10/13  2015/12/13  g  14.2  9  7.02  2  1  NNX14AJ76G  West  06      JAMES WEYGAND    LOS ANGELES  	California  90095-2000  
+2015/3/13  2015/6/13  M  19.9  14.3  11.154  2  2  NNX14AK76H  West  06      NAOMI LEVINE    LOS ANGELES  	California  90089-0001  
+2015/1/12  2015/3/12  Q  13.1  11.4  6.954  2  1  1420146  West  06      Ravi Ramamoorthi  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/5/10  2015/8/10  M  8.8  5.6  4.592  0  0  NNX14AJ94G  West  48      MARK BULLOCK    SAN ANTONIO  	Texas  78238-5166  
+2015/8/8  2015/9/8  M  19.7  10.4  6.76  1  1  1435866  West  18      Srinivas Peeta  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/11/6  2015/12/6  g  15.3  6.4  3.392  2  1  1423419  West  48      Gopal Gupta  800 W. Campbell Rd.  Richardson  	Texas  75080-3021  
+2015/2/6  2015/4/6  q  11.4  7.5  5.85  1  2  1404866  West  06      Edward I Solomon  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/2/27  2015/4/27  g  5.5  5.2  3.172  2  2  NNX14AK15G  West  06      GERALD JOYCE    LA JOLLA  	California  92037-1000  
+2015/2/17  2015/3/17  g  5.9  5  3.05  1  0  1427357  West  15      Bruce Houghton  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/5/15  2015/6/15  M  5.6  5.6  3.024  2  2  1351609  West  18      Jason Hicks  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/11/26  2016/1/26  m  6.6  5.6  3.136  1  1  1362263  West  08      Matthew R Hallowell  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/9/4  2015/10/4  M  5.4  5.1  4.182  2  2  NNX14AK42G  West  06      RICHARD BOGART    STANFORD  	California  94305-2004  
+2015/7/1  2015/8/1  M  22.4  16.2  10.044  0  1  1362479  West  48      Angela K Wilson  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/8/9  2015/11/9  m  20.9  14  7  0  1  1447341  West  06      Peggy M Fong  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/8/12  2015/10/12  q  6.3  5.4  3.888  0  2  NNX14AI60G  West  06      PAUL WENNBERG    PASADENA  	California  91125-0001  
+2015/5/16  2015/7/16  g  16.8  9.3  7.347  2  1  1409135  West  06      Kannan Ramchandran  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/1/3  2015/2/3  M  19.8  7  5.25  0  1  1440035  West  48      Mohamed G Gouda  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/5/13  2015/7/13  Q  10.5  10.4  8.424  1  1  1363375  West  06      Annaliese K Franz  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/4/14  2015/6/14  M  6.5  5.2  2.86  1  2  1444345  West  06      Chris E Dames  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/4/21  2015/7/21  q  6.5  5.2  4.264  0  0  1440769  West  06      Shava Smallen  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/9/16  2015/12/16  M  17.3  16.3  13.203  0  2  1406535  West  06      Susan Olzak  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/8/18  2015/10/18  q  11.9  11.3  7.684  0  1  1441898  West  06      Stephen Cronin  University Park  Los Angeles  	California  90089-0701  
+2015/3/3  2015/6/3  g  5.9  5.8  3.132  2  2  NNX14AI75G  West  06      MEKONNEN GEBREMICHAEL    LOS ANGELES  	California  90095-2000  
+2015/5/23  2015/6/23  G  22.4  21.5  14.835  2  0  1407216  West  19      Suely P Oliveira  2 GILMORE HALL  IOWA CITY  	Iowa  52242-1320  
+2015/4/12  2015/7/12  G  7.6  5.3  4.081  2  0  NNX14AI61G  West  06      EMMANUEL DINNAT    ORANGE  	California  92866-1005  
+2015/6/6  2015/7/6  Q  22.2  5.9  4.13  2  2  1358607  West  06      Paul Segall  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/4/4  2015/7/4  Q  15  10.6  6.36  2  1  1360979  West  48      Anatoly B Kolomeisky  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/2/9  2015/4/9  Q  11.5  9.2  6.624  2  0  NNX14AK11A  West  48      DAVID REDMAN    COLLEGE STATION  	Texas  77845-4645  
+2015/7/16  2015/10/16  M  16  12.7  7.239  0  1  1434325  West  06      Stephen R Palumbi  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/3/17  2015/4/17  q  13.3  8.9  5.073  2  0  1439725  West  06      Kannan Ramchandran  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/4/12  2015/7/12  g  5.2  5  3.5  0  2  1427595  West  06      Virginia A Matzek  500 El Camino Real  Santa Clara  	California  95053-0250  
+2015/1/6  2015/2/6  g  6.5  5  2.65  1  1  1445380  West  32      Eelke Folmer  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/7/23  2015/9/23  g  14.9  9.6  7.488  1  0  1413437  West  48      William R Ott  4800 Calhoun Boulevard  Houston  	Texas  77204-2015  
+2015/10/16  2016/1/16  M  22.8  5.7  3.363  2  2  1402906  West  06      Stephen Cronin  University Park  Los Angeles  	California  90089-0701  
+2015/4/6  2015/6/6  g  6  5.5  4.07  0  2  1400268  West  06      Enrique J Lavernia  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/9/14  2015/10/14  G  12.5  12.2  9.028  1  2  1438042  West  19      Zhiyou Wen  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/6/26  2015/9/26  M  18.6  8.5  6.545  0  1  1438694  West  06      Jean S VanderGheynst  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/7/10  2015/8/10  g  5.5  5  2.65  1  0  1363354  West  06      Nicholas Sitar  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/10/18  2015/12/18  g  5.2  5  4.1  2  1  1314501  West  06      Hanguo Wang  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/12/15  2016/2/15  q  12.7  6.8  3.604  0  2  1329766  West  06      Rajesh K Gupta  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/8/4  2015/10/4  G  6  5.4  3.186  2  2  1423544  West  06      Christopher M Umans  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/9/23  2015/10/23  M  8.1  6.6  4.554  1  2  NNX14AI08G  West  06      JAMES H CLEMMONS    EL SEGUNDO  	California  90245-4609  
+2015/2/23  2015/3/23  M  11.2  7.6  4.712  2  1  1446930  West  15      Samantha Stevenson  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/6/19  2015/7/19  g  6.2  5.7  3.762  0  2  1413755  West  06      R. Michael Rich  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/10/27  2016/1/27  q  7  5.2  2.964  2  0  1415052  West  19      Caroline Wuest    Ames  	Iowa  50014-3747  
+2015/8/9  2015/9/9  q  12.3  6.8  4.08  1  1  1400470  West  18      Andrew Bell  50 W Fall Creek Parkway N Drive  Indianapolis  	Indiana  46208-0000  
+2015/11/26  2016/1/26  m  12.7  7.1  4.899  1  0  1414799  West  06      Andy Echenique    Irvine  	California  92617-4315  
+2015/9/8  2015/11/8  Q  8.7  5.2  2.86  1  2  1417295  West  06      Surjeet Rajendran  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/9/23  2015/10/23  G  20.8  19.2  11.904  2  0  1445869  West  06      Kambiz Vafai  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/7/14  2015/10/14  M  13.6  11.3  6.667  0  0  NNX14AH52G  West  06      MICHAEL SNYDER    STANFORD  	California  94305-2004  
+2015/12/27  2016/1/27  g  6  6  4.44  1  0  1417300  West  02      Christopher D Arp  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/8/8  2015/9/8  q  18.3  13  9.23  0  2  1360228  West  06      Lee Fleming  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/10/21  2015/11/21  Q  9.8  5.2  3.744  0  0  NNX14AI42G  West  48      DAVID E STEELMAN    SAN ANTONIO  	Texas  78238-5166  
+2015/5/1  2015/7/1  Q  23.8  19.3  11.387  2  2  1408896  West  18      Antony L Hosking  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/4/8  2015/6/8  g  12.7  11.7  7.137  1  0  1354351  West  18      Robert J Malone  University of Notre Dame  Notre Dame  	Indiana  46556-0000  
+2015/9/22  2015/10/22  M  12.1  6.1  4.331  1  0  1441779  West  08      Dena M Smith  3300 PENROSE PL  BOULDER  	Colorado  80301-1180  
+2015/2/1  2015/3/1  Q  18  13.1  6.812  2  1  1360063  West  06      Martin F Kenney  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/5/8  2015/7/8  M  15.7  11.8  9.204  0  1  1411349  West  06      Thuc-Quyen Nguyen  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/3/10  2015/6/10  M  16.6  14.6  10.512  0  1  1418858  West  56      Robert L Kelly  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/3/14  2015/5/14  g  6.8  6.7  4.221  2  2  1411250  West  06      Yayoi Takamura  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/3/4  2015/4/4  G  18.5  14.7  7.791  1  2  1403002  West  48      Michael J McShane  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/8/9  2015/9/9  M  9.7  5.6  2.912  1  0  1362696  West  08      Shideh Dashti  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/5/9  2015/8/9  g  5.9  5.1  4.131  1  2  1348393  West  06      Paul M Bellan  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/5/15  2015/7/15  G  13.3  12.9  7.224  1  2  1363123  West  48      Zhenhai Xia  1155 Union Circle #305250  DENTON  	Texas  76203-5017  
+2015/6/23  2015/7/23  g  23.9  10.2  5.61  0  1  1415268  West  06      Robert C Carpenter  18111 Nordhoff Street  Northridge  	California  91330-8309  
+2015/10/19  2015/12/19  M  16.1  12.6  7.434  0  2  1351900  West  06      Duncan Callaway  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/6/22  2015/7/22  Q  12  11.1  8.991  0  1  1436950  West  06      Michael Ortiz  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/11/11  2016/1/11  M  21.7  10.3  8.446  0  1  1407548  West  06      Trevor Hastie  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/8/3  2015/9/3  Q  12.7  9.4  5.546  0  2  1435073  West  48      Xiaobo Peng  P O Box 667  Prairie View  	Texas  77446-0667  
+2015/1/9  2015/2/9  m  24.5  15.9  8.904  2  2  1359751  West  48      David M Cairns  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/2/14  2015/4/14  q  17.2  7.5  4.725  2  2  1354351  West  18      Robert J Malone  University of Notre Dame  Notre Dame  	Indiana  46556-0000  
+2015/5/26  2015/8/26  G  12.8  8.1  6.399  2  0  1406871  West  06      Vivek Shende  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/11/9  2016/1/9  Q  23  9.2  4.784  0  2  NNX14AH71G  West  06      ROBERTO LIONELLO    SAN DIEGO  	California  92121-3933  
+2015/1/24  2015/2/24  M  16.7  6.7  4.958  1  1  1402495  West  06      Robert J Markelz    Davis  	California  95616-5270  
+2015/3/17  2015/5/17  g  7.9  5.3  3.816  0  1  1414844  West  06      Todd A Duncombe    Berkeley  	California  94703-1213  
+2015/8/13  2015/9/13  Q  13.3  7.2  4.968  1  2  1401836  West  04      Jessica Fish  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/8/6  2015/9/6  M  14  5.6  3.528  1  2  1408652  West  06      Thomas L Griffiths  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/7/25  2015/9/25  g  10.3  9.8  6.076  2  2  1430485  West  18      Christopher G Connell  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/4/12  2015/6/12  Q  11.6  8.1  4.455  2  0  1415101  West  06      Vatche Sahakian  301 Platt Boulevard  CLAREMONT  	California  91711-5901  
+2015/11/15  2016/1/15  G  22.7  8.9  4.539  0  0  1405973  West  06      Susan M Kauzlarich  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/2/24  2015/4/24  q  8.6  7  5.53  1  2  1410215  West  08      Conrad R Stoldt  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/3/1  2015/6/1  g  15.5  11.5  5.865  1  0  1415009  West  48      Brandon L Price    Fort Worth  	Texas  76244-6913  
+2015/7/25  2015/8/25  M  22.8  10.4  6.864  1  1  1414955  West  15      Kealohanuiopuna M Kinney    Hilo  	Hawaii  96720-9672  
+2015/3/9  2015/6/9  Q  6.8  6.8  5.1  2  2  1414795  West  06      Allison E Rubin    Davis  	California  95616-2243  
+2015/7/13  2015/10/13  g  17.1  11.9  8.092  0  1  1415046  West  19      Lindsay Rutter    Ames  	Iowa  50010-6413  
+2015/10/15  2016/1/15  g  11.8  10.7  7.276  0  0  1415103  West  32      Erica J Marti    Las Vegas  	Nevada  89119-7269  
+2015/12/20  2016/2/20  m  21.7  17.4  9.222  2  1  1414827  West  48      Mackenzie E Schoemann    Bryan  	Texas  77801-2437  
+2015/8/2  2016/1/2  G  22.3  7.6  6.004  2  0  1400985  West  08      Michael J Wiltberger  1850 TABLE MESA DR  BOULDER  	Colorado  80305-5602  
+2015/8/9  2015/9/9  M  15.2  10.6  7.42  0  1  NNX14AH49G  West  06      JONATHAN ARONS    BERKELEY  	California  94704-5940  
+2015/9/19  2015/12/19  M  10.6  8.5  4.76  2  0  1414843  West  48      Melissa L Rohal    Corpus Christi  	Texas  78412-5869  
+2015/7/11  2015/8/11  M  17.7  8.4  4.536  1  0  1415808  West  06      Lilla Smith  1517 Francisco St., Apt. 1  Berkeley  	California  94703-1259  
+2015/8/25  2015/9/25  m  11.6  6.7  4.556  2  1  1417308  West  15      Chenyan Song  2800 Woodlawn Drive  Honolulu  	Hawaii  96822-1862  
+2015/12/24  2016/1/24  q  10.5  10.5  5.775  2  0  1354166  West  04      Lara A Ferry  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/6/17  2015/7/17  Q  6.2  6.2  3.286  2  2  1416584  West  06      Isaac T Sachs-Quintana  810 22nd st  san francisco  	California  94107-3426  
+2015/11/15  2016/1/15  M  10.4  9.7  6.596  1  2  1430608  West  04      Jane Maienschein  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/9/20  2015/12/20  q  18.7  6.2  4.092  2  0  1441660  West  48      Mark A Sheridan  349 Administration Bldg  Lubbock  	Texas  79409-1035  
+2015/5/7  2015/8/7  Q  16.1  14.4  8.64  2  0  1407078  West  06      Chelsea D Specht  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/8/3  2015/10/3  M  5.4  5.2  2.964  0  2  1441831  West  56      Alfred R Rodi  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/7/20  2015/10/20  M  23.2  21.8  17.658  2  1  1347563  West  06      Christopher C Chase  3575 Sweigert Rd  San Jose  	California  95132-2489  
+2015/4/25  2015/6/25  M  21.5  18.7  9.537  2  1  1405753  West  06      Nann A Fangue  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/11/5  2015/12/5  q  16.3  9.2  4.784  0  2  1405472  West  06      Kathleen R Johnson  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/10/18  2015/12/18  q  6.1  5.7  3.591  2  1  1360565  West  08      Ivan A Cornejo  1500 Illinois  Golden  	Colorado  80401-1887  
+2015/3/4  2015/4/4  m  7.3  5.4  2.916  2  1  1405873  West  18      Katherine H Connelly  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/6/25  2015/8/25  M  12.5  10.2  6.12  0  1  1349229  West  32      Scott W McCoy  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/8/27  2015/9/27  M  18.5  7.6  5.7  1  2  NNX14AG93G  West  04      RENU MALHOTRA    TUCSON  	Arizona  85719-4824  
+2015/6/11  2015/8/11  Q  13.4  10.9  5.668  2  2  1358507  West  06      Samuel M McClure  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/12/15  2016/1/15  M  14.2  5  3.05  0  0  1304162  West  02      Julie M Raymond-Yakoubian  'C' St. & Seppala  Nome  	Alaska  99762-0948  
+2015/2/28  2015/5/28  q  16.9  15.6  10.92  1  2  1415655  West  08      Daniel D Miller-Lionberg  601 S Howes St  Fort Collins  	Colorado  80521-2807  
+2015/12/19  2016/1/19  m  15.4  6.1  4.331  2  0  1445110  West  48      Jose Iovino  One UTSA Circle  San Antonio  	Texas  78249-9113  
+2015/10/20  2016/1/20  M  13.3  9.8  5.194  1  2  1416467  West  06      Peter Kozodoy  1455 Adams Drive Suite 1288  Menlo Park  	California  94025-1438  
+2015/4/8  2015/5/8  m  20.1  5.3  3.021  0  0  1359726  West  40      Conrad L Ziegler  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/11/8  2016/2/8  q  6.6  6.1  4.026  2  1  1402682  West  06      Miguel A Garcia-Garibay  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/11/16  2015/12/16  M  10.3  5.5  3.575  2  0  1407620  West  18      Andrew M Weiner  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/12/16  2016/2/16  q  19  5.1  4.029  0  0  1401122  West  04      Romyar T Sharifi  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/9/11  2015/10/11  Q  10.1  6.7  4.623  0  2  1442646  West  08      John V O'Loughlin  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/5/8  2015/6/8  m  13.2  5.1  3.213  1  1  1406524  West  06      Wayne P Sousa  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/7/28  2015/9/28  M  13  5.6  3.08  0  1  1401299  West  48      Christine V Hawkes  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/5/16  2015/7/16  M  24.9  7.7  5.005  2  1  NNX14AI64H  West  18      STEVEN SCHNEIDER    WEST LAFAYETTE  	Indiana  47907-2024  
+2015/11/16  2015/12/16  G  22.7  6.9  4.692  1  2  1440458  West  18      Simon DeDeo  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/10/9  2015/12/9  G  20.1  13.3  7.049  2  0  1415803  West  06      Francisco J Machuca  2220 Livingston Street  Oakland  	California  94606-1234  
+2015/9/15  2015/12/15  m  6.2  5.7  4.161  1  0  NNX14AH55A  West  06      CHARLIE ZENDER    IRVINE  	California  92617-3067  
+2015/12/12  2016/2/12  g  11.8  6.7  4.087  1  0  1417276  West  06      Dawei Wang  232 Trafalgar Lane  San Clemente  	California  92672-5481  
+2015/8/28  2015/9/28  M  15.4  9.1  4.823  0  1  1345236  West  08      Christos Papadopoulos  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/3/2  2015/4/2  m  23.3  12  6.24  1  2  1345318  West  06      Lixia Zhang  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/11/22  2016/1/22  M  15.3  8.9  4.717  1  2  1351896  West  06      Laura Waller  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/3/12  2015/5/12  M  23.1  18.8  12.596  1  1  1444754  West  06      Matthew Taylor  2275 E BAYSHORE RD STE 160  Palo Alto  	California  94303-3224  
+2015/7/18  2015/8/18  m  21.4  11.2  7.728  2  0  1441963  West  15      Jason Leigh  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/2/22  2015/5/22  M  18.9  5.2  4.108  0  0  NNX14AF35G  West  06      COLBY LEMON    EL SEGUNDO  	California  90245-4609  
+2015/11/2  2016/1/2  Q  20.5  14.4  11.088  0  1  NNX14AG91G  West  06      DAVID WILLIAMS    SANTA CRUZ  	California  95064-1077  
+2015/4/12  2015/6/12  M  20.3  7.1  5.112  1  2  1350696  West  18      Gabor Szekelyhidi  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/9/19  2015/12/19  q  10.1  9.6  5.28  0  0  1440576  West  06      Ulrike Muller  4910 N. Chestnut Ave  Fresno  	California  93726-1852  
+2015/6/7  2015/9/7  g  10.9  5.1  3.06  0  1  1407650  West  49      Ashutosh Tiwari  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/7/15  2015/9/15  M  6.6  5.4  2.916  2  0  1406262  West  06      Gregory S Gilbert  1156 High Street  SANTA CRUZ  	California  95064-1077  
+2015/4/26  2015/5/26  M  13.5  7.9  3.95  0  0  1439535  West  18      Byunghoo Jung  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/2/8  2015/3/8  g  17.5  7.1  4.615  0  2  1413854  West  06      Steven P Briggs  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/12/23  2016/1/23  M  7.4  6  3.36  0  0  NNX14AH35G  West  06      PHILIP F HOPKINS    PASADENA  	California  91125-0001  
+2015/5/26  2015/6/26  G  21.3  19.1  14.707  2  0  NNX14AE27H  West  06      NIKOS MOURTOS    SAN JOSE  	California  95112-5569  
+2015/5/9  2015/6/9  g  13.1  9.3  5.859  1  0  NNX14AG42G  West  06      DANIEL MATSIEV    MENLO PARK  	California  94025-3453  
+2015/7/15  2015/10/15  M  22  14.4  10.944  1  2  1344547  West  48      Meinhard B Cardenas  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/1/4  2015/3/4  Q  15.8  5.6  3.08  2  2  1352006  West  32      Yantao Shen  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/1/8  2015/3/8  M  5.5  5.4  4.266  0  0  1407133  West  48      Howard J Ochman  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/1/7  2015/3/7  q  17.2  11.5  6.785  2  2  1407338  West  06      Kurt E Anderson  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/1/23  2015/4/23  g  21.3  20.9  14.839  1  2  1242893  West  08      Scott E Palo  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/8/28  2015/11/28  q  20.2  12.9  9.417  2  1  1348876  West  06      Mizuko Ito  5171 California Avenue, Ste 150  IRVINE  	California  92697-7600  
+2015/12/3  2016/2/3  Q  23.8  21.7  16.058  1  2  1359199  West  48      Shou-Hsuan S Huang  4800 Calhoun Boulevard  Houston  	Texas  77204-2015  
+2015/9/18  2015/10/18  g  9.6  7.8  5.772  0  1  NNX14AG81G  West  04      DAVID SCHLEICHER    FLAGSTAFF  	Arizona  86001-4470  
+2015/3/11  2015/5/11  G  11.5  6.2  4.34  0  1  1349735  West  18      Corey P Neu  Young Hall  West Lafayette  	Indiana  47907-2114  
+2015/10/22  2015/12/22  G  21.9  7.2  5.184  1  0  1359500  West  06      Christopher S Kim  One University Drive  Orange  	California  92866-1005  
+2015/12/1  2016/2/1  g  8  5.8  4.292  0  0  1439311  West  48      Marc Garbey  4800 Calhoun Boulevard  Houston  	Texas  77204-2015  
+2015/12/17  2016/1/17  G  7.7  6.3  4.095  0  0  NNX14AF40G  West  08      JOHN PODESTA    BOULDER  	Colorado  80301-2532  
+2015/9/10  2015/11/10  G  16.2  11.9  8.687  1  0  1319663  West  18      Virginia J Vitzthum  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/7/3  2015/9/3  M  6.9  6  3  1  0  1351112  West  49      Alan D Dorval  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/9/22  2015/10/22  Q  16.8  5  3.8  1  1  NNX14AG44G  West  35      ZACHARY SHARP    ALBUQUERQUE  	New Mexico  87106-3807  
+2015/7/13  2015/9/13  M  6.9  6.7  4.02  1  0  1440346  West  06      James Birch  7700 SANDHOLDT RD  MOSS LANDING  	California  95039-9644  
+2015/8/7  2015/10/7  q  21.9  6.4  3.392  0  0  1400721  West  06      Elaine Johnson  33 Gough Street  San Francisco  	California  94103-1214  
+2015/11/17  2016/2/17  G  11.2  8.1  4.617  2  0  1348819  West  48      Catherine Riegle-Crumb  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/2/23  2015/3/23  m  21.2  13.3  9.443  1  0  NNX14AG04G  West  08      DARREL BAUMGARDNER    BOULDER  	Colorado  80301-5727  
+2015/9/15  2015/11/15  Q  10.2  5.9  3.953  1  2  1358686  West  06      Abhijit Ghosh  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/10/23  2016/1/23  M  8.8  5.3  3.498  0  0  1347085  West  48      Cin-Ty A Lee  6100 MAIN ST  HOUSTON  	Texas  77005-1827  
+2015/3/1  2015/5/1  M  14.1  9.2  5.98  1  0  1406933  West  40      Jonathan R Kujawa  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/12/22  2016/1/22  M  23.4  20.1  11.457  2  2  NNX14AE80G  West  18      JAMES L GARRISON    WEST LAFAYETTE  	Indiana  47907-2024  
+2015/5/21  2015/8/21  M  12.6  6.8  5.304  2  0  1439227  West  18      Cindy E Hmelo-Silver  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/6/7  2015/9/7  M  12.1  5.2  3.796  0  1  NNX14AG38H  West  06      PARVIS MOIN    STANFORD  	California  94305-2004  
+2015/12/1  2016/1/1  q  9.7  6.5  4.745  1  2  1418462  West  48      Arlene Rosen  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/2/14  2015/3/14  G  17.9  10.5  7.455  0  0  1343962  West  18      Walter Craig  27 KING'S COLLEGE CIR  Toronto, Ontario M5S 1A1     
+2015/5/14  2015/8/14  m  7.2  5.4  4.266  1  0  1353584  West  06      Christopher P Cheng  425B Forest Ave  Palo Alto  	California  94301-2609  
+2015/12/13  2016/2/13  G  12.3  5.4  3.024  2  2  1358896  West  32      Kurt Regner  4505 MARYLAND PARKWAY  LAS VEGAS  	Nevada  89154-1055  
+2015/7/16  2015/9/16  M  8.5  7.3  5.694  2  0  1439410  West  48      Meinhard B Cardenas  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/6/28  2015/7/28  q  15.1  7.5  5.1  1  0  NNX14AF33G  West  48      ROD HEELIS    RICHARDSON  	Texas  75080-1407  
+2015/5/1  2015/8/1  g  15.5  15.2  11.552  2  2  1405686  West  49      Kevin E Wortman  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/3/8  2015/5/8  M  19.6  6.5  4.355  1  1  1356531  West  06      Sean E Walker  2600 E. Nutwood Ave.  Fullerton  	California  92831-3137  
+2015/7/8  2015/9/8  Q  9.8  7.8  4.29  1  1  1348916  West  08      Jessica K Witt  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/5/14  2015/6/14  M  6  6  3  2  1  1351866  West  08      Jason R Marden  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/11/20  2016/2/20  M  18.8  7.9  5.925  2  2  1353336  West  18      Louise Sinks  1400 E Angela Blvd., Unit 148  South Bend  	Indiana  46617-1370  
+2015/9/18  2015/12/18  M  11  7.1  4.757  1  2  1353495  West  08      Allistair Moses  3888 E. Mexico Ave., Suite 254  Denver  	Colorado  80210-3814  
+2015/3/4  2015/5/4  g  10.9  10.6  8.586  0  1  1400706  West  06      Jason Murphy    Los Angeles  	California  90034-6340  
+2015/7/15  2015/10/15  M  17.6  14  8.68  2  2  1400543  West  48      Jeffrey L Meier    Austin  	Texas  78705-2517  
+2015/8/4  2015/10/4  M  10.1  5.2  3.796  1  0  1402545  West  06      Jose I Rodriguez    Berkeley  	California  94709-2154  
+2015/2/2  2015/5/2  g  13.9  5.3  4.187  2  0  NNX14AF24G  West  15      RYAN OGLIORE    HONOLULU  	Hawaii  96822-2247  
+2015/5/2  2015/8/2  m  22.8  9.3  5.766  1  1  1347987  West  06      Craig E Manning  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/4/23  2015/5/23  q  24.6  22.3  11.596  2  0  1363243  West  06      Jeffrey M Moehlis  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/9/17  2015/12/17  Q  17.5  14  7.98  2  2  1416963  West  18      Jeremy M Smith  509 E 3RD ST  Bloomington  	Indiana  47401-3654  
+2015/1/19  2015/3/19  M  8.5  7.5  5.7  1  0  NNX14AD95G  West  48      ZHONG LU    DALLAS  	Texas  75275-0302  
+2015/6/1  2015/9/1  g  15.3  11.7  7.02  1  0  1407371  West  06      Maja J Mataric  University Park  Los Angeles  	California  90089-0701  
+2015/5/21  2015/7/21  g  18.5  16.5  12.045  2  1  1433543  West  06      Stephen R Kane  1600 Holloway Ave  San Francisco  	California  94132-1722  
+2015/1/17  2015/3/17  M  18.6  16.9  12.675  0  0  NNX14AF37A  West  18      BARRETT CALDWELL    WEST LAFAYETTE  	Indiana  47907-2024  
+2015/4/26  2015/6/26  Q  7.3  6.1  4.453  2  2  1347132  West  48      Toshiaki Shinoda  6300 Ocean Drive  Corpus Christi  	Texas  78412-5503  
+2015/4/11  2015/5/11  Q  8.5  7.1  4.473  1  0  1359417  West  40      Michael G Strauss  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/12/22  2016/1/22  Q  13.9  11.3  8.701  0  0  NNX14AE78G  West  08      MICHAEL KING    BOULDER  	Colorado  80303-1058  
+2015/11/6  2015/12/6  G  12  6.3  3.213  2  1  1358621  West  06      Jasper F Kok  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/3/18  2015/5/18  g  24  16.8  13.776  0  0  1353566  West  06      Bhavik Joshi  106 Lincoln Blvd, Ste 213  San Francisco  	California  94129-1775  
+2015/12/5  2016/1/5  q  7.2  5.9  4.248  1  0  NNX14AF15G  West  48      ANDREW DESSLER    COLLEGE STATION  	Texas  77845-4375  
+2015/10/22  2015/12/22  g  19.6  5.2  3.796  2  2  1348666  West  06      Rena Dorph  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/10/11  2016/1/11  q  13.9  13  6.5  0  2  1351909  West  08      Salman R Khetani  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/8/9  2015/10/9  M  9.4  5.6  4.424  0  1  1349650  West  49      Randall B Irmis  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/3/27  2015/4/27  M  21.4  14.8  9.324  0  1  1354519  West  08      John W Hess  3300 PENROSE PL  BOULDER  	Colorado  80301-1180  
+2015/1/8  2015/2/8  m  13.1  8.3  5.146  2  0  1406366  West  06      Suzanne Edmands  University Park  Los Angeles  	California  90089-0701  
+2015/12/27  2016/1/27  G  12.6  7.6  6.156  2  2  1406306  West  06      Suzanne Edmands  University Park  Los Angeles  	California  90089-0701  
+2015/2/10  2015/4/10  M  25  13.7  8.768  0  2  1352632  West  08      Alaa A Ahmed  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/11/28  2015/12/28  Q  12.9  5  3.2  2  0  1419245  West  40      Leland C Bement  201 David L. Boren Blvd.  NORMAN  	Oklahoma  73019-5300  
+2015/8/20  2015/11/20  G  24.2  14.8  11.544  2  0  1352963  West  06      Jessica Riskin  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/1/8  2015/2/8  Q  12.7  9.3  6.138  1  1  1351311  West  35      Jason Jackiewicz  Corner of Espina St. & Stewart  Las Cruces  	New Mexico  88003-8002  
+2015/5/13  2015/7/13  M  14.8  12.7  8.382  2  0  1405526  West  48      Ryan B Wicker  ADMIN BLDG RM 209  ElPaso  	Texas  79968-0587  
+2015/2/16  2015/3/16  g  18.6  11.5  8.97  0  2  NNX14AE17G  West  48      DAVID NESVORNY    SAN ANTONIO  	Texas  78238-5166  
+2015/1/10  2015/3/10  g  6.4  6.2  3.348  0  1  1402846  West  48      Gerard L Cote  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/1/21  2015/2/21  Q  17.6  16.6  12.782  1  1  1433021  West  32      Javier Rojo  1664 North Virginia Street  Reno  	Nevada  89557-0325  
+2015/11/26  2016/2/26  Q  19.8  10.7  6.527  2  0  1416689  West  56      Hakima Bessaih  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/3/20  2015/6/20  g  7.3  6.7  3.484  2  0  1352587  West  06      Ryan Shenvi  10550 N TORREY PINES RD  LA JOLLA  	California  92037-1000  
+2015/8/8  2015/10/8  q  10.5  7.5  5.925  2  2  1348050  West  48      James E Gardner  101 E. 27th Street, Suite 5.300  Austin  	Texas  78712-1532  
+2015/10/25  2016/1/25  m  12.8  6.6  5.148  2  0  1348003  West  06      Bradley R Hacker  Office of Research  SANTA BARBARA  	California  93106-2050  
+2015/7/9  2015/8/9  q  16.8  10  7.7  1  2  1349858  West  06      Jess F Adkins  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/4/12  2015/5/12  G  9.4  5.8  4.292  1  0  1362135  West  08      Maciej S Kumosa  2199 S. University Blvd.  Denver  	Colorado  80208-0000  
+2015/7/6  2015/10/6  q  23.8  22.1  14.365  0  1  1423989  West  08      Roy L Mauldin  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/5/11  2015/8/11  g  18.6  8.7  4.959  2  0  1345173  West  48      Shishir Shishodia  3100 Cleburne Street  Houston  	Texas  77004-4501  
+2015/9/4  2015/10/4  g  14  6.1  3.416  2  2  1419952  West  06      Bin Tang  1000 East Victoria Street  Carson  	California  90747-0001  
+2015/4/28  2015/5/28  g  17.9  10.8  6.912  0  2  1419377  West  06      S.J.Ben Yoo  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/10/18  2016/1/18  m  9.2  7.8  5.85  0  2  1408849  West  18      Julia Williams  5500 Wabash Avenue  Terre Haute  	Indiana  47803-3920  
+2015/12/19  2016/2/19  g  18.6  11.2  7.952  2  1  1357243  West  04      Everett L Shock  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/9/23  2015/12/23  G  13.1  10.9  8.502  0  1  1358939  West  48      Anne H Ngu  601 University Drive  San Marcos  	Texas  78666-4616  
+2015/6/7  2015/9/7  M  19  14.8  11.396  2  0  1354544  West  32      Rebecca Gill  4505 MARYLAND PARKWAY  LAS VEGAS  	Nevada  89154-1055  
+2015/10/15  2015/12/15  m  13.5  9.4  6.768  0  1  NNX14AD34G  West  06      OSWALD SIEGMUND    BERKELEY  	California  94704-5940  
+2015/6/25  2015/8/25  M  10.6  9.9  7.821  2  0  1350800  West  48      Anton Malko  800 W. Campbell Rd.  Richardson  	Texas  75080-3021  
+2015/3/12  2015/5/12  g  8.9  7.1  4.047  0  0  NNX14AE13H  West  08      RYAN STARKEY    BOULDER  	Colorado  80303-1058  
+2015/1/5  2015/3/5  g  23.7  17  9.18  1  1  NNX14AE06G  West  08      WENBIN WANG    BOULDER  	Colorado  80301-2252  
+2015/3/11  2015/4/11  q  17.1  7.2  4.464  2  1  NNX14AE21G  West  06      MATTHEW FRENCH    LOS ANGELES  	California  90089-0001  
+2015/8/23  2015/10/23  Q  20.4  8  4.72  2  0  1430856  West  48      Yong Chen  349 Administration Bldg  Lubbock  	Texas  79409-1035  
+2015/10/23  2016/1/23  g  19.8  14.1  7.05  0  1  NNX14AD83G  West  08      ANNE K SMITH    BOULDER  	Colorado  80301-2252  
+2015/12/3  2016/2/3  g  14  12.8  7.04  2  2  1356790  West  06      Mark A Richards  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/1/6  2015/4/6  m  24.1  18.4  11.408  0  2  1351272  West  18      Ashley P Thrall  940 Grace Hall  NOTRE DAME  	Indiana  46556-5708  
+2015/3/3  2015/5/3  M  7.6  5.3  3.869  1  2  1359484  West  06      Roummel F Marcia  5200 North Lake Road  Merced  	California  95343-5001  
+2015/2/18  2015/4/18  Q  21  6.9  5.244  1  1  1424544  West  49      Karen L Kramer  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/9/17  2015/10/17  G  15.5  10  7.9  2  1  1352080  West  19      Levi Stanley  1138 Pearson  AMES  	Iowa  50011-2207  
+2015/12/6  2016/1/6  g  20.6  16.6  10.458  1  1  NNX14AD90G  West  02      SKIP WALKER    FAIRBANKS  	Alaska  99709-3705  
+2015/12/28  2016/2/28  q  7.1  6.4  4.736  1  2  1264832  West  48      Carl A Gregory  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/7/25  2015/9/25  m  24.2  20.1  10.452  0  2  NNX14AD69G  West  19      CHRISTOPHER BECKERMANN    IOWA CITY  	Iowa  52242-1316  
+2015/3/5  2015/5/5  Q  17.6  10.4  6.552  1  0  1353318  West  06      Robin V Ihnfeldt  1652 Reed Avenue, Suite #3  San Diego  	California  92109-5431  
+2015/11/16  2016/1/16  g  23.7  12.2  8.784  0  2  NNX14AE03G  West  08      THOMAS WOODS    BOULDER  	Colorado  80303-1058  
+2015/4/6  2015/6/6  g  6.6  6.3  3.717  2  1  1356972  West  15      R Seth Calderhead  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/12/22  2016/2/22  m  6.8  6.5  4.94  1  0  1357072  West  06      Lynne D Talley  8602 La Jolla Shores Dr  LA JOLLA  	California  92093-0210  
+2015/6/13  2015/7/13  M  6.4  5.8  4.176  1  0  1324025  West  06      Philip G Roeder  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/3/23  2015/4/23  M  16.5  14.4  7.92  0  1  1352443  West  18      Jill Lany  940 Grace Hall  NOTRE DAME  	Indiana  46556-5612  
+2015/12/7  2016/1/7  Q  23.5  23.2  16.008  1  1  NNX14AD17A  West  06      SUSAN MILLER    PALMDALE  	California  93550-4609  
+2015/3/5  2015/6/5  q  15.6  10.9  6.213  1  0  1351760  West  40      Michael W Keller  800 S. Tucker Drive  Tulsa  	Oklahoma  74104-9700  
+2015/8/12  2015/9/12  g  8  6.5  3.51  0  0  NNX14AD26G  West  06      ANDREA ISELLA    PASADENA  	California  91125-0001  
+2015/8/4  2015/11/4  G  18.5  15.5  8.525  1  2  NNX14AD46G  West  48      YUE DENG    ARLINGTON  	Texas  76019-0001  
+2015/5/4  2015/8/4  M  25  14  10.64  0  1  1351115  West  06      Philip L Brisk  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/4/2  2015/6/2  G  19.2  11.1  7.215  2  1  NNX14AC99G  West  49      DORAN BAKER    LOGAN  	Utah  84322-0001  
+2015/2/22  2015/5/22  m  8.3  5.3  2.65  1  1  1348413  West  02      John D Monahan  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/10/15  2015/12/15  m  8.1  7.2  5.256  0  2  1345232  West  35      Enrico Pontelli  Corner of Espina St. & Stewart  Las Cruces  	New Mexico  88003-8002  
+2015/3/7  2015/5/7  M  11.7  6.1  4.697  1  1  1350302  West  06      Ricardo M Zayas  5250 Campanile Drive  San Diego  	California  92182-2190  
+2015/8/17  2015/10/17  m  13.9  9.3  6.696  1  0  1357042  West  06      Francisco Chavez  7700 SANDHOLDT RD  MOSS LANDING  	California  95039-9644  
+2015/11/4  2015/12/4  Q  6  5.3  3.975  2  1  1265967  West  06      Mostafa El-Alaoui  11000 Kinross Avenue, Suite 211  LOS ANGELES  	California  90095-2000  
+2015/3/4  2015/5/4  m  13.6  10.9  5.668  0  2  1400472  West  49      Matthew Might  75 S 2000 E  SALT LAKE CITY  	Utah  84112-8930  
+2015/7/11  2015/11/11  m  10.3  6.6  4.554  0  0  1418062  West  35      Julia E Coonrod  1700 Lomas Blvd. NE, Suite 2200  ALBUQUERQUE  	New Mexico  87131-0001  
+2015/7/20  2015/9/20  M  9.3  8.9  5.963  0  0  1346687  West  48      Marius Necsoiu  6220 Culebra Road  San Antonio  	Texas  78238-5166  
+2015/5/28  2015/7/28  q  9.7  9.3  4.929  2  0  1418922  West  48      Robin R Murphy  TEES State Headquarters Bldg.  College Station  	Texas  77845-4645  
+2015/9/27  2015/12/27  m  12.7  10.4  6.76  2  0  NNX14AC74A  West  06      ADITYA SARAF    CAMPBELL  	California  95008-6902  
+2015/8/14  2015/10/14  M  24.4  12.4  8.308  2  2  1362025  West  04      Jane Buikstra  ORSPA  TEMPE  	Arizona  85281-6011  
+2015/1/17  2015/3/17  m  5.3  5.3  3.233  1  0  NNX14AC50G  West  06      ULRIKE LUDERER    IRVINE  	California  92617-3067  
+2015/8/24  2015/10/24  g  14.1  9.5  7.41  1  2  NNX14AC52G  West  48      PETER BROWN    COLLEGE STATION  	Texas  77845-4375  
+2015/6/27  2015/7/27  Q  11.2  7.7  5.005  2  0  NNX14AC16G  West  06      DREW TURNER    LOS ANGELES  	California  90095-2000  
+2015/5/17  2015/7/17  m  16.9  12.1  6.655  1  1  1346191  West  06      Billy K Poon  1737 Solano Avenue #204  Berkeley  	California  94707-2201  
+2015/4/8  2015/6/8  G  17.2  10.4  6.656  0  2  1346122  West  08      Bryce R Shaffer  3001 Industrial Ln. #3  Broomfield  	Colorado  80020-7153  
+2015/12/21  2016/1/21  g  22.8  6.5  4.485  2  2  NNX14AC42G  West  06      CLARISSA ANDERSON    SANTA CRUZ  	California  95064-1077  
+2015/1/24  2015/3/24  M  20.7  16.9  12.168  1  1  1363427  West  08      Shelly L Miller  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
+2015/12/2  2016/1/2  M  19.3  20.2  11.102  0  1  1355468  West  15      Gregory F Moore  2440 Campus Road, Box 368  HONOLULU  	Hawaii  96822-2234  
+2015/6/16  2015/9/16  M  19.8  12.4  8.184  1  1  1322814  West  06      Keith Johnson  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/12/7  2016/2/7  M  24.1  12.8  7.68  0  0  1346168  West  06      Navraj Chohan  615 State Street  Santa Barbara  	California  93101-3301  
+2015/6/18  2015/8/18  q  7  5  3.85  1  2  1346523  West  06      Barry D Olafson  251 South Lake Ave., Suite 910  Pasadena  	California  91101-3022  
+2015/6/20  2015/8/20  g  12  7.9  4.898  1  2  1346341  West  40      Michael Moradi-Araghi  840 Research Parkway, Suite 507  Oklahoma City  	Oklahoma  73104-3616  
+2015/9/5  2015/10/5  Q  13.5  10  5.3  0  1  1345662  West  49      Nicole T Davis  4249 Foothill Drive  Bountiful  	Utah  84010-6041  
+2015/8/3  2015/10/3  M  11  7.4  4.44  1  2  1346254  West  48      Kyle Kissell  2315 Schlumberger St.  Houston  	Texas  77023-5010  
+2015/9/13  2015/11/13  q  6.9  6.7  4.422  0  0  1360637  West  02      David C Koester  West Ridge Research Bldg 008  Fairbanks  	Alaska  99775-7270  
+2015/9/12  2015/10/12  q  24.1  13.1  7.86  1  2  1346283  West  06      Jason R Schweinsberg  Office of Contract & Grant Admin  La Jolla  	California  92093-0934  
+2015/1/22  2015/4/22  M  21.4  21.2  17.384  2  0  1258120  West  48      Alan E Pepper  400 Harvey Mitchell Pkwy South  College Station  	Texas  77845-4375  
+2015/9/8  2015/10/8  g  5.8  5.8  3.422  0  0  1345739  West  06      Jeff Schlosser  1114 Boranda Ave  Mountain View  	California  94040-3145  
+2015/3/27  2015/4/27  G  20.8  12.7  7.747  0  1  1346150  West  06      Greg Mungas  1124 Flightline St #64  Mojave  	California  93501-1610  
+2015/4/9  2015/6/9  g  8  6.9  5.313  2  1  1338247  West  48      Joseph D White  One Bear Place #97360  Waco  	Texas  76798-7360  
+2015/8/14  2015/10/14  Q  5.1  5.1  2.907  2  2  NNX14AB71G  West  40      YANG HONG    NORMAN  	Oklahoma  73019-4039  
+2015/5/26  2015/7/26  Q  11.6  6.4  5.056  0  1  1345404  West  49      Jared L Sommer  587 NORTH MAIN STREET  North Salt Lake  	Utah  84054-2101  
+2015/11/20  2016/2/20  Q  21.9  21.8  13.298  0  2  1345506  West  08      Jeffrey Holt  P.O. Box 39  Boulder  	Colorado  80306-0039  
+2015/12/9  2016/1/9  m  24.2  20.1  15.477  1  1  1345922  West  06      Ramesh Baliga  1230 Bordeaux Drive  Sunnyvale  	California  94089-0000  
+2015/3/19  2015/6/19  g  24  13.4  9.782  2  1  1318377  West  06      Thomas Y Hou  1200 E California Blvd  PASADENA  	California  91125-0600  
+2015/5/25  2015/6/25  M  20.3  12.9  10.449  1  1  1346176  West  06      Christian A Lang  5385 Hollister Avenue, # 111  Santa Barbara  	California  93111-3021  
+2015/6/28  2015/9/28  g  13.9  12.2  8.784  0  2  1344862  West  08      Branislav M Notaros  601 S Howes St  Fort Collins  	Colorado  80523-2002  
+2015/6/9  2015/7/9  g  23.3  20  14.8  0  1  NNX14AB56G  West  08      JURI TOOMRE    BOULDER  	Colorado  80303-1058  
+2015/3/22  2015/4/22  M  24.1  22.5  15.075  0  2  1342049  West  04      Elizabeth Ritchie  888 N Euclid Ave  TUCSON  	Arizona  85721-0001  
+2015/2/25  2015/3/25  Q  25  8.5  6.715  1  2  1360645  West  06      Lynn M Russell  8602 La Jolla Shores Dr  LA JOLLA  	California  92093-0210  
+2015/8/8  2015/9/8  M  8.1  7.6  4.18  1  0  1342656  West  56      Robert L Kelly  1000 E. University Avenue  Laramie  	Wyoming  82071-2000  
+2015/2/12  2015/3/12  m  14.5  7.5  5.925  0  2  1330321  West  06      Steven M Theg  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/9/28  2015/12/28  g  18.9  13.2  10.032  2  2  NNX14AB37G  West  08      MITCHELL BEGELMAN    BOULDER  	Colorado  80303-1058  
+2015/2/10  2015/4/10  g  21.5  16.5  11.88  2  2  1345296  West  06      Jacqueline Renteria  5410 Canmore Ct.  Riverside  	California  92507-8406  
+2015/3/23  2015/5/23  g  7.9  7.9  4.898  1  2  1345452  West  48      Mithun Balakrishna  901 Waterfall Way  Richardson  	Texas  75080-3587  
+2015/9/19  2015/10/19  m  23.3  11.5  6.785  2  2  1346142  West  08      Anurag Agrawal  1815 BLUEBELL AVE  BOULDER  	Colorado  80302-8021  
+2015/6/16  2015/7/16  m  8.1  6.7  5.025  0  2  1346482  West  06      Giovanni Paternostro  14020 Boquita Dr.  Del Mar  	California  92014-2945  
+2015/6/21  2015/9/21  q  20.8  19.6  14.7  1  0  1407834  West  06      Shawn C Shadden  Sponsored Projects Office  BERKELEY  	California  94704-5940  
+2015/8/6  2015/11/6  M  24.9  7.7  5.852  1  1  1346079  West  40      SaravanKumar Shanmugavelayudam  1414 S Sangre Road  Stillwater  	Oklahoma  74074-1810  
+2015/1/18  2015/3/18  g  16.5  13.7  7.809  2  1  1355459  West  06      Savithramma P Dinesh-Kumar  OR/Sponsored Programs  Davis  	California  95618-0000  
+2015/4/6  2015/6/6  q  12.6  10.5  7.14  2  0  1345920  West  06      Jeffrey Dietrich  636 San Pablo Avenue  Albany  	California  94706-0000  
+2015/7/17  2015/8/17  G  6.7  6  4.68  1  0  1347565  West  06      Matthias Ihme  3160 Porter Drive  Palo Alto  	California  94304-1212  
+2015/11/2  2016/9/2  g  2.3  5.1  93.468  0  2  1345718  West  06      Smita Bakshi  24652 Hutchinson Road  Los Gatos  	California  95033-9410  
+2015/10/17  2016/1/17  g  13.2  11.4  7.182  2  2  1350401  West  06      Chia-en A Chang  Office of Research  RIVERSIDE  	California  92521-1000  
+2015/11/7  2015/12/7  M  5.8  5.1  2.907  1  2  1333025  West  08      Anne F Sheehan  3100 Marine Street, Room 481  Boulder  	Colorado  80309-0572  
